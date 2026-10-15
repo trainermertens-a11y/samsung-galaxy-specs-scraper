@@ -4,7 +4,4 @@ __pycache__/
 *.py[cod]
 .DS_Store
 
-output/*
-!output/.gitkeep
-
 .env
