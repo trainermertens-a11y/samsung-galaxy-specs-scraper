@@ -1,0 +1,24 @@
+DEVICE: GALAXY Y
+URL: https://www.samsungmobilepress.com/media-assets/galaxy-y
+
+SPECIFICATIONS
+Network - HSDPA 7.2 900/2100 EDGE/GPRS 850/900/1800/1900
+Processor - 832MHz Processor
+Display - 3.0" QVGA(320x240) TFT LCD
+OS - Android 2.3(Gingerbread)
+Camera - Main(Rear): 2 MP Panorama Shot, Smile Shot
+Video - Codec : MPEG4/H.263/H.264 Format: 3GPP, MPEG4, MKV Playback : VGA@30fps Recording : QVGA @ 15fps
+Audio - Codec : MP3,AMR-NB, AMR-WB, AAC, AAC , e-AAC , i-Melody, Midi(SMF)/ WAV/ OGG Music Player with SoundAlive 3.5mm Ear Jack, Stereo FM Radio with RDS
+Value-added Features - Samsung Apps Samsung Kies 2.0 Samsung TouchWiz Social Hub - Integrated Messaging(Email, IM, SNS), Contacts/ Calendar Sync - Basic: POP3/IMAP Email & IM Google™ Mobile Services - Gmail™, Google Talk™, Google Search™, YouTube™, Android Market™ - Google Maps™ with Google Latitude A-GPS Swype Document Viewer
+Connectivity - Bluetooth® technology v 3.0 HS USB 2.0 Wi-Fi 802.11 b/g/n
+Sensor - Accelerometer, Digital compass, Proximity
+Memory - 160MB Internal memory 2GB inbox microSD (up to 32GB)
+Size - 104 x 58 x 11.5mm, 97.5 g
+Battery - Standard battery, Li-on 1,200 mAh Talk Time : 300 min(3G) Standby Time : 350 hours(3G)
+
+ADDITIONAL SPECIFICATION CONTENT
+Images Videos Tech Specs Related Articles Samsung GALAXY Y Product Specifications Network HSDPA 7.2 900/2100 EDGE/GPRS 850/900/1800/1900 Processor 832MHz Processor Display 3.0" QVGA(320x240) TFT LCD OS Android 2.3(Gingerbread) Camera Main(Rear): 2 MP Panorama Shot, Smile Shot Video Codec : MPEG4/H.263/H.264 Format: 3GPP, MPEG4, MKV Playback : VGA@30fps Recording : QVGA @ 15fps Audio Codec : MP3,AMR-NB, AMR-WB, AAC, AAC , e-AAC , i-Melody, Midi(SMF)/ WAV/ OGG Music Player with SoundAlive 3.5mm Ear Jack, Stereo FM Radio with RDS Value-added Features Samsung Apps Samsung Kies 2.0 Samsung TouchWiz Social Hub - Integrated Messaging(Email, IM, SNS), Contacts/ Calendar Sync - Basic: POP3/IMAP Email & IM Google™ Mobile Services - Gmail™, Google Talk™, Google Search™, YouTube™, Android Market™ - Google Maps™ with Google Latitude A-GPS Swype Document Viewer Connectivity Bluetooth® technology v 3.0 HS USB 2.0 Wi-Fi 802.11 b/g/n Sensor Accelerometer, Digital compass, Proximity Memory 160MB Internal memory 2GB inbox microSD (up to 32GB) Size 104 x 58 x 11.5mm, 97.5 g Battery Standard battery, Li-on 1,200 mAh Talk Time : 300 min(3G) Standby Time : 350 hours(3G)
+
+Samsung GALAXY Y Product Specifications Network HSDPA 7.2 900/2100 EDGE/GPRS 850/900/1800/1900 Processor 832MHz Processor Display 3.0" QVGA(320x240) TFT LCD OS Android 2.3(Gingerbread) Camera Main(Rear): 2 MP Panorama Shot, Smile Shot Video Codec : MPEG4/H.263/H.264 Format: 3GPP, MPEG4, MKV Playback : VGA@30fps Recording : QVGA @ 15fps Audio Codec : MP3,AMR-NB, AMR-WB, AAC, AAC , e-AAC , i-Melody, Midi(SMF)/ WAV/ OGG Music Player with SoundAlive 3.5mm Ear Jack, Stereo FM Radio with RDS Value-added Features Samsung Apps Samsung Kies 2.0 Samsung TouchWiz Social Hub - Integrated Messaging(Email, IM, SNS), Contacts/ Calendar Sync - Basic: POP3/IMAP Email & IM Google™ Mobile Services - Gmail™, Google Talk™, Google Search™, YouTube™, Android Market™ - Google Maps™ with Google Latitude A-GPS Swype Document Viewer Connectivity Bluetooth® technology v 3.0 HS USB 2.0 Wi-Fi 802.11 b/g/n Sensor Accelerometer, Digital compass, Proximity Memory 160MB Internal memory 2GB inbox microSD (up to 32GB) Size 104 x 58 x 11.5mm, 97.5 g Battery Standard battery, Li-on 1,200 mAh Talk Time : 300 min(3G) Standby Time : 350 hours(3G)
+
+--------------------------------------------------------------------------------

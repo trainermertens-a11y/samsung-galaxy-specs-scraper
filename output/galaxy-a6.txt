@@ -1,0 +1,25 @@
+DEVICE: Galaxy A6+
+URL: https://www.samsungmobilepress.com/media-assets/galaxy_a6plus
+
+SPECIFICATIONS
+Display - 6.0” FHD+ (1080x2220) Super AMOLED
+Camera - Rear 16MP AF (F1.7) + 5MP FF (F1.9) Front 24MP FF (F1.9)
+Dimension - 160.2 x 75.7 x 7.9 mm
+AP - Octa Core 1.8GHz
+Memory 1 - 3GB / 4GB RAM 32GB / 64GB Internal Storage Up to 256GB Micro SD
+Battery - 3,500mAh
+OS - Android 8.0
+Network - LTE Cat.6, 2CA
+Connectivity - Wi-Fi 802.11 a/b/g/n (2.4/5GHz), HT40, Bluetooth® v 4.2 (LE up to 1Mbps), ANT+, USB Type-B, NFC(optional*), Location (GPS, Glonass, BeiDou**) *May vary by country **BeiDou coverage may be limited.
+Sonsors - Accelerometer, Fingerprint Sensor, Gyro Sensor, Geomagnetic Sensor, Hall Sensor, Proximity Sensor, RGB Light Sensor
+Audio - MP3, M4A, 3GA, AAC, OGG, OGA, WAV, WMA, AMR, AWB, FLAC, MID, MIDI, XMF, MXMF, IMY, RTTTL, RTX, OTA
+Video - MP4, M4V, 3GP, 3G2, WMV, ASF, AVI, FLV, MKV, WEBM
+
+ADDITIONAL SPECIFICATION CONTENT
+Smartphone Galaxy A6+
+
+Images Videos Tech Specs Related Articles Samsung Galaxy A6+ Display 6.0” FHD+ (1080x2220) Super AMOLED Camera Rear 16MP AF (F1.7) + 5MP FF (F1.9) Front 24MP FF (F1.9) Dimension 160.2 x 75.7 x 7.9 mm AP Octa Core 1.8GHz Memory 1 3GB / 4GB RAM 32GB / 64GB Internal Storage Up to 256GB Micro SD Battery 3,500mAh OS Android 8.0 Network LTE Cat.6, 2CA Connectivity Wi-Fi 802.11 a/b/g/n (2.4/5GHz), HT40, Bluetooth® v 4.2 (LE up to 1Mbps), ANT+, USB Type-B, NFC(optional*), Location (GPS, Glonass, BeiDou**) *May vary by country **BeiDou coverage may be limited. Sonsors Accelerometer, Fingerprint Sensor, Gyro Sensor, Geomagnetic Sensor, Hall Sensor, Proximity Sensor, RGB Light Sensor Audio MP3, M4A, 3GA, AAC, OGG, OGA, WAV, WMA, AMR, AWB, FLAC, MID, MIDI, XMF, MXMF, IMY, RTTTL, RTX, OTA Video MP4, M4V, 3GP, 3G2, WMV, ASF, AVI, FLV, MKV, WEBM 1 Specification of RAM/ROM may vary by country
+
+Samsung Galaxy A6+ Display 6.0” FHD+ (1080x2220) Super AMOLED Camera Rear 16MP AF (F1.7) + 5MP FF (F1.9) Front 24MP FF (F1.9) Dimension 160.2 x 75.7 x 7.9 mm AP Octa Core 1.8GHz Memory 1 3GB / 4GB RAM 32GB / 64GB Internal Storage Up to 256GB Micro SD Battery 3,500mAh OS Android 8.0 Network LTE Cat.6, 2CA Connectivity Wi-Fi 802.11 a/b/g/n (2.4/5GHz), HT40, Bluetooth® v 4.2 (LE up to 1Mbps), ANT+, USB Type-B, NFC(optional*), Location (GPS, Glonass, BeiDou**) *May vary by country **BeiDou coverage may be limited. Sonsors Accelerometer, Fingerprint Sensor, Gyro Sensor, Geomagnetic Sensor, Hall Sensor, Proximity Sensor, RGB Light Sensor Audio MP3, M4A, 3GA, AAC, OGG, OGA, WAV, WMA, AMR, AWB, FLAC, MID, MIDI, XMF, MXMF, IMY, RTTTL, RTX, OTA Video MP4, M4V, 3GP, 3G2, WMV, ASF, AVI, FLV, MKV, WEBM 1 Specification of RAM/ROM may vary by country
+
+--------------------------------------------------------------------------------

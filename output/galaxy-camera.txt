@@ -1,0 +1,32 @@
+DEVICE: GALAXY Camera
+URL: https://www.samsungmobilepress.com/media-assets/galaxy-camera
+
+SPECIFICATIONS
+Image Sensor - 16.3 effective megapixel 1/2.3" BSI CMOS
+Lens - 21x Optical Zoom Lens, 23 mm Wide Angle, F2.8 (W) ~ 5.9(T)
+IS - OIS (Optical Image Stabilization)
+Display - 121.2 mm (4.8"), 308 ppi, HD Super Clear Touch Display
+ISO - Auto, 100, 200, 400, 800, 1600, 3200
+Network - 4G, 3G (HSPA+ 21Mbps): 850 / 900 / 1900 / 2100 MHz
+Processor - 1.4GHz Quad-Core processor
+OS - Android 4.1 (Jelly Bean)
+Memory - 8G Byte (including read-only sections such as Android operating system) + memory slot : micro SDSC, micro SDHC, micro SDXC
+Image - JPEG format 16M, 14M, 12M Wide, 10M, 5M, 3M, 2M Wide, 1M
+Video - MP4 (Video: MPEG4, AVC/H.264, Audio: AAC) Full HD 1920x1080 30fps Slow motion Video 768 x 512 (WVGA) 120fps
+Video Output - HDMI 1.4
+Value-added Features - Smart Mode : 15 modes (Beauty face, Best photo, Continuous shot, Best face, Landscape, Macro, Action freeze, Rich tone, Panorama, Waterfall, Silhouette, Sunset, Night, Fireworks, Light trace
+Google™ Mobile Services - Google Search, Google Maps, Gmail, Google Latitude Google Play Store, Google Plus, YouTube, Google Talk, Google Local, Google Navigation, Google Chrome browser, Google Play Books, Google Play Movies
+GPS - A-GPS, GLONASS
+Connectivity - WiFi a/b/g/n, WiFi HT40 GPS/GLONASS Bluetooth® 4.0
+Battery - 1,650 mAh
+Dimension (WxHxD) - 128.7 x 70.8 x 19.1 mm
+Weight - 300g
+
+ADDITIONAL SPECIFICATION CONTENT
+Others GALAXY Camera
+
+Images Videos Tech Specs Related Articles Samsung Galaxy Camera Product Specifications Image Sensor 16.3 effective megapixel 1/2.3" BSI CMOS Lens 21x Optical Zoom Lens, 23 mm Wide Angle, F2.8 (W) ~ 5.9(T) IS OIS (Optical Image Stabilization) Display 121.2 mm (4.8"), 308 ppi, HD Super Clear Touch Display ISO Auto, 100, 200, 400, 800, 1600, 3200 Network 4G, 3G (HSPA+ 21Mbps): 850 / 900 / 1900 / 2100 MHz Processor 1.4GHz Quad-Core processor OS Android 4.1 (Jelly Bean) Memory 8G Byte (including read-only sections such as Android operating system) + memory slot : micro SDSC, micro SDHC, micro SDXC Image JPEG format 16M, 14M, 12M Wide, 10M, 5M, 3M, 2M Wide, 1M Video MP4 (Video: MPEG4, AVC/H.264, Audio: AAC) Full HD 1920x1080 30fps Slow motion Video 768 x 512 (WVGA) 120fps Video Output HDMI 1.4 Value-added Features Smart Mode : 15 modes (Beauty face, Best photo, Continuous shot, Best face, Landscape, Macro, Action freeze, Rich tone, Panorama, Waterfall, Silhouette, Sunset, Night, Fireworks, Light trace Share shot, Auto Upload Smart Content Manager, Photo Wizard, Paper Artist, Video Editor Voice Control, Slow Motion Video, S Planner, S Suggest AllShare Play, Drop box Family Story (Downloadable via Samsung Apps) Google™ Mobile Services Google Search, Google Maps, Gmail, Google Latitude Google Play Store, Google Plus, YouTube, Google Talk, Google Local, Google Navigation, Google Chrome browser, Google Play Books, Google Play Movies GPS A-GPS, GLONASS Connectivity WiFi a/b/g/n, WiFi HT40 GPS/GLONASS Bluetooth® 4.0 Battery 1,650 mAh Dimension (WxHxD) 128.7 x 70.8 x 19.1 mm Weight 300g
+
+Samsung Galaxy Camera Product Specifications Image Sensor 16.3 effective megapixel 1/2.3" BSI CMOS Lens 21x Optical Zoom Lens, 23 mm Wide Angle, F2.8 (W) ~ 5.9(T) IS OIS (Optical Image Stabilization) Display 121.2 mm (4.8"), 308 ppi, HD Super Clear Touch Display ISO Auto, 100, 200, 400, 800, 1600, 3200 Network 4G, 3G (HSPA+ 21Mbps): 850 / 900 / 1900 / 2100 MHz Processor 1.4GHz Quad-Core processor OS Android 4.1 (Jelly Bean) Memory 8G Byte (including read-only sections such as Android operating system) + memory slot : micro SDSC, micro SDHC, micro SDXC Image JPEG format 16M, 14M, 12M Wide, 10M, 5M, 3M, 2M Wide, 1M Video MP4 (Video: MPEG4, AVC/H.264, Audio: AAC) Full HD 1920x1080 30fps Slow motion Video 768 x 512 (WVGA) 120fps Video Output HDMI 1.4 Value-added Features Smart Mode : 15 modes (Beauty face, Best photo, Continuous shot, Best face, Landscape, Macro, Action freeze, Rich tone, Panorama, Waterfall, Silhouette, Sunset, Night, Fireworks, Light trace Share shot, Auto Upload Smart Content Manager, Photo Wizard, Paper Artist, Video Editor Voice Control, Slow Motion Video, S Planner, S Suggest AllShare Play, Drop box Family Story (Downloadable via Samsung Apps) Google™ Mobile Services Google Search, Google Maps, Gmail, Google Latitude Google Play Store, Google Plus, YouTube, Google Talk, Google Local, Google Navigation, Google Chrome browser, Google Play Books, Google Play Movies GPS A-GPS, GLONASS Connectivity WiFi a/b/g/n, WiFi HT40 GPS/GLONASS Bluetooth® 4.0 Battery 1,650 mAh Dimension (WxHxD) 128.7 x 70.8 x 19.1 mm Weight 300g
+
+--------------------------------------------------------------------------------

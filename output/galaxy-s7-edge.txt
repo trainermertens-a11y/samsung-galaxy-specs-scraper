@@ -1,0 +1,28 @@
+DEVICE: Galaxy S7 edge
+URL: https://www.samsungmobilepress.com/media-assets/galaxy-s7-edge
+
+SPECIFICATIONS
+Galaxy S7 - Galaxy S7 edge
+OS - Android 6.0
+Network - LTE Cat. 16* *May differ by markets and mobile operators
+Dimension - 142.4 x 69.6 x 7.9mm, 152g - 150.9 x 72.6 x 7.7mm, 157g
+AP - Octa core (2.3GHz Quad + 1.6GHz Quad), 64 bit, 14 nm process Quad core (2.15GHz Dual + 1.6GHz Dual), 64 bit, 14 nm process * May differ by markets and mobile operators
+Memory - 4GB RAM (LPDDR4), 32/64GB (UFS 2.0) + microSD (up to 256GB)
+Display - 5.1” Quad HD Super AMOLED 2560 X 1440 (577ppi) - 5.5” Quad HD Super AMOLED 2560 X 1440 (534ppi) Edge Screen
+Camera - Rear: Dual Pixel 12MP (F1.7), Smart OIS Front: 5MP (F1.7)
+Battery - 3,000mAh - 3,600mAh
+Payment - NFC, MST
+Connectivity - WiFi 802.11 a/b/g/n/ac (2.4/5GHz), MIMO, Bluetooth ® v 4.2 LE, ANT+, USB 2.0, NFC, Location
+Sensor - Accelerometer, Proximity, RGB Light, Geo-magnetic, Gyro, Fingerprint, Barometer, Hall, HRM
+IP Code - IP68
+Audio - MP3, M4A, 3GA, AAC, OGG, OGA, WAV, WMA, AMR, AWB, FLAC, MID, MIDI, XMF, MXMF, IMY, RTTTL, RTX, OTA
+Video - MP4, M4V, 3GP, 3G2, WMV, ASF, AVI, FLV, MKV, WEBM
+
+ADDITIONAL SPECIFICATION CONTENT
+Smartphone Galaxy S7 edge
+
+Images Videos Tech Specs Related Articles Galaxy S7 Galaxy S7 edge OS Android 6.0 Network LTE Cat. 16* *May differ by markets and mobile operators Dimension 142.4 x 69.6 x 7.9mm, 152g 150.9 x 72.6 x 7.7mm, 157g AP Octa core (2.3GHz Quad + 1.6GHz Quad), 64 bit, 14 nm process Quad core (2.15GHz Dual + 1.6GHz Dual), 64 bit, 14 nm process * May differ by markets and mobile operators Memory 4GB RAM (LPDDR4), 32/64GB (UFS 2.0) + microSD (up to 256GB) Display 5.1” Quad HD Super AMOLED 2560 X 1440 (577ppi) 5.5” Quad HD Super AMOLED 2560 X 1440 (534ppi) Edge Screen Camera Rear: Dual Pixel 12MP (F1.7), Smart OIS Front: 5MP (F1.7) Battery 3,000mAh 3,600mAh Fast Charging both on wired and wireless Wireless Charging compatible with WPC and Airfuel Payment NFC, MST Connectivity WiFi 802.11 a/b/g/n/ac (2.4/5GHz), MIMO, Bluetooth ® v 4.2 LE, ANT+, USB 2.0, NFC, Location Sensor Accelerometer, Proximity, RGB Light, Geo-magnetic, Gyro, Fingerprint, Barometer, Hall, HRM IP Code IP68 Audio MP3, M4A, 3GA, AAC, OGG, OGA, WAV, WMA, AMR, AWB, FLAC, MID, MIDI, XMF, MXMF, IMY, RTTTL, RTX, OTA Video MP4, M4V, 3GP, 3G2, WMV, ASF, AVI, FLV, MKV, WEBM
+
+Galaxy S7 Galaxy S7 edge OS Android 6.0 Network LTE Cat. 16* *May differ by markets and mobile operators Dimension 142.4 x 69.6 x 7.9mm, 152g 150.9 x 72.6 x 7.7mm, 157g AP Octa core (2.3GHz Quad + 1.6GHz Quad), 64 bit, 14 nm process Quad core (2.15GHz Dual + 1.6GHz Dual), 64 bit, 14 nm process * May differ by markets and mobile operators Memory 4GB RAM (LPDDR4), 32/64GB (UFS 2.0) + microSD (up to 256GB) Display 5.1” Quad HD Super AMOLED 2560 X 1440 (577ppi) 5.5” Quad HD Super AMOLED 2560 X 1440 (534ppi) Edge Screen Camera Rear: Dual Pixel 12MP (F1.7), Smart OIS Front: 5MP (F1.7) Battery 3,000mAh 3,600mAh Fast Charging both on wired and wireless Wireless Charging compatible with WPC and Airfuel Payment NFC, MST Connectivity WiFi 802.11 a/b/g/n/ac (2.4/5GHz), MIMO, Bluetooth ® v 4.2 LE, ANT+, USB 2.0, NFC, Location Sensor Accelerometer, Proximity, RGB Light, Geo-magnetic, Gyro, Fingerprint, Barometer, Hall, HRM IP Code IP68 Audio MP3, M4A, 3GA, AAC, OGG, OGA, WAV, WMA, AMR, AWB, FLAC, MID, MIDI, XMF, MXMF, IMY, RTTTL, RTX, OTA Video MP4, M4V, 3GP, 3G2, WMV, ASF, AVI, FLV, MKV, WEBM
+
+--------------------------------------------------------------------------------

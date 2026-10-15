@@ -1,0 +1,26 @@
+DEVICE: WB2100
+URL: https://www.samsungmobilepress.com/media-assets/wb2100
+
+SPECIFICATIONS
+Image Sensor - 16.38 effective megapixel 1/2.3" BSI CMOS
+Lens - 35x Optical Zoom Lens, 25mm Wide Angle, F3.0(W) ~ 6.0(T)
+IS - OIS
+Display - 76.2mm(3.0”) Tilt TFT LCD screen
+ISO - Auto, 100, 200, 400, 800, 1600, 3200, 6400, 12800 (in special mode)
+Image - JPEG format 16M, 14M, 12M Wide, 10M, 8M, 5M, 3M, 2M Wide, 1M
+Video - MP4 (Video: MPEG4, AVC/H.264, Audio: AAC) 1920x1080(60i), 1280x720(30fps), 640x480(30fps), QVGA(30fps, 30s, Streaming)
+Video output - AV, HDMI 1.4
+Value-Added Features - Smart Auto, Split Shot, Photo Filter, Movie Filter, HDR, Low Night Show(MFNS), Continuous shot,
+Wi-Fi Connectivity - N/A
+Bundle PC software - i-Launcher
+Storage - SDSC (up to 2GB), SDHC (up to 32GB), SDXC (up to 64GB)
+Battery - SLB-10A
+Dimension (WxHxD) - 118.9 x 83.8 x 56.5mm
+Weight - 503g (without battery)
+
+ADDITIONAL SPECIFICATION CONTENT
+Images Videos Tech Specs Related Articles Samsung WB2100 Product Specifications Image Sensor 16.38 effective megapixel 1/2.3" BSI CMOS Lens 35x Optical Zoom Lens, 25mm Wide Angle, F3.0(W) ~ 6.0(T) IS OIS Display 76.2mm(3.0”) Tilt TFT LCD screen ISO Auto, 100, 200, 400, 800, 1600, 3200, 6400, 12800 (in special mode) Image JPEG format 16M, 14M, 12M Wide, 10M, 8M, 5M, 3M, 2M Wide, 1M Video MP4 (Video: MPEG4, AVC/H.264, Audio: AAC) 1920x1080(60i), 1280x720(30fps), 640x480(30fps), QVGA(30fps, 30s, Streaming) Video output AV, HDMI 1.4 Value-Added Features Smart Auto, Split Shot, Photo Filter, Movie Filter, HDR, Low Night Show(MFNS), Continuous shot, Dual Capture: Video 1080/60i with Image 2M High Speed Recording: 360fps(176x128), 240fps(384x288) Wi-Fi Connectivity N/A Bundle PC software i-Launcher Storage SDSC (up to 2GB), SDHC (up to 32GB), SDXC (up to 64GB) Battery SLB-10A Dimension (WxHxD) 118.9 x 83.8 x 56.5mm Weight 503g (without battery)
+
+Samsung WB2100 Product Specifications Image Sensor 16.38 effective megapixel 1/2.3" BSI CMOS Lens 35x Optical Zoom Lens, 25mm Wide Angle, F3.0(W) ~ 6.0(T) IS OIS Display 76.2mm(3.0”) Tilt TFT LCD screen ISO Auto, 100, 200, 400, 800, 1600, 3200, 6400, 12800 (in special mode) Image JPEG format 16M, 14M, 12M Wide, 10M, 8M, 5M, 3M, 2M Wide, 1M Video MP4 (Video: MPEG4, AVC/H.264, Audio: AAC) 1920x1080(60i), 1280x720(30fps), 640x480(30fps), QVGA(30fps, 30s, Streaming) Video output AV, HDMI 1.4 Value-Added Features Smart Auto, Split Shot, Photo Filter, Movie Filter, HDR, Low Night Show(MFNS), Continuous shot, Dual Capture: Video 1080/60i with Image 2M High Speed Recording: 360fps(176x128), 240fps(384x288) Wi-Fi Connectivity N/A Bundle PC software i-Launcher Storage SDSC (up to 2GB), SDHC (up to 32GB), SDXC (up to 64GB) Battery SLB-10A Dimension (WxHxD) 118.9 x 83.8 x 56.5mm Weight 503g (without battery)
+
+--------------------------------------------------------------------------------

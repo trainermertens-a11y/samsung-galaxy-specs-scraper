@@ -1,0 +1,24 @@
+DEVICE: NX300
+URL: https://www.samsungmobilepress.com/media-assets/nx300
+
+SPECIFICATIONS
+Image Sensor - 20.3 effective megapixel APS-C CMOS
+Display - 84.0mm (3.31”) AMOLED with a Tilt Touch Panel WVGA (800x400) 768k dots
+ISO - Auto, 100, 200, 400, 800, 1600, 3200, 6400, 12800, 25600(1 or 1/3EV step) * AUTO ISO upper level is selectable. (Up to ISO3200)
+Image - JPEG (3:2): 20.0M (5472x3648), 10.1M (3888x2592), 5.9M (2976x1984), 2.0M (1728x1152), 5.0M (2736x1824): Burst mode only JPEG (16:9): 16.9M (5472x3080), 7.8M (3712x2088), 4.9M (2944x1656), 2.1M (1920x1080) JPEG (1:1): 13.3M (3648x3648), 7.0M (2640x2640), 4.0M (2000x2000), 1.1M (1024x1024) RAW :20.0M (5472x3648)4 * 3D Image Size : JPEG (16:9) 4.1M (2688x1512), (16:9) 2.1M (1920x1080)
+Video - MP4 (Video: MPEG4, AVC/H.264, Audio: AAC) 1920x1080, 1920x810, 1280x720 , 640x480, 320x240 for Sharing
+Video output - HDMI 1.4a
+Value-Added Features - SMART Mode : Beauty Face, Landscape, Macro, Action Freeze, Rich Tone, Panorama, Waterfall, Silhouette, Sunset, Night, Fireworks, Light Trace, Creative Shot, Best Face
+Wi-Fi Connectivity - IEEE 802.11b/g/n support Dual Channel (SMART Camera 2.0) . AutoShare . Cloud . Email . Auto Backup . Remote Viewfinder . MobileLink . Wi-Fi Direct (playback) . AllSharePlay . Social Sharing
+Bundle PC software - iLauncher, Adobe Lightroom 4, Adobe Reader
+Storage - SD, SDHC, SDXC, UHS-1
+Battery - BP1130 (1130mAh)
+Dimension (WxHxD) - 122 x 63.7 x 40.7mm (excluding the projection part)
+Weight - 284 g (without battery)
+
+ADDITIONAL SPECIFICATION CONTENT
+Images Videos Tech Specs Related Articles Samsung NX300 Product Specifications Image Sensor 20.3 effective megapixel APS-C CMOS Display 84.0mm (3.31”) AMOLED with a Tilt Touch Panel WVGA (800x400) 768k dots ISO Auto, 100, 200, 400, 800, 1600, 3200, 6400, 12800, 25600(1 or 1/3EV step) * AUTO ISO upper level is selectable. (Up to ISO3200) Image JPEG (3:2): 20.0M (5472x3648), 10.1M (3888x2592), 5.9M (2976x1984), 2.0M (1728x1152), 5.0M (2736x1824): Burst mode only JPEG (16:9): 16.9M (5472x3080), 7.8M (3712x2088), 4.9M (2944x1656), 2.1M (1920x1080) JPEG (1:1): 13.3M (3648x3648), 7.0M (2640x2640), 4.0M (2000x2000), 1.1M (1024x1024) RAW :20.0M (5472x3648)4 * 3D Image Size : JPEG (16:9) 4.1M (2688x1512), (16:9) 2.1M (1920x1080) Video MP4 (Video: MPEG4, AVC/H.264, Audio: AAC) 1920x1080, 1920x810, 1280x720 , 640x480, 320x240 for Sharing Video output HDMI 1.4a Value-Added Features SMART Mode : Beauty Face, Landscape, Macro, Action Freeze, Rich Tone, Panorama, Waterfall, Silhouette, Sunset, Night, Fireworks, Light Trace, Creative Shot, Best Face 3D still image & video capturing Wi-Fi Connectivity IEEE 802.11b/g/n support Dual Channel (SMART Camera 2.0) . AutoShare . Cloud . Email . Auto Backup . Remote Viewfinder . MobileLink . Wi-Fi Direct (playback) . AllSharePlay . Social Sharing Bundle PC software iLauncher, Adobe Lightroom 4, Adobe Reader Storage SD, SDHC, SDXC, UHS-1 Battery BP1130 (1130mAh) Dimension (WxHxD) 122 x 63.7 x 40.7mm (excluding the projection part) Weight 284 g (without battery)
+
+Samsung NX300 Product Specifications Image Sensor 20.3 effective megapixel APS-C CMOS Display 84.0mm (3.31”) AMOLED with a Tilt Touch Panel WVGA (800x400) 768k dots ISO Auto, 100, 200, 400, 800, 1600, 3200, 6400, 12800, 25600(1 or 1/3EV step) * AUTO ISO upper level is selectable. (Up to ISO3200) Image JPEG (3:2): 20.0M (5472x3648), 10.1M (3888x2592), 5.9M (2976x1984), 2.0M (1728x1152), 5.0M (2736x1824): Burst mode only JPEG (16:9): 16.9M (5472x3080), 7.8M (3712x2088), 4.9M (2944x1656), 2.1M (1920x1080) JPEG (1:1): 13.3M (3648x3648), 7.0M (2640x2640), 4.0M (2000x2000), 1.1M (1024x1024) RAW :20.0M (5472x3648)4 * 3D Image Size : JPEG (16:9) 4.1M (2688x1512), (16:9) 2.1M (1920x1080) Video MP4 (Video: MPEG4, AVC/H.264, Audio: AAC) 1920x1080, 1920x810, 1280x720 , 640x480, 320x240 for Sharing Video output HDMI 1.4a Value-Added Features SMART Mode : Beauty Face, Landscape, Macro, Action Freeze, Rich Tone, Panorama, Waterfall, Silhouette, Sunset, Night, Fireworks, Light Trace, Creative Shot, Best Face 3D still image & video capturing Wi-Fi Connectivity IEEE 802.11b/g/n support Dual Channel (SMART Camera 2.0) . AutoShare . Cloud . Email . Auto Backup . Remote Viewfinder . MobileLink . Wi-Fi Direct (playback) . AllSharePlay . Social Sharing Bundle PC software iLauncher, Adobe Lightroom 4, Adobe Reader Storage SD, SDHC, SDXC, UHS-1 Battery BP1130 (1130mAh) Dimension (WxHxD) 122 x 63.7 x 40.7mm (excluding the projection part) Weight 284 g (without battery)
+
+--------------------------------------------------------------------------------

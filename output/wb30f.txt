@@ -1,0 +1,26 @@
+DEVICE: WB30F
+URL: https://www.samsungmobilepress.com/media-assets/wb30f
+
+SPECIFICATIONS
+Image Sensor - 16.2 effective megapixel 1/2.3" CCD
+Lens - 10x Optical Zoom Lens, 24 mm Wide Angle, F3.1(W) ~ 6.3(T)
+IS - OIS
+Display - 75mm (3.0”), TFT LCD screen
+ISO - Auto, 80, 100, 200, 400, 800, 1600, 3200
+Image - JPEG format 16M, 14MP, 12M Wide, 10M, 5M, 3M, 2M Wide, 1M
+Video - MP4 (Video: MPEG4, AVC/H.264, Audio: AAC) 1280x720(30fps, 15fps), 640x480(30fps, 15fps), 320x240 (30fps/15fps), For Sharing (30fps/15fps)
+Video Output - AV
+Value-Added Features - Mode : Smart Auto, Program, Scene, Photo Filter, Split Shot, Motion Photo, Close up, Magic Frame, Live Panorama, Beauty Shot, Night shot
+Wi-Fi Connectivity - AutoShare, MobileLink, Remote Viewfinder, Social Sharing, email, Cloud, Auto Backup, AllShare Play, S/W Upgrade Notifier
+Bundle PC software - i-Launcher
+Storage - SDSC (up to 2GB), SDHC (up to 32GB), SDXC (up to 64GB)
+Battery - BP70A
+Dimension (WxHxD) - 98.0 x 57.9 x 16.5mm
+Weight - 131g
+
+ADDITIONAL SPECIFICATION CONTENT
+Images Videos Tech Specs Related Articles Samsung WB30F Product Specifications Image Sensor 16.2 effective megapixel 1/2.3" CCD Lens 10x Optical Zoom Lens, 24 mm Wide Angle, F3.1(W) ~ 6.3(T) IS OIS Display 75mm (3.0”), TFT LCD screen ISO Auto, 80, 100, 200, 400, 800, 1600, 3200 Image JPEG format 16M, 14MP, 12M Wide, 10M, 5M, 3M, 2M Wide, 1M Video MP4 (Video: MPEG4, AVC/H.264, Audio: AAC) 1280x720(30fps, 15fps), 640x480(30fps, 15fps), 320x240 (30fps/15fps), For Sharing (30fps/15fps) Video Output AV Value-Added Features Mode : Smart Auto, Program, Scene, Photo Filter, Split Shot, Motion Photo, Close up, Magic Frame, Live Panorama, Beauty Shot, Night shot Wi-Fi Connectivity AutoShare, MobileLink, Remote Viewfinder, Social Sharing, email, Cloud, Auto Backup, AllShare Play, S/W Upgrade Notifier Bundle PC software i-Launcher Storage SDSC (up to 2GB), SDHC (up to 32GB), SDXC (up to 64GB) Battery BP70A Dimension (WxHxD) 98.0 x 57.9 x 16.5mm Weight 131g
+
+Samsung WB30F Product Specifications Image Sensor 16.2 effective megapixel 1/2.3" CCD Lens 10x Optical Zoom Lens, 24 mm Wide Angle, F3.1(W) ~ 6.3(T) IS OIS Display 75mm (3.0”), TFT LCD screen ISO Auto, 80, 100, 200, 400, 800, 1600, 3200 Image JPEG format 16M, 14MP, 12M Wide, 10M, 5M, 3M, 2M Wide, 1M Video MP4 (Video: MPEG4, AVC/H.264, Audio: AAC) 1280x720(30fps, 15fps), 640x480(30fps, 15fps), 320x240 (30fps/15fps), For Sharing (30fps/15fps) Video Output AV Value-Added Features Mode : Smart Auto, Program, Scene, Photo Filter, Split Shot, Motion Photo, Close up, Magic Frame, Live Panorama, Beauty Shot, Night shot Wi-Fi Connectivity AutoShare, MobileLink, Remote Viewfinder, Social Sharing, email, Cloud, Auto Backup, AllShare Play, S/W Upgrade Notifier Bundle PC software i-Launcher Storage SDSC (up to 2GB), SDHC (up to 32GB), SDXC (up to 64GB) Battery BP70A Dimension (WxHxD) 98.0 x 57.9 x 16.5mm Weight 131g
+
+--------------------------------------------------------------------------------

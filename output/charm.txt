@@ -1,0 +1,7 @@
+DEVICE: Charm
+URL: https://www.samsungmobilepress.com/media-assets/charm
+
+ADDITIONAL SPECIFICATION CONTENT
+Images Videos Tech Specs Related Articles
+
+--------------------------------------------------------------------------------

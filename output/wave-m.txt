@@ -1,0 +1,24 @@
+DEVICE: Wave M
+URL: https://www.samsungmobilepress.com/media-assets/wave-m
+
+SPECIFICATIONS
+Network - HSDPA 7.2 900/2100 MHz EDGE/GPRS 850/900/1800/1900 MHz
+Processor - 832MHz Processor
+Display - 3.65” HVGA (320x480) TFT LCD
+OS - bada 2.0
+Camera - Main(Rear) : 5 MP AF with LED Flash Sub(Front) : VGA
+Video - Codec : MPEG4/H.263/H.264 Playback/Recording : HVGA @30fps
+Audio - Codec : MP3/AAC/AAC /eAAC /WMA/AMR/MID/WAV 3.5mm Ear Jack, Stereo FM Radio with RDS
+Value-added Features - Samsung Apps Samsung Kies 2.0 Samsung TouchWiz for bada Samsung ChatON mobile communication service Social Hub - Integrated Messaging(Email, IM, SNS), Contacts/ Calendar Sync - Basic: POP3/IMAP Email & IM Music Hub A-GPS NFC(optional)
+Connectivity - Bluetooth v 3.0 USB 2.0 HS WiFi 802.11 b/g/n WiFi Direct
+Sensor - Accelerometer, Proximity
+Memory - 150MB 2GB inbox microSD (up to 32GB)
+Size - 113.8 × 63.3 × 12.2mm, 121g
+Battery - Battery (Standard) Li-on, 1,350mAh Talk Time : Up to 16.5 hours (2G), Up to 6.6 hours(3G) Standby Time : Up to 642 hours(2G), Up to 482 hours (3G)
+
+ADDITIONAL SPECIFICATION CONTENT
+Images Videos Tech Specs Related Articles Samsung Wave M Product Specifications Network HSDPA 7.2 900/2100 MHz EDGE/GPRS 850/900/1800/1900 MHz Processor 832MHz Processor Display 3.65” HVGA (320x480) TFT LCD OS bada 2.0 Camera Main(Rear) : 5 MP AF with LED Flash Sub(Front) : VGA Video Codec : MPEG4/H.263/H.264 Playback/Recording : HVGA @30fps Audio Codec : MP3/AAC/AAC /eAAC /WMA/AMR/MID/WAV 3.5mm Ear Jack, Stereo FM Radio with RDS Value-added Features Samsung Apps Samsung Kies 2.0 Samsung TouchWiz for bada Samsung ChatON mobile communication service Social Hub - Integrated Messaging(Email, IM, SNS), Contacts/ Calendar Sync - Basic: POP3/IMAP Email & IM Music Hub A-GPS NFC(optional) Connectivity Bluetooth v 3.0 USB 2.0 HS WiFi 802.11 b/g/n WiFi Direct Sensor Accelerometer, Proximity Memory 150MB 2GB inbox microSD (up to 32GB) Size 113.8 × 63.3 × 12.2mm, 121g Battery Battery (Standard) Li-on, 1,350mAh Talk Time : Up to 16.5 hours (2G), Up to 6.6 hours(3G) Standby Time : Up to 642 hours(2G), Up to 482 hours (3G)
+
+Samsung Wave M Product Specifications Network HSDPA 7.2 900/2100 MHz EDGE/GPRS 850/900/1800/1900 MHz Processor 832MHz Processor Display 3.65” HVGA (320x480) TFT LCD OS bada 2.0 Camera Main(Rear) : 5 MP AF with LED Flash Sub(Front) : VGA Video Codec : MPEG4/H.263/H.264 Playback/Recording : HVGA @30fps Audio Codec : MP3/AAC/AAC /eAAC /WMA/AMR/MID/WAV 3.5mm Ear Jack, Stereo FM Radio with RDS Value-added Features Samsung Apps Samsung Kies 2.0 Samsung TouchWiz for bada Samsung ChatON mobile communication service Social Hub - Integrated Messaging(Email, IM, SNS), Contacts/ Calendar Sync - Basic: POP3/IMAP Email & IM Music Hub A-GPS NFC(optional) Connectivity Bluetooth v 3.0 USB 2.0 HS WiFi 802.11 b/g/n WiFi Direct Sensor Accelerometer, Proximity Memory 150MB 2GB inbox microSD (up to 32GB) Size 113.8 × 63.3 × 12.2mm, 121g Battery Battery (Standard) Li-on, 1,350mAh Talk Time : Up to 16.5 hours (2G), Up to 6.6 hours(3G) Standby Time : Up to 642 hours(2G), Up to 482 hours (3G)
+
+--------------------------------------------------------------------------------

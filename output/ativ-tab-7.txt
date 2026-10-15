@@ -1,0 +1,34 @@
+DEVICE: ATIV Tab 7
+URL: https://www.samsungmobilepress.com/media-assets/ativ-tab-7
+
+SPECIFICATIONS
+Base - Operating System - Windows 8
+Processor - Intel® Core™ i5
+Display - Size - 11.6” (PLS type)
+Resolution, Brightness - FULL HD (1920 x 1080), 400nit
+Battery - Battery life - 8 hours (Based on Mobile Mark)
+DVD Play time - 5 hours
+Capacity - 47Wh
+Design - Dimension (W x D x H) - 304.0 x 189.4 x 11.89mm(without keyboard) 304.0 x 189.4 x 21.89mm(with keyboard)
+Weight - 884g(without keyboard) / 1.6kg(with keyboard)
+Colors - Black
+Memory - System Memory - DDR 4GB
+Graphics - Graphics Processor - Intel HD Graphics
+Multimedia - Speaker - 2
+Integrated Camera - Front 2M, Rear 5M
+Storage - Hard Disk Drive - Up to 256GB SSD
+Optical Disk Drive - No
+Communication - Wired LAN - USB-to-Ethernet Dongle
+Wireless LAN - 802.11 abgn
+Wireless WAN - 4G/LTE, 3G
+Bluetooth - 4.0
+Others - I/O Ports - USB3.0*1, USB2.0*2(KBD), mHDMI, microSD
+Input Device - KBD(80/81keys), Digitizer Pen, Multi-Touch
+AC Adapter - Included
+
+ADDITIONAL SPECIFICATION CONTENT
+Images Videos Tech Specs Related Articles Samsung Ativ Tab7 Product Specifications Base Operating System Windows 8 Processor Intel® Core™ i5 Display Size 11.6” (PLS type) Resolution, Brightness FULL HD (1920 x 1080), 400nit Battery Battery life 8 hours (Based on Mobile Mark) DVD Play time 5 hours Capacity 47Wh Design Dimension (W x D x H) 304.0 x 189.4 x 11.89mm(without keyboard) 304.0 x 189.4 x 21.89mm(with keyboard) Weight 884g(without keyboard) / 1.6kg(with keyboard) Colors Black Memory System Memory DDR 4GB Graphics Graphics Processor Intel HD Graphics Multimedia Speaker 2 Integrated Camera Front 2M, Rear 5M Storage Hard Disk Drive Up to 256GB SSD Optical Disk Drive No Communication Wired LAN USB-to-Ethernet Dongle Wireless LAN 802.11 abgn Wireless WAN 4G/LTE, 3G Bluetooth 4.0 Others I/O Ports USB3.0*1, USB2.0*2(KBD), mHDMI, microSD Input Device KBD(80/81keys), Digitizer Pen, Multi-Touch AC Adapter Included
+
+Samsung Ativ Tab7 Product Specifications Base Operating System Windows 8 Processor Intel® Core™ i5 Display Size 11.6” (PLS type) Resolution, Brightness FULL HD (1920 x 1080), 400nit Battery Battery life 8 hours (Based on Mobile Mark) DVD Play time 5 hours Capacity 47Wh Design Dimension (W x D x H) 304.0 x 189.4 x 11.89mm(without keyboard) 304.0 x 189.4 x 21.89mm(with keyboard) Weight 884g(without keyboard) / 1.6kg(with keyboard) Colors Black Memory System Memory DDR 4GB Graphics Graphics Processor Intel HD Graphics Multimedia Speaker 2 Integrated Camera Front 2M, Rear 5M Storage Hard Disk Drive Up to 256GB SSD Optical Disk Drive No Communication Wired LAN USB-to-Ethernet Dongle Wireless LAN 802.11 abgn Wireless WAN 4G/LTE, 3G Bluetooth 4.0 Others I/O Ports USB3.0*1, USB2.0*2(KBD), mHDMI, microSD Input Device KBD(80/81keys), Digitizer Pen, Multi-Touch AC Adapter Included
+
+--------------------------------------------------------------------------------

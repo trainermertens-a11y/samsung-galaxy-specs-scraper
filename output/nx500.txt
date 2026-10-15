@@ -1,0 +1,24 @@
+DEVICE: NX500
+URL: https://www.samsungmobilepress.com/media-assets/nx500
+
+SPECIFICATIONS
+Image Sensor - 28MP BSI APS-C
+Display - 3” Super AMOLED Touch FVGA Tilt / Flip
+ISO - Auto, 100~25600 (Ext. 51200)
+Shutter Speed - 1/6000 sec
+Image - JPEG : (3:2) : 28M (6480x4320), 13.9M (4560x3040), 7.1M (3264x2176), 3.0M (2112x1408) (16:9) : 23M (6480x3648), 11.9M (4608x2592), 6.2M (3328x1872), 2.4M (2048x1152) (1:1) : 18.7M (4320x4320), 9.5M (3088x3088), 4.7M (2160x2160), 2.0M (1408x1408) RAW : 28.0M (6480x4320)
+Video - MP4 (Video: HEVC /H.265, Audio: AAC) 4096x2160 (24fps), 3840x2160 (30fps), 1920x1080, 1280x720, 640x480
+Video Output - HDMI (NTSC, PAL)
+Value- Added Features - Samsung Auto Shot SMART Mode (Action Freeze, Beauty Face, Fireworks, Landscape, Light Trace, Multi-Exposure, Night, Panorama, Rich Tones, Silhouette, Sunset, Waterfall) UHD Time-lapse Video
+Connectivity - Wi-Fi 802.11 b/g/n • Quick Transfer, Email, Auto Backup, Remote Viewfinder Pro, Mobile Link, Photo Beam, Bluetooth GPS Tagging, Auto Time Setting, TV Link
+Storage - SD,SDHC,SDXC,UHS-I
+Battery - 1130mAh
+Dimension (WxHxD) - 119.5 x 63.6 x 42.5mm (without projection)
+Weight - 287g (without battery and memory card)
+
+ADDITIONAL SPECIFICATION CONTENT
+Images Videos Tech Specs Related Articles Samsung Camera NX500 Product Specifications Image Sensor 28MP BSI APS-C Display 3” Super AMOLED Touch FVGA Tilt / Flip ISO Auto, 100~25600 (Ext. 51200) Shutter Speed 1/6000 sec Image JPEG : (3:2) : 28M (6480x4320), 13.9M (4560x3040), 7.1M (3264x2176), 3.0M (2112x1408) (16:9) : 23M (6480x3648), 11.9M (4608x2592), 6.2M (3328x1872), 2.4M (2048x1152) (1:1) : 18.7M (4320x4320), 9.5M (3088x3088), 4.7M (2160x2160), 2.0M (1408x1408) RAW : 28.0M (6480x4320) Video MP4 (Video: HEVC /H.265, Audio: AAC) 4096x2160 (24fps), 3840x2160 (30fps), 1920x1080, 1280x720, 640x480 Frame rate: 60fps, 30fps, 24fps NTSC / 50fps, 25fps, 24fps PAL Video Output HDMI (NTSC, PAL) Value- Added Features Samsung Auto Shot SMART Mode (Action Freeze, Beauty Face, Fireworks, Landscape, Light Trace, Multi-Exposure, Night, Panorama, Rich Tones, Silhouette, Sunset, Waterfall) UHD Time-lapse Video Attachable Flash (Guide Number 8 at ISO100) Connectivity Wi-Fi 802.11 b/g/n • Quick Transfer, Email, Auto Backup, Remote Viewfinder Pro, Mobile Link, Photo Beam, Bluetooth GPS Tagging, Auto Time Setting, TV Link Bluetooth NFC Storage SD,SDHC,SDXC,UHS-I Battery 1130mAh Dimension (WxHxD) 119.5 x 63.6 x 42.5mm (without projection) Weight 287g (without battery and memory card)
+
+Samsung Camera NX500 Product Specifications Image Sensor 28MP BSI APS-C Display 3” Super AMOLED Touch FVGA Tilt / Flip ISO Auto, 100~25600 (Ext. 51200) Shutter Speed 1/6000 sec Image JPEG : (3:2) : 28M (6480x4320), 13.9M (4560x3040), 7.1M (3264x2176), 3.0M (2112x1408) (16:9) : 23M (6480x3648), 11.9M (4608x2592), 6.2M (3328x1872), 2.4M (2048x1152) (1:1) : 18.7M (4320x4320), 9.5M (3088x3088), 4.7M (2160x2160), 2.0M (1408x1408) RAW : 28.0M (6480x4320) Video MP4 (Video: HEVC /H.265, Audio: AAC) 4096x2160 (24fps), 3840x2160 (30fps), 1920x1080, 1280x720, 640x480 Frame rate: 60fps, 30fps, 24fps NTSC / 50fps, 25fps, 24fps PAL Video Output HDMI (NTSC, PAL) Value- Added Features Samsung Auto Shot SMART Mode (Action Freeze, Beauty Face, Fireworks, Landscape, Light Trace, Multi-Exposure, Night, Panorama, Rich Tones, Silhouette, Sunset, Waterfall) UHD Time-lapse Video Attachable Flash (Guide Number 8 at ISO100) Connectivity Wi-Fi 802.11 b/g/n • Quick Transfer, Email, Auto Backup, Remote Viewfinder Pro, Mobile Link, Photo Beam, Bluetooth GPS Tagging, Auto Time Setting, TV Link Bluetooth NFC Storage SD,SDHC,SDXC,UHS-I Battery 1130mAh Dimension (WxHxD) 119.5 x 63.6 x 42.5mm (without projection) Weight 287g (without battery and memory card)
+
+--------------------------------------------------------------------------------

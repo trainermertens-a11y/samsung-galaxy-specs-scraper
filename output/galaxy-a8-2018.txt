@@ -1,0 +1,26 @@
+DEVICE: Galaxy A8+ (2018)
+URL: https://www.samsungmobilepress.com/media-assets/galaxy-a8-2018-2
+
+SPECIFICATIONS
+Display - 6.0-inchFHD+ Super AMOLED,1080x2220
+Camera - Front: Dual Camera 16MP FF (F1.9) + 8MP (F1.9), Rear: 16MP PDAF (F1.7)
+Dimension - 159.9 x 75.7 x 8.3 mm, 191g
+AP - Octa Core (2.2GHz Dual + 1.6GHz Hexa)
+Memory - 4/6GB RAM, 32/64GB
+Battery - 3,500mAh
+OS - Android 7.1.1
+Network - LTE Cat. 11
+Payment - NFC, MST
+Connectivity - Wi-Fi 802.11 a/b/g/n/ac (2.4/5GHz), VHT80, 256QAM, Bluetooth® v 5.0 (LE up to 2Mbps), ANT+, USB Type-C, NFC, Location (GPS, Glonass, BeiDou*) *BeiDou coverage may be limited.
+Sensors - Accelerometer, Barometer, Fingerprint Sensor, Gyro Sensor, Geomagnetic Sensor, Hall Sensor, Proximity Sensor, RGB Light Sensor
+Audio - MP3, M4A, 3GA, AAC, OGG, OGA, WAV, WMA, AMR, AWB, FLAC, MID, MIDI, XMF, MXMF, IMY, RTTTL, RTX, OTA
+Video - MP4, M4V, 3GP, 3G2, WMV, ASF, AVI, FLV, MKV, WEBM
+
+ADDITIONAL SPECIFICATION CONTENT
+Smartphone Galaxy A8+ (2018)
+
+Images Videos Tech Specs Related Articles Galaxy A8+(2018) Display 6.0-inchFHD+ Super AMOLED,1080x2220 *Screen measured diagonally as a full rectangle without accounting for the rounded corners Camera Front: Dual Camera 16MP FF (F1.9) + 8MP (F1.9), Rear: 16MP PDAF (F1.7) Dimension 159.9 x 75.7 x 8.3 mm, 191g AP Octa Core (2.2GHz Dual + 1.6GHz Hexa) Memory 4/6GB RAM, 32/64GB Battery 3,500mAh Fast Charging / USB Type-C OS Android 7.1.1 Network LTE Cat. 11 Payment NFC, MST Connectivity Wi-Fi 802.11 a/b/g/n/ac (2.4/5GHz), VHT80, 256QAM, Bluetooth® v 5.0 (LE up to 2Mbps), ANT+, USB Type-C, NFC, Location (GPS, Glonass, BeiDou*) *BeiDou coverage may be limited. Sensors Accelerometer, Barometer, Fingerprint Sensor, Gyro Sensor, Geomagnetic Sensor, Hall Sensor, Proximity Sensor, RGB Light Sensor Audio MP3, M4A, 3GA, AAC, OGG, OGA, WAV, WMA, AMR, AWB, FLAC, MID, MIDI, XMF, MXMF, IMY, RTTTL, RTX, OTA Video MP4, M4V, 3GP, 3G2, WMV, ASF, AVI, FLV, MKV, WEBM
+
+Galaxy A8+(2018) Display 6.0-inchFHD+ Super AMOLED,1080x2220 *Screen measured diagonally as a full rectangle without accounting for the rounded corners Camera Front: Dual Camera 16MP FF (F1.9) + 8MP (F1.9), Rear: 16MP PDAF (F1.7) Dimension 159.9 x 75.7 x 8.3 mm, 191g AP Octa Core (2.2GHz Dual + 1.6GHz Hexa) Memory 4/6GB RAM, 32/64GB Battery 3,500mAh Fast Charging / USB Type-C OS Android 7.1.1 Network LTE Cat. 11 Payment NFC, MST Connectivity Wi-Fi 802.11 a/b/g/n/ac (2.4/5GHz), VHT80, 256QAM, Bluetooth® v 5.0 (LE up to 2Mbps), ANT+, USB Type-C, NFC, Location (GPS, Glonass, BeiDou*) *BeiDou coverage may be limited. Sensors Accelerometer, Barometer, Fingerprint Sensor, Gyro Sensor, Geomagnetic Sensor, Hall Sensor, Proximity Sensor, RGB Light Sensor Audio MP3, M4A, 3GA, AAC, OGG, OGA, WAV, WMA, AMR, AWB, FLAC, MID, MIDI, XMF, MXMF, IMY, RTTTL, RTX, OTA Video MP4, M4V, 3GP, 3G2, WMV, ASF, AVI, FLV, MKV, WEBM
+
+--------------------------------------------------------------------------------

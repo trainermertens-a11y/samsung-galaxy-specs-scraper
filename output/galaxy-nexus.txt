@@ -1,0 +1,26 @@
+DEVICE: GALAXY Nexus
+URL: https://www.samsungmobilepress.com/media-assets/galaxy-nexus
+
+SPECIFICATIONS
+Network - HSPA+ 21Mbps/HSUPA 5.76Mbps 850/900/1900/1700/2100 EDGE/GPRS 850/900/1800/1900 *LTE version will be available depending on the region.
+Processor - 1.2 GHz Dual Core Processor
+Display - 4.65” 1280X720 HD Super AMOLED
+OS - Android 4.0, Ice Cream Sandwich
+Camera - Main(Rear) : 5 MP AF with LED Flash with zero shutter lag and fast shot2shot Sub (Front) : 1.3MP for Video Call
+Video - Codec : MPEG4/H.263/H.264 Playback : 1080p@ 30fps Recording : 1080p Full HD Video@ 30fps
+Audio - Codec : MP3/AAC/AAC+/eAAC+ 3.5mm Ear Jack
+Google™Mobile Services - Android Market™, Gmail™, Google Earth™, YouTube™, Movie Studio Google Maps™ 5.0 with 3D maps and turn-by-turn navigation Syncing with Google Calendar™, Google+ app
+Connectivity - Bluetooth® technology v 3.0 USB 2.0 Wi-Fi 802.11 a/b/g/n (2.4GHz/ 5GHz) NFC
+Sensor - Accelerometer, Compass, Gyro, Light, Proximity, Barometer
+Memory - 1GB(RAM) + 16GB/ 32GB Internal memory
+Size - 135.5 x 67.94 x 8.94mm, 135g
+Battery - Standard battery, Li-on 1,750 mAh
+
+ADDITIONAL SPECIFICATION CONTENT
+Smartphone GALAXY Nexus
+
+Images Videos Tech Specs Related Articles Galaxy Nexus Product Specifications Network HSPA+ 21Mbps/HSUPA 5.76Mbps 850/900/1900/1700/2100 EDGE/GPRS 850/900/1800/1900 *LTE version will be available depending on the region. Processor 1.2 GHz Dual Core Processor Display 4.65” 1280X720 HD Super AMOLED OS Android 4.0, Ice Cream Sandwich Camera Main(Rear) : 5 MP AF with LED Flash with zero shutter lag and fast shot2shot Sub (Front) : 1.3MP for Video Call Video Codec : MPEG4/H.263/H.264 Playback : 1080p@ 30fps Recording : 1080p Full HD Video@ 30fps Audio Codec : MP3/AAC/AAC+/eAAC+ 3.5mm Ear Jack Google™Mobile Services Android Market™, Gmail™, Google Earth™, YouTube™, Movie Studio Google Maps™ 5.0 with 3D maps and turn-by-turn navigation Syncing with Google Calendar™, Google+ app Connectivity Bluetooth® technology v 3.0 USB 2.0 Wi-Fi 802.11 a/b/g/n (2.4GHz/ 5GHz) NFC Sensor Accelerometer, Compass, Gyro, Light, Proximity, Barometer Memory 1GB(RAM) + 16GB/ 32GB Internal memory Size 135.5 x 67.94 x 8.94mm, 135g Battery Standard battery, Li-on 1,750 mAh
+
+Galaxy Nexus Product Specifications Network HSPA+ 21Mbps/HSUPA 5.76Mbps 850/900/1900/1700/2100 EDGE/GPRS 850/900/1800/1900 *LTE version will be available depending on the region. Processor 1.2 GHz Dual Core Processor Display 4.65” 1280X720 HD Super AMOLED OS Android 4.0, Ice Cream Sandwich Camera Main(Rear) : 5 MP AF with LED Flash with zero shutter lag and fast shot2shot Sub (Front) : 1.3MP for Video Call Video Codec : MPEG4/H.263/H.264 Playback : 1080p@ 30fps Recording : 1080p Full HD Video@ 30fps Audio Codec : MP3/AAC/AAC+/eAAC+ 3.5mm Ear Jack Google™Mobile Services Android Market™, Gmail™, Google Earth™, YouTube™, Movie Studio Google Maps™ 5.0 with 3D maps and turn-by-turn navigation Syncing with Google Calendar™, Google+ app Connectivity Bluetooth® technology v 3.0 USB 2.0 Wi-Fi 802.11 a/b/g/n (2.4GHz/ 5GHz) NFC Sensor Accelerometer, Compass, Gyro, Light, Proximity, Barometer Memory 1GB(RAM) + 16GB/ 32GB Internal memory Size 135.5 x 67.94 x 8.94mm, 135g Battery Standard battery, Li-on 1,750 mAh
+
+--------------------------------------------------------------------------------

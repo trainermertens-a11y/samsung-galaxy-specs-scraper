@@ -1,0 +1,26 @@
+DEVICE: Samsung Notebook Plus
+URL: https://www.samsungmobilepress.com/media-assets/samsung_notebook_plus
+
+SPECIFICATIONS
+OS - Windows 10 Home/Pro *Availability varies by region.
+Display - 39.6 cm (15.6 inch) HD (1366 x 768), Anti-Glare 39.6 cm (15.6 inch) FHD (1920 x 1080), Anti-Glare *Availability varies by region. Experience may vary by device.
+Dimension - 359.5 x 242.8 x 18.9 mm *Weights and height vary depending on manufacturing process.
+Weight - 1.81 kg ~ 1.90 kg *Weights and height vary depending on manufacturing process.
+CPU - Intel ® Core ™ i3-10110U Processor Intel ® Core ™ i5-10210U Processor Intel ® Core ™ i7-10510U Processor Intel ® Celeron ® Processor 5205U Intel ® Pentium ® Gold Processor 6405U *Availability varies by region.
+Graphic - Intel ® UHD Graphics NVIDIA ® GeForce ® MX110 NVIDIA ® GeForce ® MX250 *Availability varies by region.
+Memory - 4GB, 8GB, 16GB *Availability varies by region.
+Storage - (HDD) 500GB, 1TB *Availability varies by region. (NVMe SSD) 128GB, 256GB, 512GB *Availability varies by region.
+Battery - 43Wh
+Connectivity - 802.11 ac 1X1, Bluetooth® v 5.0, Gigabit Ethernet
+Ports - 1 USB-C ® , 1 USB 3.0, 1 USB 2.0, 1 HDMI, 1 Headphone out/Mic-in Combo, MicroSD Multi-media Card Reader
+Color - Platinum Titan, Pure White *Availability varies by region.
+Audio - Stereo Speakers (1.5W x 2)
+
+ADDITIONAL SPECIFICATION CONTENT
+Tablet & PC Samsung Notebook Plus
+
+Images Videos Tech Specs Related Articles Samsung Notebook Plus OS Windows 10 Home/Pro *Availability varies by region. Display 39.6 cm (15.6 inch) HD (1366 x 768), Anti-Glare 39.6 cm (15.6 inch) FHD (1920 x 1080), Anti-Glare *Availability varies by region. Experience may vary by device. Dimension 359.5 x 242.8 x 18.9 mm *Weights and height vary depending on manufacturing process. Weight 1.81 kg ~ 1.90 kg *Weights and height vary depending on manufacturing process. CPU Intel ® Core ™ i3-10110U Processor Intel ® Core ™ i5-10210U Processor Intel ® Core ™ i7-10510U Processor Intel ® Celeron ® Processor 5205U Intel ® Pentium ® Gold Processor 6405U *Availability varies by region. Graphic Intel ® UHD Graphics NVIDIA ® GeForce ® MX110 NVIDIA ® GeForce ® MX250 *Availability varies by region. Memory 4GB, 8GB, 16GB *Availability varies by region. Storage (HDD) 500GB, 1TB *Availability varies by region. (NVMe SSD) 128GB, 256GB, 512GB *Availability varies by region. Battery 43Wh Connectivity 802.11 ac 1X1, Bluetooth® v 5.0, Gigabit Ethernet Ports 1 USB-C ® , 1 USB 3.0, 1 USB 2.0, 1 HDMI, 1 Headphone out/Mic-in Combo, MicroSD Multi-media Card Reader Color Platinum Titan, Pure White *Availability varies by region. Audio Stereo Speakers (1.5W x 2) *All functionality, features, specifications and other product information provided in this document including, but not limited to, the benefits, design, pricing, components, performance, availability, and capabilities of the product are subject to change without notice.
+
+Samsung Notebook Plus OS Windows 10 Home/Pro *Availability varies by region. Display 39.6 cm (15.6 inch) HD (1366 x 768), Anti-Glare 39.6 cm (15.6 inch) FHD (1920 x 1080), Anti-Glare *Availability varies by region. Experience may vary by device. Dimension 359.5 x 242.8 x 18.9 mm *Weights and height vary depending on manufacturing process. Weight 1.81 kg ~ 1.90 kg *Weights and height vary depending on manufacturing process. CPU Intel ® Core ™ i3-10110U Processor Intel ® Core ™ i5-10210U Processor Intel ® Core ™ i7-10510U Processor Intel ® Celeron ® Processor 5205U Intel ® Pentium ® Gold Processor 6405U *Availability varies by region. Graphic Intel ® UHD Graphics NVIDIA ® GeForce ® MX110 NVIDIA ® GeForce ® MX250 *Availability varies by region. Memory 4GB, 8GB, 16GB *Availability varies by region. Storage (HDD) 500GB, 1TB *Availability varies by region. (NVMe SSD) 128GB, 256GB, 512GB *Availability varies by region. Battery 43Wh Connectivity 802.11 ac 1X1, Bluetooth® v 5.0, Gigabit Ethernet Ports 1 USB-C ® , 1 USB 3.0, 1 USB 2.0, 1 HDMI, 1 Headphone out/Mic-in Combo, MicroSD Multi-media Card Reader Color Platinum Titan, Pure White *Availability varies by region. Audio Stereo Speakers (1.5W x 2) *All functionality, features, specifications and other product information provided in this document including, but not limited to, the benefits, design, pricing, components, performance, availability, and capabilities of the product are subject to change without notice.
+
+--------------------------------------------------------------------------------

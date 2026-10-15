@@ -1,0 +1,31 @@
+DEVICE: Galaxy Book2 Pro
+URL: https://www.samsungmobilepress.com/media-assets/galaxy-book2-pro
+
+SPECIFICATIONS
+Galaxy Book2 Pro 13.3-inch - Galaxy Book2 Pro 15.6-inch
+Dimensions* - 304.4 x 199.8 x 11.2mm - 355.4 x 225.8 x 11.7mm (Internal Graphic) 355.4 x 225.8 x 13.2mm (External Graphic)
+Weight* - 0.87kg - 1.11kg (Internal Graphic) 1.17kg (External Graphic)
+OS* - Windows 11
+Display - AMOLED, FHD (1920 x 1080)
+CPU (Platform) - 12th Gen Intel ® Core™ Processors (i7/i5) (Intel ® Evo™)
+Graphic* - Intel ® Iris ® X e Graphics - Intel ® Iris ® X e Graphics Intel ® Arc™ Graphics
+Connectivity* - Wi-Fi 6E, 802.11 ax 2x2, Bluetooth v5.1 - 5G, Wi-Fi 6E, 802.11 ax 2x2, Bluetooth v5.1
+Color* - Silver, Graphite
+Memory* - 8/16/32GB (LPDDR5)
+Storage* - Up to 1TB (NVMe SSD)
+Camera/Mic - FHD 1080p/Dual Array Mic
+Audio - Stereo 2 x max 4W (Smart AMP) Sound by AKG, Dolby Atmos ® - Stereo 2 x max 5W (Smart AMP) Sound by AKG, Dolby Atmos ®
+Keyboard* - Island Type with Backlit - 3-row Numeric, Island Type with Backlit
+Battery* - 63Wh (Typical) - 68Wh (Typical)
+Adaptor - 65W USB Type-C Adaptor
+Authentication - Fingerprint on Power Key
+Ports* - Thunderbolt™ 4 (1), USB Type-C (1), USB 3.2 (1), HDMI (1), 3.5pi Headphone/Mic, microSD - Thunderbolt™ 4 (1), USB Type-C (1), USB 3.2 (1), HDMI (1), 3.5pi Headphone/Mic, microSD, nano SIM (Optional) slot
+
+ADDITIONAL SPECIFICATION CONTENT
+Tablet & PC Galaxy Book2 Pro
+
+Images Videos Tech Specs Related Articles Galaxy Book2 Pro Galaxy Book2 Pro 13.3-inch Galaxy Book2 Pro 15.6-inch Dimensions* 304.4 x 199.8 x 11.2mm 355.4 x 225.8 x 11.7mm (Internal Graphic) 355.4 x 225.8 x 13.2mm (External Graphic) *Accuracy of numbers may vary depending on measurements used. Height varies depending on manufacturing process. Weight* 0.87kg 1.11kg (Internal Graphic) 1.17kg (External Graphic) *Weights vary depending on manufacturing process. OS* Windows 11 *Availability varies by region and carrier. Experience may vary by device. Display AMOLED, FHD (1920 x 1080) CPU (Platform) 12th Gen Intel ® Core™ Processors (i7/i5) (Intel ® Evo™) Graphic* Intel ® Iris ® X e Graphics Intel ® Iris ® X e Graphics Intel ® Arc™ Graphics *Availability may vary by devices. Connectivity* Wi-Fi 6E, 802.11 ax 2x2, Bluetooth v5.1 5G, Wi-Fi 6E, 802.11 ax 2x2, Bluetooth v5.1 *5G availability will vary by market and model. 5G speeds vary and require optimal network and connection (factors include frequency, bandwidth, congestion); see carrier for availability. Wi-Fi 6E availability will vary due to OS version, country, location, network conditions, and other factors. Wi-Fi 6E wireless network routers require and sold separately. Color* Silver, Graphite *Color availability may vary by market and retailers. Memory* 8/16/32GB (LPDDR5) *Availability may vary by devices. Storage* Up to 1TB (NVMe SSD) *Availability may vary by devices. Camera/Mic FHD 1080p/Dual Array Mic Audio Stereo 2 x max 4W (Smart AMP) Sound by AKG, Dolby Atmos ® Stereo 2 x max 5W (Smart AMP) Sound by AKG, Dolby Atmos ® Keyboard* Island Type with Backlit 3-row Numeric, Island Type with Backlit *Keyboard layout may differ by market. Battery* 63Wh (Typical) 68Wh (Typical) *Typical value tested under third-party laboratory condition. Typical value is the estimated average value considering the deviation in battery capacity among the battery samples tested under IEC 61960 standard. Actual battery life may vary depending on network environment, usage patterns and other factors. Adaptor 65W USB Type-C Adaptor Authentication Fingerprint on Power Key Ports* Thunderbolt™ 4 (1), USB Type-C (1), USB 3.2 (1), HDMI (1), 3.5pi Headphone/Mic, microSD Thunderbolt™ 4 (1), USB Type-C (1), USB 3.2 (1), HDMI (1), 3.5pi Headphone/Mic, microSD, nano SIM (Optional) slot *Actual speed of USB can vary depending on user environment.
+
+Galaxy Book2 Pro Galaxy Book2 Pro 13.3-inch Galaxy Book2 Pro 15.6-inch Dimensions* 304.4 x 199.8 x 11.2mm 355.4 x 225.8 x 11.7mm (Internal Graphic) 355.4 x 225.8 x 13.2mm (External Graphic) *Accuracy of numbers may vary depending on measurements used. Height varies depending on manufacturing process. Weight* 0.87kg 1.11kg (Internal Graphic) 1.17kg (External Graphic) *Weights vary depending on manufacturing process. OS* Windows 11 *Availability varies by region and carrier. Experience may vary by device. Display AMOLED, FHD (1920 x 1080) CPU (Platform) 12th Gen Intel ® Core™ Processors (i7/i5) (Intel ® Evo™) Graphic* Intel ® Iris ® X e Graphics Intel ® Iris ® X e Graphics Intel ® Arc™ Graphics *Availability may vary by devices. Connectivity* Wi-Fi 6E, 802.11 ax 2x2, Bluetooth v5.1 5G, Wi-Fi 6E, 802.11 ax 2x2, Bluetooth v5.1 *5G availability will vary by market and model. 5G speeds vary and require optimal network and connection (factors include frequency, bandwidth, congestion); see carrier for availability. Wi-Fi 6E availability will vary due to OS version, country, location, network conditions, and other factors. Wi-Fi 6E wireless network routers require and sold separately. Color* Silver, Graphite *Color availability may vary by market and retailers. Memory* 8/16/32GB (LPDDR5) *Availability may vary by devices. Storage* Up to 1TB (NVMe SSD) *Availability may vary by devices. Camera/Mic FHD 1080p/Dual Array Mic Audio Stereo 2 x max 4W (Smart AMP) Sound by AKG, Dolby Atmos ® Stereo 2 x max 5W (Smart AMP) Sound by AKG, Dolby Atmos ® Keyboard* Island Type with Backlit 3-row Numeric, Island Type with Backlit *Keyboard layout may differ by market. Battery* 63Wh (Typical) 68Wh (Typical) *Typical value tested under third-party laboratory condition. Typical value is the estimated average value considering the deviation in battery capacity among the battery samples tested under IEC 61960 standard. Actual battery life may vary depending on network environment, usage patterns and other factors. Adaptor 65W USB Type-C Adaptor Authentication Fingerprint on Power Key Ports* Thunderbolt™ 4 (1), USB Type-C (1), USB 3.2 (1), HDMI (1), 3.5pi Headphone/Mic, microSD Thunderbolt™ 4 (1), USB Type-C (1), USB 3.2 (1), HDMI (1), 3.5pi Headphone/Mic, microSD, nano SIM (Optional) slot *Actual speed of USB can vary depending on user environment.
+
+--------------------------------------------------------------------------------

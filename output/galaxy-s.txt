@@ -1,0 +1,22 @@
+DEVICE: GALAXY S
+URL: https://www.samsungmobilepress.com/media-assets/galaxy-s
+
+SPECIFICATIONS
+Network - 2.5G (GSM/ GPRS/ EDGE) : 850 / 900 / 1800 / 1900 MHz 3G (HSDPA 7.2Mbps, HSUPA 5.76Mbps) : 900 / 1900 / 2100 MHz
+OS - Android 2.1
+Display - 4.0" WVGA SUPER AMOLED (800x480) with mDNIe
+Camera - 5.0 mega-pixel Camera + VGA Video Telephony Camera, Auto Focus, Self shot, Action shot, Add me, Stop motion, Cartoon shot, Smile shot, Panorama shot
+Video - HD(720p@30fps) video playing & recording Codec: mpeg4, H.264, H.263, H263Sorenson, DivX HD/ XviD, VC-1 Format: 3gp (mp4), WMV (asf), AVI (divx), MKV, FLV
+Audio - MP3, AAC, AAC+, eAAC+, WMA, OGG, AMR-NB, WAV, MID, AC3, IMY, FLAC, XMF
+Value-added Features - Integrated Messaging 'Social Hub' Android Market for more applications and contents A-GPS, Google Maps Navigation Augmented Reality with Layar Reality Browser 1 GHz Application Processor SMS/ MMS/ Email/ Video Messaging/ Exchange ActiveSync Sensor: Accelerometer, Digital compass, Proximity, Light Offline & No SIM Mode, Voice Command, RSS Reader, Mobile Widgets, Smart Security
+Connectivity - Bluetooth technology v 3.0 USB v2.0 (High-Speed) Wi-Fi 802.11 b/g/n
+Memory - 16GB / 8GB, external memory slot (upto 32GB)
+Size - 64.2 x 122.4 x 9.9mm, 119g
+Battery - 1500 mAh
+
+ADDITIONAL SPECIFICATION CONTENT
+Images Videos Tech Specs Related Articles Galaxy S (I9000) Product Specifications Network 2.5G (GSM/ GPRS/ EDGE) : 850 / 900 / 1800 / 1900 MHz 3G (HSDPA 7.2Mbps, HSUPA 5.76Mbps) : 900 / 1900 / 2100 MHz OS Android 2.1 Display 4.0" WVGA SUPER AMOLED (800x480) with mDNIe Camera 5.0 mega-pixel Camera + VGA Video Telephony Camera, Auto Focus, Self shot, Action shot, Add me, Stop motion, Cartoon shot, Smile shot, Panorama shot Video HD(720p@30fps) video playing & recording Codec: mpeg4, H.264, H.263, H263Sorenson, DivX HD/ XviD, VC-1 Format: 3gp (mp4), WMV (asf), AVI (divx), MKV, FLV Audio MP3, AAC, AAC+, eAAC+, WMA, OGG, AMR-NB, WAV, MID, AC3, IMY, FLAC, XMF Value-added Features Integrated Messaging 'Social Hub' Android Market for more applications and contents A-GPS, Google Maps Navigation Augmented Reality with Layar Reality Browser 1 GHz Application Processor SMS/ MMS/ Email/ Video Messaging/ Exchange ActiveSync Sensor: Accelerometer, Digital compass, Proximity, Light Offline & No SIM Mode, Voice Command, RSS Reader, Mobile Widgets, Smart Security Connectivity Bluetooth technology v 3.0 USB v2.0 (High-Speed) Wi-Fi 802.11 b/g/n Memory 16GB / 8GB, external memory slot (upto 32GB) Size 64.2 x 122.4 x 9.9mm, 119g Battery 1500 mAh
+
+Galaxy S (I9000) Product Specifications Network 2.5G (GSM/ GPRS/ EDGE) : 850 / 900 / 1800 / 1900 MHz 3G (HSDPA 7.2Mbps, HSUPA 5.76Mbps) : 900 / 1900 / 2100 MHz OS Android 2.1 Display 4.0" WVGA SUPER AMOLED (800x480) with mDNIe Camera 5.0 mega-pixel Camera + VGA Video Telephony Camera, Auto Focus, Self shot, Action shot, Add me, Stop motion, Cartoon shot, Smile shot, Panorama shot Video HD(720p@30fps) video playing & recording Codec: mpeg4, H.264, H.263, H263Sorenson, DivX HD/ XviD, VC-1 Format: 3gp (mp4), WMV (asf), AVI (divx), MKV, FLV Audio MP3, AAC, AAC+, eAAC+, WMA, OGG, AMR-NB, WAV, MID, AC3, IMY, FLAC, XMF Value-added Features Integrated Messaging 'Social Hub' Android Market for more applications and contents A-GPS, Google Maps Navigation Augmented Reality with Layar Reality Browser 1 GHz Application Processor SMS/ MMS/ Email/ Video Messaging/ Exchange ActiveSync Sensor: Accelerometer, Digital compass, Proximity, Light Offline & No SIM Mode, Voice Command, RSS Reader, Mobile Widgets, Smart Security Connectivity Bluetooth technology v 3.0 USB v2.0 (High-Speed) Wi-Fi 802.11 b/g/n Memory 16GB / 8GB, external memory slot (upto 32GB) Size 64.2 x 122.4 x 9.9mm, 119g Battery 1500 mAh
+
+--------------------------------------------------------------------------------

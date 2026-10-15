@@ -1,0 +1,24 @@
+DEVICE: Wave 3
+URL: https://www.samsungmobilepress.com/media-assets/wave-3
+
+SPECIFICATIONS
+Network - HSDPA 14.4/HSUPA 5.76 900/2100 EDGE/GPRS 850/900/1800/1900
+Processor - 1.4GHz Processor
+Display - 4” WVGA Super AMOLED
+OS - bada 2.0
+Camera - Main(Rear) : 5 MP AF with LED Flash Sub(Front) : VGA
+Video - Codec : MPEG4/H.263/H.264/DivX Playback/Recording :HD(720p)@30fps
+Audio - Codec : MP3/AAC/AAC /eAAC /WMA/AMR/ MID/WAV 3.5mm Ear Jack, Stereo FM Radio with RDS
+Value-added Features - Samsung Apps Samsung Kies 2.0 Samsung ChatON mobile communication service Samsung TouchWiz Social Hub - Integrated Messaging(Email, IM, SNS), Contacts/ Calendar Sync - Basic: POP3/IMAP Email & IM Music Hub Polaris Office Caster A-GPS/Glonass
+Connectivity - Bluetooth v3.0 USB 2.0 HS WiFi 802.11 b/g/n WiFi Direct
+Sensor - Accelerometer, Compass, Proximity, Light
+Memory - 512MB(RAM) 4GB Internal Memory, microSD (up to 32GB)
+Size - 125.9 × 64.2 × 9.9 mm, 127g
+Battery - Battery (Standard) Li-on, 1,500mAh Talk Time : Up to 430 hours Standby Time : Up to 500 minutes
+
+ADDITIONAL SPECIFICATION CONTENT
+Images Videos Tech Specs Related Articles Samsung Wave 3 Product Specifications Network HSDPA 14.4/HSUPA 5.76 900/2100 EDGE/GPRS 850/900/1800/1900 Processor 1.4GHz Processor Display 4” WVGA Super AMOLED OS bada 2.0 Camera Main(Rear) : 5 MP AF with LED Flash Sub(Front) : VGA Video Codec : MPEG4/H.263/H.264/DivX Playback/Recording :HD(720p)@30fps Audio Codec : MP3/AAC/AAC /eAAC /WMA/AMR/ MID/WAV 3.5mm Ear Jack, Stereo FM Radio with RDS Value-added Features Samsung Apps Samsung Kies 2.0 Samsung ChatON mobile communication service Samsung TouchWiz Social Hub - Integrated Messaging(Email, IM, SNS), Contacts/ Calendar Sync - Basic: POP3/IMAP Email & IM Music Hub Polaris Office Caster A-GPS/Glonass Connectivity Bluetooth v3.0 USB 2.0 HS WiFi 802.11 b/g/n WiFi Direct Sensor Accelerometer, Compass, Proximity, Light Memory 512MB(RAM) 4GB Internal Memory, microSD (up to 32GB) Size 125.9 × 64.2 × 9.9 mm, 127g Battery Battery (Standard) Li-on, 1,500mAh Talk Time : Up to 430 hours Standby Time : Up to 500 minutes
+
+Samsung Wave 3 Product Specifications Network HSDPA 14.4/HSUPA 5.76 900/2100 EDGE/GPRS 850/900/1800/1900 Processor 1.4GHz Processor Display 4” WVGA Super AMOLED OS bada 2.0 Camera Main(Rear) : 5 MP AF with LED Flash Sub(Front) : VGA Video Codec : MPEG4/H.263/H.264/DivX Playback/Recording :HD(720p)@30fps Audio Codec : MP3/AAC/AAC /eAAC /WMA/AMR/ MID/WAV 3.5mm Ear Jack, Stereo FM Radio with RDS Value-added Features Samsung Apps Samsung Kies 2.0 Samsung ChatON mobile communication service Samsung TouchWiz Social Hub - Integrated Messaging(Email, IM, SNS), Contacts/ Calendar Sync - Basic: POP3/IMAP Email & IM Music Hub Polaris Office Caster A-GPS/Glonass Connectivity Bluetooth v3.0 USB 2.0 HS WiFi 802.11 b/g/n WiFi Direct Sensor Accelerometer, Compass, Proximity, Light Memory 512MB(RAM) 4GB Internal Memory, microSD (up to 32GB) Size 125.9 × 64.2 × 9.9 mm, 127g Battery Battery (Standard) Li-on, 1,500mAh Talk Time : Up to 430 hours Standby Time : Up to 500 minutes
+
+--------------------------------------------------------------------------------

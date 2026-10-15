@@ -1,0 +1,25 @@
+DEVICE: Galaxy J4+
+URL: https://www.samsungmobilepress.com/media-assets/galaxy_j4_plus
+
+SPECIFICATIONS
+Display - 6.0” HD+ (720x1480) *Screen measured diagonally as a full rectangle without accounting for the rounded corners
+Camera - Rear: 13MP AF (F1.9) Front: 5MP (F2.2)
+Body - 161.4 x 76.9 x 7.9 mm 178g
+AP - Quad Core 1.4GHz * May differ by market and mobile operator
+Memory - 2/3GB 16/32GB * May differ by market and mobile operator
+Battery - 3,300mAh
+OS - Android 8.1
+Network - LTE Cat.4, non-CA
+Connectivity - Wi-Fi 802.11 b/g/n (2.4GHz), Bluetooth ® v 4.2 (LE up to 1Mbps), ANT+(NA), USB Type-B, NFC(optional*), Location (GPS, Glonass, BeiDou**) *May vary by country **BeiDou coverage may be limited.
+Sensor - Accelerometer, Fingerprint Sensor(NA), Gyro Sensor(NA), Geomagnetic Sensor(NA), Hall Sensor(NA), Light Sensor, Proximity Sensor
+Audio - MP3, M4A, 3GA, AAC, OGG, OGA, WAV, WMA, AMR, AWB, FLAC, MID, MIDI, XMF, MXMF, IMY, RTTTL, RTX, OTA
+Video - MP4, M4V, 3GP, 3G2, WMV, ASF, AVI, FLV, MKV, WEBM
+
+ADDITIONAL SPECIFICATION CONTENT
+Smartphone Galaxy J4+
+
+Images Videos Tech Specs Related Articles Galaxy J4+ Display 6.0” HD+ (720x1480) *Screen measured diagonally as a full rectangle without accounting for the rounded corners Camera Rear: 13MP AF (F1.9) Front: 5MP (F2.2) Body 161.4 x 76.9 x 7.9 mm 178g AP Quad Core 1.4GHz * May differ by market and mobile operator Memory 2/3GB 16/32GB * May differ by market and mobile operator Battery 3,300mAh OS Android 8.1 Network LTE Cat.4, non-CA Connectivity Wi-Fi 802.11 b/g/n (2.4GHz), Bluetooth ® v 4.2 (LE up to 1Mbps), ANT+(NA), USB Type-B, NFC(optional*), Location (GPS, Glonass, BeiDou**) *May vary by country **BeiDou coverage may be limited. Sensor Accelerometer, Fingerprint Sensor(NA), Gyro Sensor(NA), Geomagnetic Sensor(NA), Hall Sensor(NA), Light Sensor, Proximity Sensor Audio MP3, M4A, 3GA, AAC, OGG, OGA, WAV, WMA, AMR, AWB, FLAC, MID, MIDI, XMF, MXMF, IMY, RTTTL, RTX, OTA Video MP4, M4V, 3GP, 3G2, WMV, ASF, AVI, FLV, MKV, WEBM
+
+Galaxy J4+ Display 6.0” HD+ (720x1480) *Screen measured diagonally as a full rectangle without accounting for the rounded corners Camera Rear: 13MP AF (F1.9) Front: 5MP (F2.2) Body 161.4 x 76.9 x 7.9 mm 178g AP Quad Core 1.4GHz * May differ by market and mobile operator Memory 2/3GB 16/32GB * May differ by market and mobile operator Battery 3,300mAh OS Android 8.1 Network LTE Cat.4, non-CA Connectivity Wi-Fi 802.11 b/g/n (2.4GHz), Bluetooth ® v 4.2 (LE up to 1Mbps), ANT+(NA), USB Type-B, NFC(optional*), Location (GPS, Glonass, BeiDou**) *May vary by country **BeiDou coverage may be limited. Sensor Accelerometer, Fingerprint Sensor(NA), Gyro Sensor(NA), Geomagnetic Sensor(NA), Hall Sensor(NA), Light Sensor, Proximity Sensor Audio MP3, M4A, 3GA, AAC, OGG, OGA, WAV, WMA, AMR, AWB, FLAC, MID, MIDI, XMF, MXMF, IMY, RTTTL, RTX, OTA Video MP4, M4V, 3GP, 3G2, WMV, ASF, AVI, FLV, MKV, WEBM
+
+--------------------------------------------------------------------------------

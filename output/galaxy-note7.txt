@@ -1,0 +1,26 @@
+DEVICE: Galaxy Note7
+URL: https://www.samsungmobilepress.com/media-assets/galaxy-note7
+
+SPECIFICATIONS
+OS - Android 6.0.1 (Marshmallow)
+Network - LTE Cat.12 / LTE Cat.10 / LTE Cat.9 *May differ by markets and mobile operators*
+Dimension - 153.5 x 73.9 x 7.9mm, 169g
+AP - Octa core (2.3GHz Quad + 1.6GHz Quad), 64 bit, 14 nm process
+Memory - 4GB RAM (LPDDR4), 64GB (UFS 2.0)
+Display - 5.7” Quad HD Dual edge Super AMOLED 2560 x 1440 (518ppi)
+Camera - Rear: Dual Pixel 12MP OIS (F1.7), Front: 5MP (F1.7)
+Battery - 3,500 mAh, Fast Charging on wired and wireless Wireless Charging compatible with WPC and Airfuel
+Payment - NFC, MST
+Connectivity - Wi-Fi 802.11 a/b/g/n/ac (2.4/5GHz), MIMO(2x2) 620Mbps, Bluetooth® v 4.2 LE, ANT+, USB Type-C, NFC, Location (GPS, Glonass, Beidou)
+Sensor - Barometer, Fingerprint Sensor, Gyro Sensor, Geomagnetic Sensor, Hall Sensor, HR Sensor, Iris Sensor, Proximity Sensor, RGB Light Sensor
+Audio - MP3, M4A, 3GA, AAC, OGG, OGA, WAV, WMA, AMR, AWB, FLAC, MID, MIDI, XMF, MXMF, IMY, RTTTL, RTX, OTA
+Video - MP4, M4V, 3GP, 3G2, WMV, ASF, AVI , FLV, MKV, WEBM
+
+ADDITIONAL SPECIFICATION CONTENT
+Smartphone Galaxy Note7
+
+Images Videos Tech Specs Related Articles Samsung Galaxy Note7 Product Specifications OS Android 6.0.1 (Marshmallow) Network LTE Cat.12 / LTE Cat.10 / LTE Cat.9 *May differ by markets and mobile operators* Dimension 153.5 x 73.9 x 7.9mm, 169g AP Octa core (2.3GHz Quad + 1.6GHz Quad), 64 bit, 14 nm process Memory 4GB RAM (LPDDR4), 64GB (UFS 2.0) Display 5.7” Quad HD Dual edge Super AMOLED 2560 x 1440 (518ppi) Camera Rear: Dual Pixel 12MP OIS (F1.7), Front: 5MP (F1.7) Battery 3,500 mAh, Fast Charging on wired and wireless Wireless Charging compatible with WPC and Airfuel Payment NFC, MST Connectivity Wi-Fi 802.11 a/b/g/n/ac (2.4/5GHz), MIMO(2x2) 620Mbps, Bluetooth® v 4.2 LE, ANT+, USB Type-C, NFC, Location (GPS, Glonass, Beidou) Sensor Barometer, Fingerprint Sensor, Gyro Sensor, Geomagnetic Sensor, Hall Sensor, HR Sensor, Iris Sensor, Proximity Sensor, RGB Light Sensor Audio MP3, M4A, 3GA, AAC, OGG, OGA, WAV, WMA, AMR, AWB, FLAC, MID, MIDI, XMF, MXMF, IMY, RTTTL, RTX, OTA Video MP4, M4V, 3GP, 3G2, WMV, ASF, AVI , FLV, MKV, WEBM
+
+Samsung Galaxy Note7 Product Specifications OS Android 6.0.1 (Marshmallow) Network LTE Cat.12 / LTE Cat.10 / LTE Cat.9 *May differ by markets and mobile operators* Dimension 153.5 x 73.9 x 7.9mm, 169g AP Octa core (2.3GHz Quad + 1.6GHz Quad), 64 bit, 14 nm process Memory 4GB RAM (LPDDR4), 64GB (UFS 2.0) Display 5.7” Quad HD Dual edge Super AMOLED 2560 x 1440 (518ppi) Camera Rear: Dual Pixel 12MP OIS (F1.7), Front: 5MP (F1.7) Battery 3,500 mAh, Fast Charging on wired and wireless Wireless Charging compatible with WPC and Airfuel Payment NFC, MST Connectivity Wi-Fi 802.11 a/b/g/n/ac (2.4/5GHz), MIMO(2x2) 620Mbps, Bluetooth® v 4.2 LE, ANT+, USB Type-C, NFC, Location (GPS, Glonass, Beidou) Sensor Barometer, Fingerprint Sensor, Gyro Sensor, Geomagnetic Sensor, Hall Sensor, HR Sensor, Iris Sensor, Proximity Sensor, RGB Light Sensor Audio MP3, M4A, 3GA, AAC, OGG, OGA, WAV, WMA, AMR, AWB, FLAC, MID, MIDI, XMF, MXMF, IMY, RTTTL, RTX, OTA Video MP4, M4V, 3GP, 3G2, WMV, ASF, AVI , FLV, MKV, WEBM
+
+--------------------------------------------------------------------------------

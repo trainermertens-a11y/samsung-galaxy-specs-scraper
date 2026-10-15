@@ -1,0 +1,28 @@
+DEVICE: Samsung Z
+URL: https://www.samsungmobilepress.com/media-assets/samsung-z
+
+SPECIFICATIONS
+Network - LTE Cat.4 (150/50Mbps)
+Display - 4.8” HD Super AMOLED (1280 x 720)
+AP - 2.3GHz Quad core application processor
+OS - Tizen 2.2.1
+Camera - 8MP(rear), 2.1MP (front)
+Camera Features - Auto Face Detect Feature, Dream Shot
+Video - Video Codec : H.263, H.264(AVC), MPEG4, VC-1, Sorenson Spark, MP43, WMV7, WMV8 Video Format: MP4, M4V, 3GP, 3G2, WMV, ASF, AVI, FLV, MKV
+Audio - Audio Codec : MP3, AMR-NB/WB, AAC/ AAC+/ eAAC+, WMA, Vorbis, FLAC Audio Format: MP3, M4A, 3GA, AAC, OGG, OGA, WAV, WMA, AMR, AWB, FLAC, MID, MIDI, XMF, MXMF, IMY, RTTTL, RTX, OTA
+Camera Features - Mini mode, Quick Shot, Best Photo, Drama, Panorama, Dual Camera
+Value-Added Features - Ultra Power Saving Mode
+Connectivity - WiFi: 802.11 a/b/g/n HT40, MIMO(2x2) GPS / GLONAS Bluetooth®: 4.0 BLE USB: USB 2.0, NFC, IR Remote
+Sensor - Accelerometer, gyro, proximity, compass, barometer, Hall, RGB ambient light, Fingerptint Scanner, Heart rate sensor
+Memory - RAM: 2GB Internal Memory: 16GB, microSD slot up to 64GB
+Dimension - 138.2 x 69.8 x 8.5mm, 136g
+Battery - 2600mAh
+
+ADDITIONAL SPECIFICATION CONTENT
+Smartphone Samsung Z
+
+Images Videos Tech Specs Related Articles Samsung Z Product Specifications Network LTE Cat.4 (150/50Mbps) Display 4.8” HD Super AMOLED (1280 x 720) AP 2.3GHz Quad core application processor OS Tizen 2.2.1 Camera 8MP(rear), 2.1MP (front) Camera Features Auto Face Detect Feature, Dream Shot Video Video Codec : H.263, H.264(AVC), MPEG4, VC-1, Sorenson Spark, MP43, WMV7, WMV8 Video Format: MP4, M4V, 3GP, 3G2, WMV, ASF, AVI, FLV, MKV Audio Audio Codec : MP3, AMR-NB/WB, AAC/ AAC+/ eAAC+, WMA, Vorbis, FLAC Audio Format: MP3, M4A, 3GA, AAC, OGG, OGA, WAV, WMA, AMR, AWB, FLAC, MID, MIDI, XMF, MXMF, IMY, RTTTL, RTX, OTA Camera Features Mini mode, Quick Shot, Best Photo, Drama, Panorama, Dual Camera Value-Added Features Ultra Power Saving Mode Download Booster S Health 3.0 Color theme customization Fingerprint sensor Connectivity WiFi: 802.11 a/b/g/n HT40, MIMO(2x2) GPS / GLONAS Bluetooth®: 4.0 BLE USB: USB 2.0, NFC, IR Remote Sensor Accelerometer, gyro, proximity, compass, barometer, Hall, RGB ambient light, Fingerptint Scanner, Heart rate sensor Memory RAM: 2GB Internal Memory: 16GB, microSD slot up to 64GB Dimension 138.2 x 69.8 x 8.5mm, 136g Battery 2600mAh
+
+Samsung Z Product Specifications Network LTE Cat.4 (150/50Mbps) Display 4.8” HD Super AMOLED (1280 x 720) AP 2.3GHz Quad core application processor OS Tizen 2.2.1 Camera 8MP(rear), 2.1MP (front) Camera Features Auto Face Detect Feature, Dream Shot Video Video Codec : H.263, H.264(AVC), MPEG4, VC-1, Sorenson Spark, MP43, WMV7, WMV8 Video Format: MP4, M4V, 3GP, 3G2, WMV, ASF, AVI, FLV, MKV Audio Audio Codec : MP3, AMR-NB/WB, AAC/ AAC+/ eAAC+, WMA, Vorbis, FLAC Audio Format: MP3, M4A, 3GA, AAC, OGG, OGA, WAV, WMA, AMR, AWB, FLAC, MID, MIDI, XMF, MXMF, IMY, RTTTL, RTX, OTA Camera Features Mini mode, Quick Shot, Best Photo, Drama, Panorama, Dual Camera Value-Added Features Ultra Power Saving Mode Download Booster S Health 3.0 Color theme customization Fingerprint sensor Connectivity WiFi: 802.11 a/b/g/n HT40, MIMO(2x2) GPS / GLONAS Bluetooth®: 4.0 BLE USB: USB 2.0, NFC, IR Remote Sensor Accelerometer, gyro, proximity, compass, barometer, Hall, RGB ambient light, Fingerptint Scanner, Heart rate sensor Memory RAM: 2GB Internal Memory: 16GB, microSD slot up to 64GB Dimension 138.2 x 69.8 x 8.5mm, 136g Battery 2600mAh
+
+--------------------------------------------------------------------------------

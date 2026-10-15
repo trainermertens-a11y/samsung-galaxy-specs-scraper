@@ -1,0 +1,31 @@
+DEVICE: Galaxy XCover Pro
+URL: https://www.samsungmobilepress.com/media-assets/galaxy_xcover_pro
+
+SPECIFICATIONS
+Dimension - 159.9 X 76.7 X 9.94mm (218g)
+Display - 6.3” FHD+, Wet Touch, Glove Mode
+AP - Exynos 9611 (2GHz Octa-core)
+Memory - 4GB + 64GB, microSD up to 512GB
+Camera - Single Front Camera: 13MP, FF, F2.0 Dual Rear Camera: 25MP, AF, F1.7 + 8MP, FF, F2.2
+Battery - 4,050 mAh, user replaceable, Fast Charging (15W)
+OS - Android 10.0
+SIM - Dual SIM (EUR), Single SIM (NA)**
+NFC - NFC (EMV L1)
+Augmented Reality - Google AR Core
+Design - Full Screen
+Rugged - IP68, 1.5m drop (MIL-STD 810G certified)
+Sensor - Accelerometer, Proximity, Compass, Gyroscope
+Pogo Pin - Charging only
+Biometric Security - Fingerprint (side)
+mPOS - mPOS Ready
+Hot Key - Two Programmable Keys
+Service LED - Available
+
+ADDITIONAL SPECIFICATION CONTENT
+Smartphone Galaxy XCover Pro
+
+Images Videos Tech Specs Related Articles Galaxy XCover Pro* Dimension 159.9 X 76.7 X 9.94mm (218g) Display 6.3” FHD+, Wet Touch, Glove Mode AP Exynos 9611 (2GHz Octa-core) Memory 4GB + 64GB, microSD up to 512GB Camera Single Front Camera: 13MP, FF, F2.0 Dual Rear Camera: 25MP, AF, F1.7 + 8MP, FF, F2.2 Battery 4,050 mAh, user replaceable, Fast Charging (15W) OS Android 10.0 SIM Dual SIM (EUR), Single SIM (NA)** NFC NFC (EMV L1) Augmented Reality Google AR Core Design Full Screen Rugged IP68, 1.5m drop (MIL-STD 810G certified) Sensor Accelerometer, Proximity, Compass, Gyroscope Pogo Pin Charging only Biometric Security Fingerprint (side) mPOS mPOS Ready Hot Key Two Programmable Keys Service LED Available * All functionality, features, specifications and other product information provided in this document including, but not limited to, the benefits, design, pricing, components, performance, availability, and capabilities of the product are subject to change without notice. ** Galaxy XCover Pro will support dual SIM functionality in North America through a future software update once the service is available.
+
+Galaxy XCover Pro* Dimension 159.9 X 76.7 X 9.94mm (218g) Display 6.3” FHD+, Wet Touch, Glove Mode AP Exynos 9611 (2GHz Octa-core) Memory 4GB + 64GB, microSD up to 512GB Camera Single Front Camera: 13MP, FF, F2.0 Dual Rear Camera: 25MP, AF, F1.7 + 8MP, FF, F2.2 Battery 4,050 mAh, user replaceable, Fast Charging (15W) OS Android 10.0 SIM Dual SIM (EUR), Single SIM (NA)** NFC NFC (EMV L1) Augmented Reality Google AR Core Design Full Screen Rugged IP68, 1.5m drop (MIL-STD 810G certified) Sensor Accelerometer, Proximity, Compass, Gyroscope Pogo Pin Charging only Biometric Security Fingerprint (side) mPOS mPOS Ready Hot Key Two Programmable Keys Service LED Available * All functionality, features, specifications and other product information provided in this document including, but not limited to, the benefits, design, pricing, components, performance, availability, and capabilities of the product are subject to change without notice. ** Galaxy XCover Pro will support dual SIM functionality in North America through a future software update once the service is available.
+
+--------------------------------------------------------------------------------

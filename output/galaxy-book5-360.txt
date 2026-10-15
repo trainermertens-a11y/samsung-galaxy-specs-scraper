@@ -1,0 +1,30 @@
+DEVICE: Galaxy Book5 360
+URL: https://www.samsungmobilepress.com/media-assets/galaxy-book5-360
+
+SPECIFICATIONS
+Dimensions * - 355.4 x 228.0 x 13.7mm
+Weight​ * - 1.46 kg
+OS * - Windows 11 Home
+Display​ - 15.6-inch * 16:9 Touch AMOLED FHD (1920x1080), 500nits ** , 60Hz, 120% DCI-P3 Color Volume
+Processor * - Intel ® Core ™ Ultra 7/5 Processor (Intel EVO ™ )
+NPU - Intel ® AI Boost NPU
+Graphic * - Intel ® Arc ™ Graphics (Shared)
+Network * - Bluetooth v5.4 / Wi-Fi 7
+Color - Gray, Silver
+Memory * - 16/32 GB
+Storage - 256GB / 512 GB / 1TB
+Camera - 2MP (1080p FHD)
+Microphone/ Speaker - Dual microphones, Stereo Speaker (2W*2), Dolby Atmos ®
+Keyboard * - Pro keyboard with Numeric key (Backlit)
+Battery​ * - 68.1 Wh (Typical)
+Charging​ * - 65W USB Type-C Adapter
+Port * - TBT4(2), USB-A (1), Micro SD, HP, HDMI
+
+ADDITIONAL SPECIFICATION CONTENT
+Tablet & PC Galaxy Book5 360
+
+Images Videos Tech Specs Related Articles Galaxy Book5 360 (15-inch) Dimensions * 355.4 x 228.0 x 13.7mm *Accuracy of numbers may vary depending on measurements used. Weight​ * 1.46 kg *Weight may vary by market. OS * Windows 11 Home *Edition version and availability timing may vary depending on model and/or market. Display​ 15.6-inch * 16:9 Touch AMOLED FHD (1920x1080), 500nits ** , 60Hz, 120% DCI-P3 Color Volume *Measured diagonally as a full rectangle without accounting for the rounded corners. Actual viewable area is less due to the rounded corners. **370nits (Typical), 500nits (HDR Contents only) Processor * Intel ® Core ™ Ultra 7/5 Processor (Intel EVO ™ ) *Specifications may vary depending on model and/or market. NPU Intel ® AI Boost NPU Graphic * Intel ® Arc ™ Graphics (Shared) *Specifications may vary depending on model and/or market. Network * Bluetooth v5.4 / Wi-Fi 7 *Actual speed may vary by market, carrier and user environment. Wi-Fi 7 availability may vary due to OS version, market, location, network conditions and other factors. Wi-Fi 7 wireless network routers required and sold separately. Color Gray, Silver Memory * 16/32 GB *Availability may vary by model. Storage 256GB / 512 GB / 1TB *Actual storage space availability may vary depending on pre-installed software and by market, file size and format. **Availability may vary by model and/or market Camera 2MP (1080p FHD) Microphone/ Speaker Dual microphones, Stereo Speaker (2W*2), Dolby Atmos ® Keyboard * Pro keyboard with Numeric key (Backlit) *Keyboard layout may vary by market. Battery​ * 68.1 Wh (Typical) *Typical value of battery capacity tested under third-party laboratory condition. Typical value is the estimated average value considering the deviation in battery capacity among the battery samples tested under IEC 61960 standard. Actual battery life may vary depending on network environment, usage patterns and other factors. Charging​ * 65W USB Type-C Adapter *The inbox charger and data cable are USB Type-C. Port * TBT4(2), USB-A (1), Micro SD, HP, HDMI *Actual speed of USB may vary depending on user environment. *Specifications may vary by market. *All functionality, features, specifications and other product information provided in this document including, but not limited to, the benefits, design, pricing, components, performance, availability and capabilities of the product are subject to change without notice.
+
+Galaxy Book5 360 (15-inch) Dimensions * 355.4 x 228.0 x 13.7mm *Accuracy of numbers may vary depending on measurements used. Weight​ * 1.46 kg *Weight may vary by market. OS * Windows 11 Home *Edition version and availability timing may vary depending on model and/or market. Display​ 15.6-inch * 16:9 Touch AMOLED FHD (1920x1080), 500nits ** , 60Hz, 120% DCI-P3 Color Volume *Measured diagonally as a full rectangle without accounting for the rounded corners. Actual viewable area is less due to the rounded corners. **370nits (Typical), 500nits (HDR Contents only) Processor * Intel ® Core ™ Ultra 7/5 Processor (Intel EVO ™ ) *Specifications may vary depending on model and/or market. NPU Intel ® AI Boost NPU Graphic * Intel ® Arc ™ Graphics (Shared) *Specifications may vary depending on model and/or market. Network * Bluetooth v5.4 / Wi-Fi 7 *Actual speed may vary by market, carrier and user environment. Wi-Fi 7 availability may vary due to OS version, market, location, network conditions and other factors. Wi-Fi 7 wireless network routers required and sold separately. Color Gray, Silver Memory * 16/32 GB *Availability may vary by model. Storage 256GB / 512 GB / 1TB *Actual storage space availability may vary depending on pre-installed software and by market, file size and format. **Availability may vary by model and/or market Camera 2MP (1080p FHD) Microphone/ Speaker Dual microphones, Stereo Speaker (2W*2), Dolby Atmos ® Keyboard * Pro keyboard with Numeric key (Backlit) *Keyboard layout may vary by market. Battery​ * 68.1 Wh (Typical) *Typical value of battery capacity tested under third-party laboratory condition. Typical value is the estimated average value considering the deviation in battery capacity among the battery samples tested under IEC 61960 standard. Actual battery life may vary depending on network environment, usage patterns and other factors. Charging​ * 65W USB Type-C Adapter *The inbox charger and data cable are USB Type-C. Port * TBT4(2), USB-A (1), Micro SD, HP, HDMI *Actual speed of USB may vary depending on user environment. *Specifications may vary by market. *All functionality, features, specifications and other product information provided in this document including, but not limited to, the benefits, design, pricing, components, performance, availability and capabilities of the product are subject to change without notice.
+
+--------------------------------------------------------------------------------

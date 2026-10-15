@@ -1,0 +1,28 @@
+DEVICE: Samsung Notebook Plus2
+URL: https://www.samsungmobilepress.com/media-assets/samsung_notebook_plus2_game
+
+SPECIFICATIONS
+Dimension * - 359.5 x 242.8 x 18.9 mm *Weights and height vary depending on manufacturing process.
+Weight * - 1.85 kg ~ 1.93 kg *Weights vary depending on manufacturing process.
+OS - Linux (Console only) Windows 10 Home/Pro *Availability varies by region.
+Display - 39.6 cm (15.6-inch) FHD (1920 x 1080), Anti-Glare
+CPU - Intel ® Core ™ i5-1135G7 Processor Intel ® Core ™ i7-1165G7 Processor *Availability varies by region.
+Graphic - NVIDIA ® GeForce ® GTX1650Ti Graphics with GDDR6 4GB Graphic Memory
+Color - Blade Black
+Memory * - 8GB, 16GB, 24GB *Availability varies by region.
+Storage * - (HDD) 1TB *Availability varies by region. (NVMe SSD) 128GB, 256GB, 512GB *Availability varies by region.
+Camera - 480p
+Audio - Stereo Speakers (1.5W x 2)
+Connectivity * - 802.11 ac 2X2, Bluetooth ® v 5.1, Gigabit Ethernet
+Battery * - 43Wh
+Security - N/A
+Ports * - 1 USB-C ® , 1 USB 3.0, 1 USB 2.0, MicroSD, HDMI, Headphone-out/Microphone-in Combo, LAN, Slim Security Slot
+
+ADDITIONAL SPECIFICATION CONTENT
+Tablet & PC Samsung Notebook Plus2
+
+Images Videos Tech Specs Related Articles Samsung Notebook Plus2 Dimension * 359.5 x 242.8 x 18.9 mm *Weights and height vary depending on manufacturing process. Weight * 1.85 kg ~ 1.93 kg *Weights vary depending on manufacturing process. OS Linux (Console only) Windows 10 Home/Pro *Availability varies by region. Display 39.6 cm (15.6-inch) FHD (1920 x 1080), Anti-Glare CPU Intel ® Core ™ i5-1135G7 Processor Intel ® Core ™ i7-1165G7 Processor *Availability varies by region. Graphic NVIDIA ® GeForce ® GTX1650Ti Graphics with GDDR6 4GB Graphic Memory Color Blade Black Memory * 8GB, 16GB, 24GB *Availability varies by region. Storage * (HDD) 1TB *Availability varies by region. (NVMe SSD) 128GB, 256GB, 512GB *Availability varies by region. Camera 480p Audio Stereo Speakers (1.5W x 2) Connectivity * 802.11 ac 2X2, Bluetooth ® v 5.1, Gigabit Ethernet Battery * 43Wh Security N/A Ports * 1 USB-C ® , 1 USB 3.0, 1 USB 2.0, MicroSD, HDMI, Headphone-out/Microphone-in Combo, LAN, Slim Security Slot * All functionality, features, specifications and other product information provided in this document including, but not limited to, the benefits, design, pricing, components, performance, availability, and capabilities of the product are subject to change without notice.
+
+Samsung Notebook Plus2 Dimension * 359.5 x 242.8 x 18.9 mm *Weights and height vary depending on manufacturing process. Weight * 1.85 kg ~ 1.93 kg *Weights vary depending on manufacturing process. OS Linux (Console only) Windows 10 Home/Pro *Availability varies by region. Display 39.6 cm (15.6-inch) FHD (1920 x 1080), Anti-Glare CPU Intel ® Core ™ i5-1135G7 Processor Intel ® Core ™ i7-1165G7 Processor *Availability varies by region. Graphic NVIDIA ® GeForce ® GTX1650Ti Graphics with GDDR6 4GB Graphic Memory Color Blade Black Memory * 8GB, 16GB, 24GB *Availability varies by region. Storage * (HDD) 1TB *Availability varies by region. (NVMe SSD) 128GB, 256GB, 512GB *Availability varies by region. Camera 480p Audio Stereo Speakers (1.5W x 2) Connectivity * 802.11 ac 2X2, Bluetooth ® v 5.1, Gigabit Ethernet Battery * 43Wh Security N/A Ports * 1 USB-C ® , 1 USB 3.0, 1 USB 2.0, MicroSD, HDMI, Headphone-out/Microphone-in Combo, LAN, Slim Security Slot * All functionality, features, specifications and other product information provided in this document including, but not limited to, the benefits, design, pricing, components, performance, availability, and capabilities of the product are subject to change without notice.
+
+--------------------------------------------------------------------------------

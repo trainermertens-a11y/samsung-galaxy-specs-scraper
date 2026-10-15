@@ -1,0 +1,26 @@
+DEVICE: Nexus 10
+URL: https://www.samsungmobilepress.com/media-assets/nexus-10
+
+SPECIFICATIONS
+Network - WiFi only
+Processor - 1.7 GHz A15 dual-core processor
+Display - 10” WQXGA (2560x1600, 300 ppi) display
+OS - Android 4.2 (Jelly Bean)
+Camera - Main(Rear): 5 Megapixel Camera Sub(Front): 1.9 Megapixel Camera
+Video - Codec: MPEG4, H.263, H.264, VC-1, DivX VP8, Format: 3GP(MP4), WMV(ASF), AVI, FLV, MKV, WebM Full HD(1080p) Playback & Recording @30 fps,
+Audio - Codec: MP3, OGG, WMA, AAC, ACC+, eAAC+, AMR(NB,WB), MIDI, WAV, AC-3, Flac 3.5mm Ear Jack, Stereo speaker
+Google™ Mobile Services - Google Chrome, Gmail, Google Talk, Google Maps for Android, Google Search, Voice Search, Google Now Google+, Gmail, YouTube, Google Currents, Google Play Store, Google Play Books, Google Play Movies, Google Play Magazines
+Connectivity - Bluetooth® v 3.0 WiFi 802.11 a/b/g/n (MIMO+HT40) microUSB, microHDMI Pogo pin Dual Side NFC GPS+Glonass
+Sensor - Barometer. Accelerometer, Gyro, Digital Compass, Light, Opening sensor
+Memory - 16/32GB User memory + 2GB (RAM)
+Dimension - 263.8 x 177.8 x 8.9 mm, 603g
+Battery - Standard battery, Li-ion 9,000mAh
+
+ADDITIONAL SPECIFICATION CONTENT
+Tablet & PC Nexus 10
+
+Images Videos Tech Specs Related Articles Nexus 10 specifications Network WiFi only Processor 1.7 GHz A15 dual-core processor Display 10” WQXGA (2560x1600, 300 ppi) display OS Android 4.2 (Jelly Bean) Camera Main(Rear): 5 Megapixel Camera Sub(Front): 1.9 Megapixel Camera Video Codec: MPEG4, H.263, H.264, VC-1, DivX VP8, Format: 3GP(MP4), WMV(ASF), AVI, FLV, MKV, WebM Full HD(1080p) Playback & Recording @30 fps, Audio Codec: MP3, OGG, WMA, AAC, ACC+, eAAC+, AMR(NB,WB), MIDI, WAV, AC-3, Flac 3.5mm Ear Jack, Stereo speaker Google™ Mobile Services Google Chrome, Gmail, Google Talk, Google Maps for Android, Google Search, Voice Search, Google Now Google+, Gmail, YouTube, Google Currents, Google Play Store, Google Play Books, Google Play Movies, Google Play Magazines Connectivity Bluetooth® v 3.0 WiFi 802.11 a/b/g/n (MIMO+HT40) microUSB, microHDMI Pogo pin Dual Side NFC GPS+Glonass Sensor Barometer. Accelerometer, Gyro, Digital Compass, Light, Opening sensor Memory 16/32GB User memory + 2GB (RAM) Dimension 263.8 x 177.8 x 8.9 mm, 603g Battery Standard battery, Li-ion 9,000mAh
+
+Nexus 10 specifications Network WiFi only Processor 1.7 GHz A15 dual-core processor Display 10” WQXGA (2560x1600, 300 ppi) display OS Android 4.2 (Jelly Bean) Camera Main(Rear): 5 Megapixel Camera Sub(Front): 1.9 Megapixel Camera Video Codec: MPEG4, H.263, H.264, VC-1, DivX VP8, Format: 3GP(MP4), WMV(ASF), AVI, FLV, MKV, WebM Full HD(1080p) Playback & Recording @30 fps, Audio Codec: MP3, OGG, WMA, AAC, ACC+, eAAC+, AMR(NB,WB), MIDI, WAV, AC-3, Flac 3.5mm Ear Jack, Stereo speaker Google™ Mobile Services Google Chrome, Gmail, Google Talk, Google Maps for Android, Google Search, Voice Search, Google Now Google+, Gmail, YouTube, Google Currents, Google Play Store, Google Play Books, Google Play Movies, Google Play Magazines Connectivity Bluetooth® v 3.0 WiFi 802.11 a/b/g/n (MIMO+HT40) microUSB, microHDMI Pogo pin Dual Side NFC GPS+Glonass Sensor Barometer. Accelerometer, Gyro, Digital Compass, Light, Opening sensor Memory 16/32GB User memory + 2GB (RAM) Dimension 263.8 x 177.8 x 8.9 mm, 603g Battery Standard battery, Li-ion 9,000mAh
+
+--------------------------------------------------------------------------------

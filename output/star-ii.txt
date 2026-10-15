@@ -1,0 +1,21 @@
+DEVICE: Star II
+URL: https://www.samsungmobilepress.com/media-assets/star-ii
+
+SPECIFICATIONS
+Network - GPRS Class 12, EDGE(RX only) Quad-band (850/900/1800/1900MHz)
+Display - 3.0-inch WQVGA 262K TFT-LCD
+Camera - 3.2-Mega Pixel Camera
+Video - Recording : MPEG4/H263, QVGA/15fps/384Kbps Playing: QCIF/25fps/384Kbps, QVGA/15fps/384Kbps
+Audio - Music Library, DNSe, Music Match 3.5mm Ear Jack, Stereo FM Radio with RDS, Voice Recorder
+Value-addedSMW Features - Accelerometer Sensor Social Hub - Integrated Contacts, Integrated Calendar, Widget, Unified Inbox - Basic: POP3/IMAP Email & IM Preloaded SNS: facebook, twitter IM: Gtalk , AIM, facebook chat, Yahoo IM Easy e-mail set up Exchange ActiveSync: Google Sync, Hotmail Sync Google Search/Mail/Maps TouchWiz 3.0 QuickType by t9 Trace RSS Reader, Document Viewer Fake Call , SOS Message, Mobile Tracker
+Connectivity - Bluetooth technology v 3.0 USB 2.0 (Full -Speed) WiFi 802.11 (b/g/n)
+Memory - microSD (up to 16GB)
+Size - 107.5 x 54 x 12.4 mm
+Battery - 1000mAh
+
+ADDITIONAL SPECIFICATION CONTENT
+Images Videos Tech Specs Related Articles Samsung Star II Product Specifications Network GPRS Class 12, EDGE(RX only) Quad-band (850/900/1800/1900MHz) Display 3.0-inch WQVGA 262K TFT-LCD Camera 3.2-Mega Pixel Camera Video Recording : MPEG4/H263, QVGA/15fps/384Kbps Playing: QCIF/25fps/384Kbps, QVGA/15fps/384Kbps Audio Music Library, DNSe, Music Match 3.5mm Ear Jack, Stereo FM Radio with RDS, Voice Recorder Value-addedSMW Features Accelerometer Sensor Social Hub - Integrated Contacts, Integrated Calendar, Widget, Unified Inbox - Basic: POP3/IMAP Email & IM Preloaded SNS: facebook, twitter IM: Gtalk , AIM, facebook chat, Yahoo IM Easy e-mail set up Exchange ActiveSync: Google Sync, Hotmail Sync Google Search/Mail/Maps TouchWiz 3.0 QuickType by t9 Trace RSS Reader, Document Viewer Fake Call , SOS Message, Mobile Tracker Connectivity Bluetooth technology v 3.0 USB 2.0 (Full -Speed) WiFi 802.11 (b/g/n) Memory microSD (up to 16GB) Size 107.5 x 54 x 12.4 mm Battery 1000mAh
+
+Samsung Star II Product Specifications Network GPRS Class 12, EDGE(RX only) Quad-band (850/900/1800/1900MHz) Display 3.0-inch WQVGA 262K TFT-LCD Camera 3.2-Mega Pixel Camera Video Recording : MPEG4/H263, QVGA/15fps/384Kbps Playing: QCIF/25fps/384Kbps, QVGA/15fps/384Kbps Audio Music Library, DNSe, Music Match 3.5mm Ear Jack, Stereo FM Radio with RDS, Voice Recorder Value-addedSMW Features Accelerometer Sensor Social Hub - Integrated Contacts, Integrated Calendar, Widget, Unified Inbox - Basic: POP3/IMAP Email & IM Preloaded SNS: facebook, twitter IM: Gtalk , AIM, facebook chat, Yahoo IM Easy e-mail set up Exchange ActiveSync: Google Sync, Hotmail Sync Google Search/Mail/Maps TouchWiz 3.0 QuickType by t9 Trace RSS Reader, Document Viewer Fake Call , SOS Message, Mobile Tracker Connectivity Bluetooth technology v 3.0 USB 2.0 (Full -Speed) WiFi 802.11 (b/g/n) Memory microSD (up to 16GB) Size 107.5 x 54 x 12.4 mm Battery 1000mAh
+
+--------------------------------------------------------------------------------

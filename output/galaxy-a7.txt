@@ -1,0 +1,26 @@
+DEVICE: Galaxy A7
+URL: https://www.samsungmobilepress.com/media-assets/galaxy_a7
+
+SPECIFICATIONS
+Display - 6.0” FHD+ (1080x2220) Super AMOLED *Screen measured diagonally as a full rectangle without accounting for the rounded corners
+Camera - Rear: Triple camera - 24MP AF (F1.7) - Ultra Wide: 8MP (F2.4), 120° - Depth: 5MP(F2.2) Front: 24MP FF (F2.0)
+Body - 159.8 x 76.8 x 7.5 mm, 168g
+AP - Octa Core 2.2GHz * May differ by market and mobile operator
+Memory - 4GB RAM, 64 Internal Storage+MicroSD Slot(Up to 512GB) 4GB RAM, 128 Internal Storage 6GB RAM, 128 Internal Storage *May differ by market and mobile operator
+Battery - 3,300mAh
+OS - Android 8.0
+Network - LTE Cat.6, 2CA
+Connectivity - Wi-Fi 802.11 a/b/g/n/ac (2.4/5GHz), VHT80, Bluetooth® v 5.0 (LE up to 2Mbps), ANT+, USB Type-B, NFC(optional*), Location (GPS, Glonass, BeiDou**) *May vary by country **BeiDou coverage may be limited.
+Payment - NFC* * May vary by country
+Sensor - Accelerometer, Fingerprint Sensor, Gyro Sensor, Geomagnetic Sensor, Hall Sensor, Proximity Sensor, RGB Light Sensor
+Audio - MP3, M4A, 3GA, AAC, OGG, OGA, WAV, WMA, AMR, AWB, FLAC, MID, MIDI, XMF, MXMF, IMY, RTTTL, RTX, OTA
+Video - MP4, M4V, 3GP, 3G2, WMV, ASF, AVI, FLV, MKV, WEBM
+
+ADDITIONAL SPECIFICATION CONTENT
+Smartphone Galaxy A7
+
+Images Videos Tech Specs Related Articles Galaxy A7 Specifications Display 6.0” FHD+ (1080x2220) Super AMOLED *Screen measured diagonally as a full rectangle without accounting for the rounded corners Camera Rear: Triple camera - 24MP AF (F1.7) - Ultra Wide: 8MP (F2.4), 120° - Depth: 5MP(F2.2) Front: 24MP FF (F2.0) Body 159.8 x 76.8 x 7.5 mm, 168g AP Octa Core 2.2GHz * May differ by market and mobile operator Memory 4GB RAM, 64 Internal Storage+MicroSD Slot(Up to 512GB) 4GB RAM, 128 Internal Storage 6GB RAM, 128 Internal Storage *May differ by market and mobile operator Battery 3,300mAh OS Android 8.0 Network LTE Cat.6, 2CA Connectivity Wi-Fi 802.11 a/b/g/n/ac (2.4/5GHz), VHT80, Bluetooth® v 5.0 (LE up to 2Mbps), ANT+, USB Type-B, NFC(optional*), Location (GPS, Glonass, BeiDou**) *May vary by country **BeiDou coverage may be limited. Payment NFC* * May vary by country Sensor Accelerometer, Fingerprint Sensor, Gyro Sensor, Geomagnetic Sensor, Hall Sensor, Proximity Sensor, RGB Light Sensor Audio MP3, M4A, 3GA, AAC, OGG, OGA, WAV, WMA, AMR, AWB, FLAC, MID, MIDI, XMF, MXMF, IMY, RTTTL, RTX, OTA Video MP4, M4V, 3GP, 3G2, WMV, ASF, AVI, FLV, MKV, WEBM
+
+Galaxy A7 Specifications Display 6.0” FHD+ (1080x2220) Super AMOLED *Screen measured diagonally as a full rectangle without accounting for the rounded corners Camera Rear: Triple camera - 24MP AF (F1.7) - Ultra Wide: 8MP (F2.4), 120° - Depth: 5MP(F2.2) Front: 24MP FF (F2.0) Body 159.8 x 76.8 x 7.5 mm, 168g AP Octa Core 2.2GHz * May differ by market and mobile operator Memory 4GB RAM, 64 Internal Storage+MicroSD Slot(Up to 512GB) 4GB RAM, 128 Internal Storage 6GB RAM, 128 Internal Storage *May differ by market and mobile operator Battery 3,300mAh OS Android 8.0 Network LTE Cat.6, 2CA Connectivity Wi-Fi 802.11 a/b/g/n/ac (2.4/5GHz), VHT80, Bluetooth® v 5.0 (LE up to 2Mbps), ANT+, USB Type-B, NFC(optional*), Location (GPS, Glonass, BeiDou**) *May vary by country **BeiDou coverage may be limited. Payment NFC* * May vary by country Sensor Accelerometer, Fingerprint Sensor, Gyro Sensor, Geomagnetic Sensor, Hall Sensor, Proximity Sensor, RGB Light Sensor Audio MP3, M4A, 3GA, AAC, OGG, OGA, WAV, WMA, AMR, AWB, FLAC, MID, MIDI, XMF, MXMF, IMY, RTTTL, RTX, OTA Video MP4, M4V, 3GP, 3G2, WMV, ASF, AVI, FLV, MKV, WEBM
+
+--------------------------------------------------------------------------------

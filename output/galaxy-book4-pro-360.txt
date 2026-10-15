@@ -1,0 +1,30 @@
+DEVICE: Galaxy Book4 Pro 360
+URL: https://www.samsungmobilepress.com/media-assets/galaxy-book4-pro-360
+
+SPECIFICATIONS
+Dimensions * - 355.4 x 252.2 x 12.8mm
+Weight * - 1.66kg
+OS * - Windows 11 Home
+Display * - 16-inch, 16:10 Touch AMOLED, WQXGA+ (2880x1800), 400nits, 48~120Hz VRR, 120% DCI-P3 Color volume
+Processor * - Intel ® Core ™ Ultra 7 / Core ™ Ultra 5 (Intel ® EVO ™ Edition)
+Graphic * - Intel ® Arc ™ Graphics (Shared)
+Network * - Wi-Fi 6E, 802.11 ax 2x2, Bluetooth v5.3
+Color - Moonstone Gray, Platinum Silver
+Memory * - 16GB/32GB (LPDDR5X)
+Storage * - 512GB/1TB SSD (PCIe)
+Camera - 2M (1080p FHD)
+Microphone/ Speaker - Studio-quality Dual Microphones / AKG Quad speakers (Woofer Max 5Wx2, Tweeter 2Wx2), Dolby Atmos ®
+Keyboard * - Pro keyboard with Numeric key (Backlit keyboard)
+Pen - S Pen (In-box)
+Battery * - 76Wh​ (Typical)
+Charging * - 65W USB Type-C Adapter
+Port * - Thunderbolt ™ 4 (2), USB Type-A, HDMI 2.1 port (Supports 8K@60, 5K@120), Micro SD, Headphone/Microphone
+
+ADDITIONAL SPECIFICATION CONTENT
+Tablet & PC Galaxy Book4 Pro 360
+
+Images Videos Tech Specs Related Articles Galaxy Book4 Pro 360 16-inch Dimensions * 355.4 x 252.2 x 12.8mm * Accuracy of numbers may vary depending on measurements used. Height may vary depending on manufacturing process. Weight * 1.66kg * Weights may vary depending on manufacturing process. OS * Windows 11 Home * Availability may vary by device. Display * 16-inch, 16:10 Touch AMOLED, WQXGA+ (2880x1800), 400nits, 48~120Hz VRR, 120% DCI-P3 Color volume * 400nits (Typ), 500nits (HDR) -VESA HDR 500 authentication, HDR Contents only. Processor * Intel ® Core ™ Ultra 7 / Core ™ Ultra 5 (Intel ® EVO ™ Edition) * Specifications may vary depending on model or market. Graphic * Intel ® Arc ™ Graphics (Shared) * Specifications may vary depending on model or market. Network * Wi-Fi 6E, 802.11 ax 2x2, Bluetooth v5.3 * Actual speed may vary depending on market, carrier, and user environment. Wi-Fi 6E availability may vary due to OS version, market, location, network conditions, and other factors. Wi-Fi 6E wireless network routers required and sold separately. Color Moonstone Gray, Platinum Silver Memory * 16GB/32GB (LPDDR5X) * Availability may vary by device. Storage * 512GB/1TB SSD (PCIe) * Availability may vary by device. Camera 2M (1080p FHD) Microphone/ Speaker Studio-quality Dual Microphones / AKG Quad speakers (Woofer Max 5Wx2, Tweeter 2Wx2), Dolby Atmos ® Keyboard * Pro keyboard with Numeric key (Backlit keyboard) * Keyboard layout may vary by market. Pen S Pen (In-box) Battery * 76Wh​ (Typical) * Typical value of battery capacity tested under third-party laboratory condition. Typical value is the estimated average value considering the deviation in battery capacity among the battery samples tested under IEC 61960 standard. Rated (minimum ) capacity is 73.9Wh. Charging * 65W USB Type-C Adapter * The inbox charger and data cable are USB Type-C. Port * Thunderbolt ™ 4 (2), USB Type-A, HDMI 2.1 port (Supports 8K@60, 5K@120), Micro SD, Headphone/Microphone * Actual speed of USB may vary depending on user environment. *Specifications may vary by market. *All functionality, features, specifications and other product information provided in this document including, but not limited to, the benefits, design, pricing, components, performance, availability, and capabilities of the product are subject to change without notice.
+
+Galaxy Book4 Pro 360 16-inch Dimensions * 355.4 x 252.2 x 12.8mm * Accuracy of numbers may vary depending on measurements used. Height may vary depending on manufacturing process. Weight * 1.66kg * Weights may vary depending on manufacturing process. OS * Windows 11 Home * Availability may vary by device. Display * 16-inch, 16:10 Touch AMOLED, WQXGA+ (2880x1800), 400nits, 48~120Hz VRR, 120% DCI-P3 Color volume * 400nits (Typ), 500nits (HDR) -VESA HDR 500 authentication, HDR Contents only. Processor * Intel ® Core ™ Ultra 7 / Core ™ Ultra 5 (Intel ® EVO ™ Edition) * Specifications may vary depending on model or market. Graphic * Intel ® Arc ™ Graphics (Shared) * Specifications may vary depending on model or market. Network * Wi-Fi 6E, 802.11 ax 2x2, Bluetooth v5.3 * Actual speed may vary depending on market, carrier, and user environment. Wi-Fi 6E availability may vary due to OS version, market, location, network conditions, and other factors. Wi-Fi 6E wireless network routers required and sold separately. Color Moonstone Gray, Platinum Silver Memory * 16GB/32GB (LPDDR5X) * Availability may vary by device. Storage * 512GB/1TB SSD (PCIe) * Availability may vary by device. Camera 2M (1080p FHD) Microphone/ Speaker Studio-quality Dual Microphones / AKG Quad speakers (Woofer Max 5Wx2, Tweeter 2Wx2), Dolby Atmos ® Keyboard * Pro keyboard with Numeric key (Backlit keyboard) * Keyboard layout may vary by market. Pen S Pen (In-box) Battery * 76Wh​ (Typical) * Typical value of battery capacity tested under third-party laboratory condition. Typical value is the estimated average value considering the deviation in battery capacity among the battery samples tested under IEC 61960 standard. Rated (minimum ) capacity is 73.9Wh. Charging * 65W USB Type-C Adapter * The inbox charger and data cable are USB Type-C. Port * Thunderbolt ™ 4 (2), USB Type-A, HDMI 2.1 port (Supports 8K@60, 5K@120), Micro SD, Headphone/Microphone * Actual speed of USB may vary depending on user environment. *Specifications may vary by market. *All functionality, features, specifications and other product information provided in this document including, but not limited to, the benefits, design, pricing, components, performance, availability, and capabilities of the product are subject to change without notice.
+
+--------------------------------------------------------------------------------

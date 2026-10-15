@@ -1,0 +1,25 @@
+DEVICE: Gear 2
+URL: https://www.samsungmobilepress.com/media-assets/gear-2
+
+SPECIFICATIONS
+Display - 1.63” Super AMOLED (320 x 320)
+AP - 1.0 GHz Dual Core Processor
+OS - Tizen based wearable platform
+Camera - Gear 2 : 2.0 Megapixel Auto Focus (1920x1080, 1080x1080, 1280x960)
+Video - Codec: H.264(AVC), H.263 Format: 3GP, MP4 HD(720p, @30fps) Playback & Recording
+Audio - Codec: MP3/AAC/AAC+/eAAC+ Format: MP3, M4A, AAC, OGG
+Camera Features - Auto Focus Camera, Sound & Shot, Location Tags, Signature
+Additional Features - Fitness Features: 1.Heart Rate sensor 2.Pedometer 3.Exercise Standalone Modes: Running, Walking Companion Modes: Cycling, Hiking 4.Sleep
+Samsung Services - Samsung Apps
+Connectivity - Bluetooth® v4.0 LE, IrLED
+Sensor - Accelerometer, Gyroscope, Heart Rate
+Memory - RAM: 512MB Storage: 4GB Internal Memory
+Dimension - Gear 2 : 36.9 x 58.4x 10.0 mm, 68g
+Battery - Standard Battery, Li-ion 300mAh Typical Usage 2~3 days, Low Usage up to 6 days
+
+ADDITIONAL SPECIFICATION CONTENT
+Images Videos Tech Specs Related Articles Samsung Gear 2 Product Specifications Display 1.63” Super AMOLED (320 x 320) AP 1.0 GHz Dual Core Processor OS Tizen based wearable platform Camera Gear 2 : 2.0 Megapixel Auto Focus (1920x1080, 1080x1080, 1280x960) Gear 2 Neo : N/A Video Codec: H.264(AVC), H.263 Format: 3GP, MP4 HD(720p, @30fps) Playback & Recording Audio Codec: MP3/AAC/AAC+/eAAC+ Format: MP3, M4A, AAC, OGG Camera Features Auto Focus Camera, Sound & Shot, Location Tags, Signature Additional Features Fitness Features: 1.Heart Rate sensor 2.Pedometer 3.Exercise Standalone Modes: Running, Walking Companion Modes: Cycling, Hiking 4.Sleep Music Player with Bluetooth® Headset and Speaker WatchON Remote: Remote Controller via IrLED Sensor Basic Features: - Bluetooth Call, Camera, Notification(SMS, E-mail, Apps) Voice Memo, Contact, Find My Device, Gallery, Logs, Media Controller, Schedule, Smart Relay, S Voice, Stopwatch, Timer, Weather More Features(Downloadable): - Calculator, ChatON, Flashlight, Quick Settings. Changeable Strap Color Options: - Gear 2 : Charcoal Black, Gold Brown and Wild Orange - Gear 2 Neo : Charcoal Black, Mocha Grey and Wild Orange IP67 Certified Dust and Water Resistant, Noise Cancellation Samsung Services Samsung Apps Connectivity Bluetooth® v4.0 LE, IrLED Sensor Accelerometer, Gyroscope, Heart Rate Memory RAM: 512MB Storage: 4GB Internal Memory Dimension Gear 2 : 36.9 x 58.4x 10.0 mm, 68g Gear 2 Neo : 37.9 x 58.8 x 10.0mm, 55g Battery Standard Battery, Li-ion 300mAh Typical Usage 2~3 days, Low Usage up to 6 days
+
+Samsung Gear 2 Product Specifications Display 1.63” Super AMOLED (320 x 320) AP 1.0 GHz Dual Core Processor OS Tizen based wearable platform Camera Gear 2 : 2.0 Megapixel Auto Focus (1920x1080, 1080x1080, 1280x960) Gear 2 Neo : N/A Video Codec: H.264(AVC), H.263 Format: 3GP, MP4 HD(720p, @30fps) Playback & Recording Audio Codec: MP3/AAC/AAC+/eAAC+ Format: MP3, M4A, AAC, OGG Camera Features Auto Focus Camera, Sound & Shot, Location Tags, Signature Additional Features Fitness Features: 1.Heart Rate sensor 2.Pedometer 3.Exercise Standalone Modes: Running, Walking Companion Modes: Cycling, Hiking 4.Sleep Music Player with Bluetooth® Headset and Speaker WatchON Remote: Remote Controller via IrLED Sensor Basic Features: - Bluetooth Call, Camera, Notification(SMS, E-mail, Apps) Voice Memo, Contact, Find My Device, Gallery, Logs, Media Controller, Schedule, Smart Relay, S Voice, Stopwatch, Timer, Weather More Features(Downloadable): - Calculator, ChatON, Flashlight, Quick Settings. Changeable Strap Color Options: - Gear 2 : Charcoal Black, Gold Brown and Wild Orange - Gear 2 Neo : Charcoal Black, Mocha Grey and Wild Orange IP67 Certified Dust and Water Resistant, Noise Cancellation Samsung Services Samsung Apps Connectivity Bluetooth® v4.0 LE, IrLED Sensor Accelerometer, Gyroscope, Heart Rate Memory RAM: 512MB Storage: 4GB Internal Memory Dimension Gear 2 : 36.9 x 58.4x 10.0 mm, 68g Gear 2 Neo : 37.9 x 58.8 x 10.0mm, 55g Battery Standard Battery, Li-ion 300mAh Typical Usage 2~3 days, Low Usage up to 6 days
+
+--------------------------------------------------------------------------------

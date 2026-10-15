@@ -1,0 +1,31 @@
+DEVICE: Galaxy Book2 360
+URL: https://www.samsungmobilepress.com/media-assets/galaxy-book2-360
+
+SPECIFICATIONS
+​ - Galaxy Book2 360 13.3-inch
+Dimensions* - 304.4 x 202.0 x 12.9mm
+Weight​* - 1.16kg
+OS* - Windows 11
+Display​ - 13.3-inch OLED, FHD ​(1920 x 1080), Touch
+CPU (Platform) - 12th Gen Intel ® Core™ Processors (i7/i5/i3), Pentium, Celeron
+Graphic​* - Intel ® Iris ® X e Graphics, Intel ® UHD Graphics
+Connectivity* - Wi-Fi 6E (Gig+), 802.11 ax 2x2, Bluetooth v5.1
+Color​* - Silver, Graphite
+Memory* - 8/16GB (LPDDR4x)
+Storage* - 256/512GB, 1TB
+Camera/Mic - HD 720p/Dual Array Mic
+Audio - Dolby Atmos ®
+Keyboard* - Island Type with Backlit
+Battery​* - 61.1Wh (Typical)
+Adaptor​ - 65W USB Type-C Adaptor
+Authentication - Fingerprint​ on Power Key
+Ports* - Thunderbolt™ 4 (1), USB Type-C (1), USB 3.2 (1), HDMI (1), Headphone/Mic, microSD
+
+ADDITIONAL SPECIFICATION CONTENT
+Tablet & PC Galaxy Book2 360
+
+Images Videos Tech Specs Related Articles Galaxy Book2 ​ Galaxy Book2 360 13.3-inch Dimensions* 304.4 x 202.0 x 12.9mm *Accuracy of numbers may vary depending on measurements used. Height varies depending on manufacturing process. Weight​* 1.16kg *Weights vary depending on manufacturing process. OS* Windows 11 *Availability varies by region and carrier. Experience may vary by device. Display​ 13.3-inch OLED, FHD ​(1920 x 1080), Touch CPU (Platform) 12th Gen Intel ® Core™ Processors (i7/i5/i3), Pentium, Celeron Graphic​* Intel ® Iris ® X e Graphics, Intel ® UHD Graphics *Availability may vary by devices. Connectivity* Wi-Fi 6E (Gig+), 802.11 ax 2x2, Bluetooth v5.1 *Availability varies by region and requires a separate subscription through a service provider. Color​* Silver, Graphite *Color availability may vary by market and retailers. Memory* 8/16GB (LPDDR4x) *Availability may vary by devices. Storage* 256/512GB, 1TB *Availability may vary by devices. Camera/Mic HD 720p/Dual Array Mic Audio Dolby Atmos ® Keyboard* Island Type with Backlit *Keyboard layout may differ by market. Battery​* 61.1Wh (Typical) *Typical value tested under third-party laboratory condition. Typical value is the estimated average value considering the deviation in battery capacity among the battery samples tested under IEC 61960 standard. Actual battery life may vary depending on network environment, usage patterns and other factors. Adaptor​ 65W USB Type-C Adaptor Authentication Fingerprint​ on Power Key Ports* Thunderbolt™ 4 (1), USB Type-C (1), USB 3.2 (1), HDMI (1), Headphone/Mic, microSD *Actual speed of USB can vary depending on user environment.
+
+Galaxy Book2 ​ Galaxy Book2 360 13.3-inch Dimensions* 304.4 x 202.0 x 12.9mm *Accuracy of numbers may vary depending on measurements used. Height varies depending on manufacturing process. Weight​* 1.16kg *Weights vary depending on manufacturing process. OS* Windows 11 *Availability varies by region and carrier. Experience may vary by device. Display​ 13.3-inch OLED, FHD ​(1920 x 1080), Touch CPU (Platform) 12th Gen Intel ® Core™ Processors (i7/i5/i3), Pentium, Celeron Graphic​* Intel ® Iris ® X e Graphics, Intel ® UHD Graphics *Availability may vary by devices. Connectivity* Wi-Fi 6E (Gig+), 802.11 ax 2x2, Bluetooth v5.1 *Availability varies by region and requires a separate subscription through a service provider. Color​* Silver, Graphite *Color availability may vary by market and retailers. Memory* 8/16GB (LPDDR4x) *Availability may vary by devices. Storage* 256/512GB, 1TB *Availability may vary by devices. Camera/Mic HD 720p/Dual Array Mic Audio Dolby Atmos ® Keyboard* Island Type with Backlit *Keyboard layout may differ by market. Battery​* 61.1Wh (Typical) *Typical value tested under third-party laboratory condition. Typical value is the estimated average value considering the deviation in battery capacity among the battery samples tested under IEC 61960 standard. Actual battery life may vary depending on network environment, usage patterns and other factors. Adaptor​ 65W USB Type-C Adaptor Authentication Fingerprint​ on Power Key Ports* Thunderbolt™ 4 (1), USB Type-C (1), USB 3.2 (1), HDMI (1), Headphone/Mic, microSD *Actual speed of USB can vary depending on user environment.
+
+--------------------------------------------------------------------------------

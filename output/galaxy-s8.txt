@@ -1,0 +1,29 @@
+DEVICE: Galaxy S8
+URL: https://www.samsungmobilepress.com/media-assets/galaxy-s8-2
+
+SPECIFICATIONS
+Galaxy S8 - Galaxy S8+
+OS - Android 7.0
+Network - LTE Cat. 16* *May differ by markets and mobile operators
+Dimension - 148.9 x 68.1 x 8.0 mm, 155g - 159.5 x 73.4 x 8.1 mm, 173g
+AP - Octa core (2.3GHz Quad + 1.7GHz Quad), 64 bit, 10 nm process Octa core (2.35GHz Quad + 1.9GHz Quad), 64 bit, 10 nm process *May differ by markets and mobile operators
+Memory - 4GB RAM (LPDDR4), 64GB *May differ by markets and mobile operators
+Display - 5.8” (146.5mm)1 Quad HD+ (2960x1440), (570ppi) - 6.2” (158.1mm)1 Quad HD+ (2960x1440), (529ppi)
+Display - 1 Screen measured diagonally as a full rectangle without accounting for the rounded corners
+Camera - Rear: Dual Pixel 12MP OIS (F1.7), Front: 8MP AF (F1.7)
+Battery - 3,000 mAh - 3,500 mAh
+Battery - Fast Charging on wired and wireless Wireless Charging compatible with WPC and PMA
+Payment - NFC, MST
+Connectivity - Wi-Fi 802.11 a/b/g/n/ac (2.4/5GHz), VHT80 MU-MIMO, 1024QAM Bluetooth® v 5.0 (LE up to 2Mbps), ANT+, USB Type-C, NFC, Location (GPS, Galileo*, Glonass, BeiDou*) *Galileo and BeiDou coverage may be limited.
+Sensor - Accelerometer, Barometer, Fingerprint Sensor, Gyro Sensor, Geomagnetic Sensor, Hall Sensor, Heart Rate Sensor, Proximity Sensor, RGB Light Sensor, Iris Sensor, Pressure Sensor
+Audio - MP3, M4A, 3GA, AAC, OGG, OGA, WAV, WMA, AMR, AWB, FLAC, MID, MIDI, XMF, MXMF, IMY, RTTTL, RTX, OTA, DSF, DFF
+Video - MP4, M4V, 3GP, 3G2, WMV, ASF, AVI, FLV, MKV, WEBM
+
+ADDITIONAL SPECIFICATION CONTENT
+Smartphone Galaxy S8
+
+Images Videos Tech Specs Related Articles Galaxy S8 Galaxy S8+ OS Android 7.0 Network LTE Cat. 16* *May differ by markets and mobile operators Dimension 148.9 x 68.1 x 8.0 mm, 155g 159.5 x 73.4 x 8.1 mm, 173g AP Octa core (2.3GHz Quad + 1.7GHz Quad), 64 bit, 10 nm process Octa core (2.35GHz Quad + 1.9GHz Quad), 64 bit, 10 nm process *May differ by markets and mobile operators Memory 4GB RAM (LPDDR4), 64GB *May differ by markets and mobile operators Display 5.8” (146.5mm)1 Quad HD+ (2960x1440), (570ppi) 6.2” (158.1mm)1 Quad HD+ (2960x1440), (529ppi) Display 1 Screen measured diagonally as a full rectangle without accounting for the rounded corners Camera Rear: Dual Pixel 12MP OIS (F1.7), Front: 8MP AF (F1.7) Battery 3,000 mAh 3,500 mAh Battery Fast Charging on wired and wireless Wireless Charging compatible with WPC and PMA Payment NFC, MST Connectivity Wi-Fi 802.11 a/b/g/n/ac (2.4/5GHz), VHT80 MU-MIMO, 1024QAM Bluetooth® v 5.0 (LE up to 2Mbps), ANT+, USB Type-C, NFC, Location (GPS, Galileo*, Glonass, BeiDou*) *Galileo and BeiDou coverage may be limited. Sensor Accelerometer, Barometer, Fingerprint Sensor, Gyro Sensor, Geomagnetic Sensor, Hall Sensor, Heart Rate Sensor, Proximity Sensor, RGB Light Sensor, Iris Sensor, Pressure Sensor Audio MP3, M4A, 3GA, AAC, OGG, OGA, WAV, WMA, AMR, AWB, FLAC, MID, MIDI, XMF, MXMF, IMY, RTTTL, RTX, OTA, DSF, DFF Video MP4, M4V, 3GP, 3G2, WMV, ASF, AVI, FLV, MKV, WEBM
+
+Galaxy S8 Galaxy S8+ OS Android 7.0 Network LTE Cat. 16* *May differ by markets and mobile operators Dimension 148.9 x 68.1 x 8.0 mm, 155g 159.5 x 73.4 x 8.1 mm, 173g AP Octa core (2.3GHz Quad + 1.7GHz Quad), 64 bit, 10 nm process Octa core (2.35GHz Quad + 1.9GHz Quad), 64 bit, 10 nm process *May differ by markets and mobile operators Memory 4GB RAM (LPDDR4), 64GB *May differ by markets and mobile operators Display 5.8” (146.5mm)1 Quad HD+ (2960x1440), (570ppi) 6.2” (158.1mm)1 Quad HD+ (2960x1440), (529ppi) Display 1 Screen measured diagonally as a full rectangle without accounting for the rounded corners Camera Rear: Dual Pixel 12MP OIS (F1.7), Front: 8MP AF (F1.7) Battery 3,000 mAh 3,500 mAh Battery Fast Charging on wired and wireless Wireless Charging compatible with WPC and PMA Payment NFC, MST Connectivity Wi-Fi 802.11 a/b/g/n/ac (2.4/5GHz), VHT80 MU-MIMO, 1024QAM Bluetooth® v 5.0 (LE up to 2Mbps), ANT+, USB Type-C, NFC, Location (GPS, Galileo*, Glonass, BeiDou*) *Galileo and BeiDou coverage may be limited. Sensor Accelerometer, Barometer, Fingerprint Sensor, Gyro Sensor, Geomagnetic Sensor, Hall Sensor, Heart Rate Sensor, Proximity Sensor, RGB Light Sensor, Iris Sensor, Pressure Sensor Audio MP3, M4A, 3GA, AAC, OGG, OGA, WAV, WMA, AMR, AWB, FLAC, MID, MIDI, XMF, MXMF, IMY, RTTTL, RTX, OTA, DSF, DFF Video MP4, M4V, 3GP, 3G2, WMV, ASF, AVI, FLV, MKV, WEBM
+
+--------------------------------------------------------------------------------

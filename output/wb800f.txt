@@ -1,0 +1,26 @@
+DEVICE: WB800F
+URL: https://www.samsungmobilepress.com/media-assets/wb800f
+
+SPECIFICATIONS
+Image Sensor - 16.3 effective megapixel 1/2.3" BSI CMOS
+Lens - 21x Optical Zoom Lens, 23 mm Wide Angle, F2.8(W) ~ 5.9(T)
+IS - OIS
+Display - 75.0mm (3.0”), Touch TFT LCD screen
+ISO - Auto, 80, 100, 200, 400, 800, 1600, 3200
+Image - JPEG format 16M, 14M, 12M, 10M, 8M, 5M, 3M, 2M Wide, 1M
+Video - MP4 (Video: MPEG4, AVC/H.264, Audio: AAC) 1920x1080(30fps), 1280x720(30fps), 640x480(30fps), 320X240(30fps), for sharing(30fps, 30s)
+Video Output - AV, HDMI 1.3
+Value-Added Features - SMART Mode : Beauty Face, Continuous Shot, Landscape, Macro, Action Freeze, Rich Tone (HDR), Panorama, Waterfall, Silhouette, Sunset, Low Light Shot, Fireworks, Light Trace
+Wi-Fi Connectivity - AutoShare, MobileLink, Remote Viewfinder, Social Sharing, email, Cloud, Auto Backup, AllShare Play, S/W Upgrade Notifier
+Bundle PC software - i-Launcher
+Storage - SDSC (up to 2GB), SDHC (up to 32GB), SDXC (up to 64GB)
+Battery - SLB-10A
+Dimension (WxHxD) - 110.6 x 65 x 21.5mm
+Weight - 218g (without battery)
+
+ADDITIONAL SPECIFICATION CONTENT
+Images Videos Tech Specs Related Articles Samsung WB800F Product Specifications Image Sensor 16.3 effective megapixel 1/2.3" BSI CMOS Lens 21x Optical Zoom Lens, 23 mm Wide Angle, F2.8(W) ~ 5.9(T) IS OIS Display 75.0mm (3.0”), Touch TFT LCD screen ISO Auto, 80, 100, 200, 400, 800, 1600, 3200 Image JPEG format 16M, 14M, 12M, 10M, 8M, 5M, 3M, 2M Wide, 1M Video MP4 (Video: MPEG4, AVC/H.264, Audio: AAC) 1920x1080(30fps), 1280x720(30fps), 640x480(30fps), 320X240(30fps), for sharing(30fps, 30s) Video Output AV, HDMI 1.3 Value-Added Features SMART Mode : Beauty Face, Continuous Shot, Landscape, Macro, Action Freeze, Rich Tone (HDR), Panorama, Waterfall, Silhouette, Sunset, Low Light Shot, Fireworks, Light Trace Dual capture Wi-Fi Connectivity AutoShare, MobileLink, Remote Viewfinder, Social Sharing, email, Cloud, Auto Backup, AllShare Play, S/W Upgrade Notifier Bundle PC software i-Launcher Storage SDSC (up to 2GB), SDHC (up to 32GB), SDXC (up to 64GB) Battery SLB-10A Dimension (WxHxD) 110.6 x 65 x 21.5mm Weight 218g (without battery)
+
+Samsung WB800F Product Specifications Image Sensor 16.3 effective megapixel 1/2.3" BSI CMOS Lens 21x Optical Zoom Lens, 23 mm Wide Angle, F2.8(W) ~ 5.9(T) IS OIS Display 75.0mm (3.0”), Touch TFT LCD screen ISO Auto, 80, 100, 200, 400, 800, 1600, 3200 Image JPEG format 16M, 14M, 12M, 10M, 8M, 5M, 3M, 2M Wide, 1M Video MP4 (Video: MPEG4, AVC/H.264, Audio: AAC) 1920x1080(30fps), 1280x720(30fps), 640x480(30fps), 320X240(30fps), for sharing(30fps, 30s) Video Output AV, HDMI 1.3 Value-Added Features SMART Mode : Beauty Face, Continuous Shot, Landscape, Macro, Action Freeze, Rich Tone (HDR), Panorama, Waterfall, Silhouette, Sunset, Low Light Shot, Fireworks, Light Trace Dual capture Wi-Fi Connectivity AutoShare, MobileLink, Remote Viewfinder, Social Sharing, email, Cloud, Auto Backup, AllShare Play, S/W Upgrade Notifier Bundle PC software i-Launcher Storage SDSC (up to 2GB), SDHC (up to 32GB), SDXC (up to 64GB) Battery SLB-10A Dimension (WxHxD) 110.6 x 65 x 21.5mm Weight 218g (without battery)
+
+--------------------------------------------------------------------------------

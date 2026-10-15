@@ -1,0 +1,29 @@
+DEVICE: GALAXY Tab S 8.4-inch
+URL: https://www.samsungmobilepress.com/media-assets/galaxy-tab-s-8-4-inch
+
+SPECIFICATIONS
+Network - LTE : 800/ 900/ 1800/ 2600+850/ 2100 3G : 850/ 900/ 1900/ 2100 2G : 850/ 900/ 1800/ 1900
+Processor - Exynos 5 Octa (1.9 GHz QuadCore + 1.3 GHz Quadcore) or Qualcomm Snapdragon 800 2.3 GHz Quadcore*
+Display - 8.4” 2560x1600(WQXGA) Super AMOLED
+OS - Android Kitkat (4.4)
+Camera / Flash - 8MP w/ LED Flash + 2.1MP Full HD
+Video - H.263, H.264(AVC), MPEG4, VC-1, WMV7, WMV8, VP8 Recording : FHD(1920 x 1080) @ 30fps Playback: WQHD (2560x1440) @ 30fps
+Audio - MP3, AAC, AAC+, eAAC+, WMA, Vorbis, FLAC
+Content Services / Applications - Papergarden, Professional pack, Multi-user mode, Sidesync 3.0, Gear & Gear fit manager
+Free Downloadable apps - Group Play, S-Note, S Translator, Samsung Link, Scrapbook, Story Album, Video Editor
+Google Mobile Services - Chrome, Gmail, Google Search, Maps, Play Store, Voice Search, YouTube, Google+, Hangouts, Play books, Play Games, Play Newsstand, Play Movies & TV, Play Music, Drive, Google setting, Photos
+Connectivity - WiFi 802.11 a/b/g/n/ac MIMO, WiFi Direct, Bluetooth®4.0, IrLED
+GPS - GPS, GLONASS, Beidou(not supported in USA, Canada)
+Sensor - Accelerometer, Fingerprint Sensor, Gyro Sensor, Geomagnetic Sensor, Hall Sensor, RGB Sensor *Proximity Sensor(only LTE ver)
+Memory - 3GB (RAM) + 16/32GB internal memory microSD up to 128GB
+Dimension / Weight - 125.6 x 212.8 x 6.6mm, 294g(Wifi) /298g(LTE)
+Battery - 4,900mAh
+
+ADDITIONAL SPECIFICATION CONTENT
+Tablet & PC GALAXY Tab S 8.4-inch
+
+Images Videos Tech Specs Related Articles Samsung Galaxy Tab S 8.4-inch Product Specifications Network LTE : 800/ 900/ 1800/ 2600+850/ 2100 3G : 850/ 900/ 1900/ 2100 2G : 850/ 900/ 1800/ 1900 Processor Exynos 5 Octa (1.9 GHz QuadCore + 1.3 GHz Quadcore) or Qualcomm Snapdragon 800 2.3 GHz Quadcore* Display 8.4” 2560x1600(WQXGA) Super AMOLED OS Android Kitkat (4.4) Camera / Flash 8MP w/ LED Flash + 2.1MP Full HD Video H.263, H.264(AVC), MPEG4, VC-1, WMV7, WMV8, VP8 Recording : FHD(1920 x 1080) @ 30fps Playback: WQHD (2560x1440) @ 30fps Audio MP3, AAC, AAC+, eAAC+, WMA, Vorbis, FLAC Content Services / Applications Papergarden, Professional pack, Multi-user mode, Sidesync 3.0, Gear & Gear fit manager Free Downloadable apps Group Play, S-Note, S Translator, Samsung Link, Scrapbook, Story Album, Video Editor Gear Manager, Gear Fit Manager, Samsung Smart Switch, Samsung Level, E-meeting, Kids Mode, Kids Piano(Ding Dong Tap), S-Console, Hanshow, Hancell, Hanwrite Google Mobile Services Chrome, Gmail, Google Search, Maps, Play Store, Voice Search, YouTube, Google+, Hangouts, Play books, Play Games, Play Newsstand, Play Movies & TV, Play Music, Drive, Google setting, Photos Connectivity WiFi 802.11 a/b/g/n/ac MIMO, WiFi Direct, Bluetooth®4.0, IrLED GPS GPS, GLONASS, Beidou(not supported in USA, Canada) Sensor Accelerometer, Fingerprint Sensor, Gyro Sensor, Geomagnetic Sensor, Hall Sensor, RGB Sensor *Proximity Sensor(only LTE ver) Memory 3GB (RAM) + 16/32GB internal memory microSD up to 128GB Dimension / Weight 125.6 x 212.8 x 6.6mm, 294g(Wifi) /298g(LTE) Battery 4,900mAh
+
+Samsung Galaxy Tab S 8.4-inch Product Specifications Network LTE : 800/ 900/ 1800/ 2600+850/ 2100 3G : 850/ 900/ 1900/ 2100 2G : 850/ 900/ 1800/ 1900 Processor Exynos 5 Octa (1.9 GHz QuadCore + 1.3 GHz Quadcore) or Qualcomm Snapdragon 800 2.3 GHz Quadcore* Display 8.4” 2560x1600(WQXGA) Super AMOLED OS Android Kitkat (4.4) Camera / Flash 8MP w/ LED Flash + 2.1MP Full HD Video H.263, H.264(AVC), MPEG4, VC-1, WMV7, WMV8, VP8 Recording : FHD(1920 x 1080) @ 30fps Playback: WQHD (2560x1440) @ 30fps Audio MP3, AAC, AAC+, eAAC+, WMA, Vorbis, FLAC Content Services / Applications Papergarden, Professional pack, Multi-user mode, Sidesync 3.0, Gear & Gear fit manager Free Downloadable apps Group Play, S-Note, S Translator, Samsung Link, Scrapbook, Story Album, Video Editor Gear Manager, Gear Fit Manager, Samsung Smart Switch, Samsung Level, E-meeting, Kids Mode, Kids Piano(Ding Dong Tap), S-Console, Hanshow, Hancell, Hanwrite Google Mobile Services Chrome, Gmail, Google Search, Maps, Play Store, Voice Search, YouTube, Google+, Hangouts, Play books, Play Games, Play Newsstand, Play Movies & TV, Play Music, Drive, Google setting, Photos Connectivity WiFi 802.11 a/b/g/n/ac MIMO, WiFi Direct, Bluetooth®4.0, IrLED GPS GPS, GLONASS, Beidou(not supported in USA, Canada) Sensor Accelerometer, Fingerprint Sensor, Gyro Sensor, Geomagnetic Sensor, Hall Sensor, RGB Sensor *Proximity Sensor(only LTE ver) Memory 3GB (RAM) + 16/32GB internal memory microSD up to 128GB Dimension / Weight 125.6 x 212.8 x 6.6mm, 294g(Wifi) /298g(LTE) Battery 4,900mAh
+
+--------------------------------------------------------------------------------

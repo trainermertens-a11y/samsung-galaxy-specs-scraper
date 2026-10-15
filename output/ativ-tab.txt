@@ -1,0 +1,30 @@
+DEVICE: ATIV Tab
+URL: https://www.samsungmobilepress.com/media-assets/ativ-tab
+
+SPECIFICATIONS
+OS - Windows RT
+Windows Services - Windows UI Internet Explorer 10, Bing Search, Bing Map, SkyDrive, Windows Store, Music, Video,Games
+Network - 1.5 GHz dual-core processor
+Display - 10.1 inch (256.5mm ) HD LCD (1366x768)
+Processor - 832MHz Processor
+Camera - Main(Rear): 5 Megapixel Auto Focus Camera with LED Flash Sub(Front): 1.2 Megapixel VT Camera
+Video - Codec: MPEG4, H.263, H.264, VC-1 WMV7, WMV8, WMV9 Full HD(1080p) Playback & HD(720p) Recording
+Audio - Codec: MP3, WMA, AAC, HE-AAC, PCM 3.5mm Ear Jack
+Sharing Features - Tap + Send (File sharing with NFC and BT/Wi-Fi) Samsung Family Story
+Content Features & Services - Samsung ChatOn mobile communication service Samsung Hub - Music Hub - Media Hub* (US only) Samsung Zone (in Windows Store) - Photo Editor
+Available Enterprise Solutions (upon request) - Exchange ActiveSync On-Device Encryption Cisco VPN (Virtual Private Network) Juniper Junos Pulse VPN EAS
+GPS - S-GPS Glonass
+Connectivity - Bluetooth® 4.0 USB 2.0 Host Wi-Fi 802.11 a/b/g/n (2.4 & 5 GHz), Wi-Fi Direct, Wi-Fi Channel Bonding 3.5mm earjack Micro HDMI NFC
+Sensor - Accelerometer, Geomagnetic, Ambient Light, Gyroscope, Grip Sensor
+Memory - 32/64GB User memory + 2GB (RAM) microSD (up to 64GB)
+Dimension - 265.8 x 168.1 x 8.9 mm, 570g
+Battery - Stanard battery, Li-ion 8,200mAh
+
+ADDITIONAL SPECIFICATION CONTENT
+Tablet & PC ATIV Tab
+
+Images Videos Tech Specs Related Articles Samsung Ativ Tab Product Specifications OS Windows RT Windows Services Windows UI Internet Explorer 10, Bing Search, Bing Map, SkyDrive, Windows Store, Music, Video,Games Network 1.5 GHz dual-core processor Display 10.1 inch (256.5mm ) HD LCD (1366x768) Processor 832MHz Processor Camera Main(Rear): 5 Megapixel Auto Focus Camera with LED Flash Sub(Front): 1.2 Megapixel VT Camera Video Codec: MPEG4, H.263, H.264, VC-1 WMV7, WMV8, WMV9 Full HD(1080p) Playback & HD(720p) Recording Audio Codec: MP3, WMA, AAC, HE-AAC, PCM 3.5mm Ear Jack Sharing Features Tap + Send (File sharing with NFC and BT/Wi-Fi) Samsung Family Story Content Features & Services Samsung ChatOn mobile communication service Samsung Hub - Music Hub - Media Hub* (US only) Samsung Zone (in Windows Store) - Photo Editor Available Enterprise Solutions (upon request) Exchange ActiveSync On-Device Encryption Cisco VPN (Virtual Private Network) Juniper Junos Pulse VPN EAS GPS S-GPS Glonass Connectivity Bluetooth® 4.0 USB 2.0 Host Wi-Fi 802.11 a/b/g/n (2.4 & 5 GHz), Wi-Fi Direct, Wi-Fi Channel Bonding 3.5mm earjack Micro HDMI NFC Sensor Accelerometer, Geomagnetic, Ambient Light, Gyroscope, Grip Sensor Memory 32/64GB User memory + 2GB (RAM) microSD (up to 64GB) Dimension 265.8 x 168.1 x 8.9 mm, 570g Battery Stanard battery, Li-ion 8,200mAh
+
+Samsung Ativ Tab Product Specifications OS Windows RT Windows Services Windows UI Internet Explorer 10, Bing Search, Bing Map, SkyDrive, Windows Store, Music, Video,Games Network 1.5 GHz dual-core processor Display 10.1 inch (256.5mm ) HD LCD (1366x768) Processor 832MHz Processor Camera Main(Rear): 5 Megapixel Auto Focus Camera with LED Flash Sub(Front): 1.2 Megapixel VT Camera Video Codec: MPEG4, H.263, H.264, VC-1 WMV7, WMV8, WMV9 Full HD(1080p) Playback & HD(720p) Recording Audio Codec: MP3, WMA, AAC, HE-AAC, PCM 3.5mm Ear Jack Sharing Features Tap + Send (File sharing with NFC and BT/Wi-Fi) Samsung Family Story Content Features & Services Samsung ChatOn mobile communication service Samsung Hub - Music Hub - Media Hub* (US only) Samsung Zone (in Windows Store) - Photo Editor Available Enterprise Solutions (upon request) Exchange ActiveSync On-Device Encryption Cisco VPN (Virtual Private Network) Juniper Junos Pulse VPN EAS GPS S-GPS Glonass Connectivity Bluetooth® 4.0 USB 2.0 Host Wi-Fi 802.11 a/b/g/n (2.4 & 5 GHz), Wi-Fi Direct, Wi-Fi Channel Bonding 3.5mm earjack Micro HDMI NFC Sensor Accelerometer, Geomagnetic, Ambient Light, Gyroscope, Grip Sensor Memory 32/64GB User memory + 2GB (RAM) microSD (up to 64GB) Dimension 265.8 x 168.1 x 8.9 mm, 570g Battery Stanard battery, Li-ion 8,200mAh
+
+--------------------------------------------------------------------------------

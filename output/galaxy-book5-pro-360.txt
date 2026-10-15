@@ -1,0 +1,31 @@
+DEVICE: Galaxy Book5 Pro 360
+URL: https://www.samsungmobilepress.com/media-assets/galaxy-book5-pro-360
+
+SPECIFICATIONS
+Dimensions * - 355.4 x 252.2 x 12.8mm
+Weight​ * - 1.69 kg
+OS * - Windows 11 Home
+Display​ - 16.0-inch** 16:10 Touch AMOLED, WQXGA+ (2880x1800), 500nits (HDR)*, Up to 120Hz VRR, 120% DCI-P3 Color Volume, 10-Point Multi-Touch
+Processor * - Intel ® Core ™ Ultra 7/5 Processor (Intel EVO ™ )
+NPU * - Intel ® AI Boost
+Graphic * - Intel ® Arc ™ Graphics
+Network * - Bluetooth v5.4 / Wi-Fi 7
+Color - Gray, Silver
+Memory * - 16 / 32 GB
+Storage - 512 GB / 1TB
+Camera - 2MP (1080p FHD)
+Microphone/ Speaker - Dual microphones / Quad Speakers (Woofer Max 5W x 2, Tweeter 3.3W x 2), Dolby Atmos ®
+Keyboard * - Pro keyboard with Numeric key (Backlit)
+Pen - S Pen (In-box)
+Battery​ * - 76 Wh (Typical)
+Charging​ * - 65W USB Type-C Adapter
+Port * - USB-A (3.2), HDMI 2.1 (Supports 8K@60Hz, 5K@120Hz), 2 x Thunderbolt TM 4, Micro SD, Headphone out/Microphone-in Combo
+
+ADDITIONAL SPECIFICATION CONTENT
+Tablet & PC Galaxy Book5 Pro 360
+
+Images Videos Tech Specs Related Articles Galaxy Book5 Pro 360 (16-inch) Dimensions * 355.4 x 252.2 x 12.8mm *Accuracy of numbers may vary depending on measurements used. Weight​ * 1.69 kg *Weight may vary by market. OS * Windows 11 Home *Edition version and availability timing may vary depending on model and/or market. Display​ 16.0-inch** 16:10 Touch AMOLED, WQXGA+ (2880x1800), 500nits (HDR)*, Up to 120Hz VRR, 120% DCI-P3 Color Volume, 10-Point Multi-Touch *400nits (Typical), 500nits (HDR Contents only) **Measured diagonally as a full rectangle without accounting for the rounded corners. Actual viewable area is less due to the rounded corners. Processor * Intel ® Core ™ Ultra 7/5 Processor (Intel EVO ™ ) *Specifications may vary depending on model and/or market. NPU * Intel ® AI Boost *NPU performance may vary by processor. Graphic * Intel ® Arc ™ Graphics *Specifications may vary depending on model and/or market. Network * Bluetooth v5.4 / Wi-Fi 7 *Wi-Fi 7 availability may vary due to OS version, market, location, network conditions and other factors. Actual speed may vary by market, carrier and user environment. Wi-Fi 7 wireless network routers required and sold separately. Color Gray, Silver Memory * 16 / 32 GB *Availability may vary by model. Storage 512 GB / 1TB *Availability may vary by model and/or market **Actual storage space availability may vary depending on pre-installed software and by market, file size and format. Camera 2MP (1080p FHD) Microphone/ Speaker Dual microphones / Quad Speakers (Woofer Max 5W x 2, Tweeter 3.3W x 2), Dolby Atmos ® Keyboard * Pro keyboard with Numeric key (Backlit) *Keyboard layout may vary by market. Pen S Pen (In-box) Battery​ * 76 Wh (Typical) *Typical value of battery capacity tested under third-party laboratory condition. Typical value is the estimated average value considering the deviation in battery capacity among the battery samples tested under IEC 61960 standard. Actual battery life may vary depending on network environment, usage patterns and other factors. Charging​ * 65W USB Type-C Adapter *The inbox charger and data cable are USB Type-C. Port * USB-A (3.2), HDMI 2.1 (Supports 8K@60Hz, 5K@120Hz), 2 x Thunderbolt TM 4, Micro SD, Headphone out/Microphone-in Combo *Actual speed of USB may vary depending on user environment. *Specifications may vary by market. *All functionality, features, specifications and other product information provided in this document including, but not limited to, the benefits, design, pricing, components, performance, availability and capabilities of the product are subject to change without notice.
+
+Galaxy Book5 Pro 360 (16-inch) Dimensions * 355.4 x 252.2 x 12.8mm *Accuracy of numbers may vary depending on measurements used. Weight​ * 1.69 kg *Weight may vary by market. OS * Windows 11 Home *Edition version and availability timing may vary depending on model and/or market. Display​ 16.0-inch** 16:10 Touch AMOLED, WQXGA+ (2880x1800), 500nits (HDR)*, Up to 120Hz VRR, 120% DCI-P3 Color Volume, 10-Point Multi-Touch *400nits (Typical), 500nits (HDR Contents only) **Measured diagonally as a full rectangle without accounting for the rounded corners. Actual viewable area is less due to the rounded corners. Processor * Intel ® Core ™ Ultra 7/5 Processor (Intel EVO ™ ) *Specifications may vary depending on model and/or market. NPU * Intel ® AI Boost *NPU performance may vary by processor. Graphic * Intel ® Arc ™ Graphics *Specifications may vary depending on model and/or market. Network * Bluetooth v5.4 / Wi-Fi 7 *Wi-Fi 7 availability may vary due to OS version, market, location, network conditions and other factors. Actual speed may vary by market, carrier and user environment. Wi-Fi 7 wireless network routers required and sold separately. Color Gray, Silver Memory * 16 / 32 GB *Availability may vary by model. Storage 512 GB / 1TB *Availability may vary by model and/or market **Actual storage space availability may vary depending on pre-installed software and by market, file size and format. Camera 2MP (1080p FHD) Microphone/ Speaker Dual microphones / Quad Speakers (Woofer Max 5W x 2, Tweeter 3.3W x 2), Dolby Atmos ® Keyboard * Pro keyboard with Numeric key (Backlit) *Keyboard layout may vary by market. Pen S Pen (In-box) Battery​ * 76 Wh (Typical) *Typical value of battery capacity tested under third-party laboratory condition. Typical value is the estimated average value considering the deviation in battery capacity among the battery samples tested under IEC 61960 standard. Actual battery life may vary depending on network environment, usage patterns and other factors. Charging​ * 65W USB Type-C Adapter *The inbox charger and data cable are USB Type-C. Port * USB-A (3.2), HDMI 2.1 (Supports 8K@60Hz, 5K@120Hz), 2 x Thunderbolt TM 4, Micro SD, Headphone out/Microphone-in Combo *Actual speed of USB may vary depending on user environment. *Specifications may vary by market. *All functionality, features, specifications and other product information provided in this document including, but not limited to, the benefits, design, pricing, components, performance, availability and capabilities of the product are subject to change without notice.
+
+--------------------------------------------------------------------------------

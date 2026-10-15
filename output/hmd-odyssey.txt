@@ -1,0 +1,30 @@
+DEVICE: HMD Odyssey
+URL: https://www.samsungmobilepress.com/media-assets/hmd_odyssey
+
+SPECIFICATIONS
+Platform - Windows Mixed Reality
+Display - Dual 3.5” AMOLED 1,440 x 1,600 @90/60Hz
+Interface - HDMI2.0 + USB 3.0 Interface Bound Cable (4m Length)
+Lens - Single Fresnel
+Field of View - Φ66, FOV 110º, 6.7X
+IPD - 60-72mm Range
+Camera - 6 DOF Camera x 2
+Sensor - Accelerometer(6 Axis), Gyrometer(6 Axis), Compass(3 Axis), Proximity Sensor, IPD Sensor
+Acoustics - 2 MIC Support, Cortana, Built-in AKG Headphone
+Control & Function - Volume, IPD Adjustment
+Dimension - 202mm(W) x 131.5mm(D) x 111mm(H)
+Weight - 645g
+Control & Function - Touchpad (Clickable), Menu button Windows/Controller power button, Trigger, Thumbstick, Indicator light
+Sensor - Accelerometer(6 Axis), Gyrometer(6 Axis), Compass(3 Axis)
+Battery - AA Battery x 2ea
+Dimension - 154.2 x 119.1 x 119.1mm
+Weight - 160g
+
+ADDITIONAL SPECIFICATION CONTENT
+Wearable HMD Odyssey
+
+Images Videos Tech Specs Related Articles Samsung HMD Odyssey (Headset) Product Specifications Platform Windows Mixed Reality Display Dual 3.5” AMOLED 1,440 x 1,600 @90/60Hz Interface HDMI2.0 + USB 3.0 Interface Bound Cable (4m Length) Lens Single Fresnel Field of View Φ66, FOV 110º, 6.7X IPD 60-72mm Range Camera 6 DOF Camera x 2 Sensor Accelerometer(6 Axis), Gyrometer(6 Axis), Compass(3 Axis), Proximity Sensor, IPD Sensor Acoustics 2 MIC Support, Cortana, Built-in AKG Headphone Control & Function Volume, IPD Adjustment Dimension 202mm(W) x 131.5mm(D) x 111mm(H) Weight 645g Samsung HMD Odyssey (Controller) Product Specifications Control & Function Touchpad (Clickable), Menu button Windows/Controller power button, Trigger, Thumbstick, Indicator light Sensor Accelerometer(6 Axis), Gyrometer(6 Axis), Compass(3 Axis) Battery AA Battery x 2ea Dimension 154.2 x 119.1 x 119.1mm Weight 160g
+
+Samsung HMD Odyssey (Headset) Product Specifications Platform Windows Mixed Reality Display Dual 3.5” AMOLED 1,440 x 1,600 @90/60Hz Interface HDMI2.0 + USB 3.0 Interface Bound Cable (4m Length) Lens Single Fresnel Field of View Φ66, FOV 110º, 6.7X IPD 60-72mm Range Camera 6 DOF Camera x 2 Sensor Accelerometer(6 Axis), Gyrometer(6 Axis), Compass(3 Axis), Proximity Sensor, IPD Sensor Acoustics 2 MIC Support, Cortana, Built-in AKG Headphone Control & Function Volume, IPD Adjustment Dimension 202mm(W) x 131.5mm(D) x 111mm(H) Weight 645g Samsung HMD Odyssey (Controller) Product Specifications Control & Function Touchpad (Clickable), Menu button Windows/Controller power button, Trigger, Thumbstick, Indicator light Sensor Accelerometer(6 Axis), Gyrometer(6 Axis), Compass(3 Axis) Battery AA Battery x 2ea Dimension 154.2 x 119.1 x 119.1mm Weight 160g
+
+--------------------------------------------------------------------------------

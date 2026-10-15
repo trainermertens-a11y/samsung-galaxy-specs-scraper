@@ -1,0 +1,33 @@
+DEVICE: Gear S2
+URL: https://www.samsungmobilepress.com/media-assets/gear-s2
+
+SPECIFICATIONS
+Display - Tizen 3.0
+AP - HSDPA 3.6Mbps (900/2100) EDGE/GPRS (850/900/1800/1900)
+OS - 132.9 x 69.2 x 10.3, 143g
+Audio - Quad core 1.5 GHz
+Memory - 1GB RAM
+Features - Communications: - Contacts, Notifications, Messages, Email, - Preset text, Voice Input, Emoticons, Keypads
+Samsung Services - Samsung Gear Apps
+Connectivity - Wi-Fi: 802.11 b/g/n Bluetooth® 4.1 NFC
+Sensor - Accelerometer, Gyroscope, Heart Rate, Ambient Light, Barometer
+Dimension - Gear S2 : 42.3x49.8x11.4mm (47g) Gear S2 classic : 39.9x43.6x11.4mm (42g)
+Battery - Wireless Charging 250mAh Li-ion Typical Usage 2~3days
+Display - 1.2”, Circular Super AMOLED, 360x360, 302ppi
+AP - Dual core 1.0 GHz
+OS - Tizen based wearable platform
+Audio - Codec: MP3/AAC/AAC+/eAAC+ Format: MP3, M4A, AAC, OGG
+Memory - Storage: 4GB Internal Memory / RAM: 512MB
+Features - Communications: - Contacts, Notifications, Messages, Email, - Preset text, Voice Input, Emoticons, Keypads
+Samsung Services - Samsung Gear Apps
+Connectivity - Wi-Fi: 802.11 b/g/n Bluetooth® 4.1 NFC
+Sensor - Accelerometer, Gyroscope, Heart Rate, Ambient Light, Barometer
+Dimension - 44.0 x 51.8 x 13.4mm (51g)
+Battery - Wireless Charging 300mAh Li-ion Typical Usage 2 days
+
+ADDITIONAL SPECIFICATION CONTENT
+Images Videos Tech Specs Related Articles Samsung Gear S2 and Gear S2 classic Product Specifications Display Tizen 3.0 AP HSDPA 3.6Mbps (900/2100) EDGE/GPRS (850/900/1800/1900) OS 132.9 x 69.2 x 10.3, 143g Audio Quad core 1.5 GHz Memory 1GB RAM Features Communications: - Contacts, Notifications, Messages, Email, - Preset text, Voice Input, Emoticons, Keypads Health & Fitness: - S Health, Nike+ Running Information: - Schedule, News, Maps & Navigation, Weather Media: - Music Player, Gallery Others: - Voice, Voice Memo, Find My Device, Power Saving Mode, Safety assistance, Privacy lock IP68 Certified Dust and Water Resistant Samsung Services Samsung Gear Apps Connectivity Wi-Fi: 802.11 b/g/n Bluetooth® 4.1 NFC Sensor Accelerometer, Gyroscope, Heart Rate, Ambient Light, Barometer Dimension Gear S2 : 42.3x49.8x11.4mm (47g) Gear S2 classic : 39.9x43.6x11.4mm (42g) Battery Wireless Charging 250mAh Li-ion Typical Usage 2~3days Samsung Gear S2 3G Version Product Specifications Display 1.2”, Circular Super AMOLED, 360x360, 302ppi AP Dual core 1.0 GHz OS Tizen based wearable platform Audio Codec: MP3/AAC/AAC+/eAAC+ Format: MP3, M4A, AAC, OGG Memory Storage: 4GB Internal Memory / RAM: 512MB Features Communications: - Contacts, Notifications, Messages, Email, - Preset text, Voice Input, Emoticons, Keypads Health & Fitness: - S Health, Nike+ Running Information: - Schedule, News, Maps & Navigation, Weather Media: - Music Player, Gallery Others: - S Voice, Voice Memo, Find My Device, Power Saving Mode, Safety assistance, Privacy lock IP68 Certified Dust and Water Resistant Samsung Services Samsung Gear Apps Connectivity Wi-Fi: 802.11 b/g/n Bluetooth® 4.1 NFC Sensor Accelerometer, Gyroscope, Heart Rate, Ambient Light, Barometer Dimension 44.0 x 51.8 x 13.4mm (51g) Battery Wireless Charging 300mAh Li-ion Typical Usage 2 days
+
+Samsung Gear S2 and Gear S2 classic Product Specifications Display Tizen 3.0 AP HSDPA 3.6Mbps (900/2100) EDGE/GPRS (850/900/1800/1900) OS 132.9 x 69.2 x 10.3, 143g Audio Quad core 1.5 GHz Memory 1GB RAM Features Communications: - Contacts, Notifications, Messages, Email, - Preset text, Voice Input, Emoticons, Keypads Health & Fitness: - S Health, Nike+ Running Information: - Schedule, News, Maps & Navigation, Weather Media: - Music Player, Gallery Others: - Voice, Voice Memo, Find My Device, Power Saving Mode, Safety assistance, Privacy lock IP68 Certified Dust and Water Resistant Samsung Services Samsung Gear Apps Connectivity Wi-Fi: 802.11 b/g/n Bluetooth® 4.1 NFC Sensor Accelerometer, Gyroscope, Heart Rate, Ambient Light, Barometer Dimension Gear S2 : 42.3x49.8x11.4mm (47g) Gear S2 classic : 39.9x43.6x11.4mm (42g) Battery Wireless Charging 250mAh Li-ion Typical Usage 2~3days Samsung Gear S2 3G Version Product Specifications Display 1.2”, Circular Super AMOLED, 360x360, 302ppi AP Dual core 1.0 GHz OS Tizen based wearable platform Audio Codec: MP3/AAC/AAC+/eAAC+ Format: MP3, M4A, AAC, OGG Memory Storage: 4GB Internal Memory / RAM: 512MB Features Communications: - Contacts, Notifications, Messages, Email, - Preset text, Voice Input, Emoticons, Keypads Health & Fitness: - S Health, Nike+ Running Information: - Schedule, News, Maps & Navigation, Weather Media: - Music Player, Gallery Others: - S Voice, Voice Memo, Find My Device, Power Saving Mode, Safety assistance, Privacy lock IP68 Certified Dust and Water Resistant Samsung Services Samsung Gear Apps Connectivity Wi-Fi: 802.11 b/g/n Bluetooth® 4.1 NFC Sensor Accelerometer, Gyroscope, Heart Rate, Ambient Light, Barometer Dimension 44.0 x 51.8 x 13.4mm (51g) Battery Wireless Charging 300mAh Li-ion Typical Usage 2 days
+
+--------------------------------------------------------------------------------

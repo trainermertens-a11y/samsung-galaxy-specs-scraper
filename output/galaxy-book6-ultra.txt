@@ -1,0 +1,31 @@
+DEVICE: Galaxy Book6 Ultra
+URL: https://www.samsungmobilepress.com/media-assets/galaxy-book6-ultra
+
+SPECIFICATIONS
+Dimension* - 356.9×248.0×15.4mm
+Weight​ * - 1.79kg (INT) - 1.89kg (EXT)
+OS * - Windows 11 Home
+Display​ * - 16.0"* Touch AMOLED, Anti-Reflective, WQXGA+ (2880×1800), 1000nits
+Processor * - Intel ® Core™ Ultra X7 / 7 Series 3 (Intel ® Evo™ Edition)
+NPU * - Intel ® NPU (up to 50 tops)
+Graphic* - Intel ® Arc ™ Graphics (INT) - NVIDIA ® GeForce RTX ™ 5060/5070 GDDR7 8GB (EXT)
+Network * - Wi-Fi 7, Bluetooth v5.4, 802.11 be 2x2
+Color - Gray
+Memory * - 32GB (LPDDR5X) - 16GB/32GB/64GB (LPDDR5X)
+Storage * - 512GB/1TB/2TB SSD (PCle), Expansion Slot
+Camera - 2M (1080p FHD)
+Microphone/ Speaker - Internal Dual Array Digital Microphones / Six speaker, Dolby Atmos®
+Keyboard * - Two tone Pro keyboard (Backlit keyboard)
+Trackpad - Haptic touch Trackpad
+Battery​ * - 80.20 Wh (Typical)
+Charging​ * - 100W (INT) USB Type-C Adapter - 140W (EXT) USB Type-C Adapter
+Port * - Thunderbolt™4 (2), USB Type-A, HDMI 2.1 port (Supports 8K@60, 5K@120), SD, Headphone/Microphone
+
+ADDITIONAL SPECIFICATION CONTENT
+Tablet & PC Galaxy Book6 Ultra
+
+Images Videos Tech Specs Related Articles Galaxy Book6 Ultra (16-inch) Dimension* 356.9×248.0×15.4mm *Accuracy of numbers may vary depending on measurements used. Weight​ * 1.79kg (INT) 1.89kg (EXT) *Weight may vary by market. OS * Windows 11 Home *Edition version and availability timing may vary depending on model and/or market. Display​ * 16.0"* Touch AMOLED, Anti-Reflective, WQXGA+ (2880×1800), 1000nits *Measured diagonally as a full rectangle without accounting for the rounded corners. Actual viewable area is less due to the rounded corners. Processor * Intel ® Core™ Ultra X7 / 7 Series 3 (Intel ® Evo™ Edition) *Specifications may vary depending on model and/or market. NPU * Intel ® NPU (up to 50 tops) *NPU performance may vary by processor. Graphic* Intel ® Arc ™ Graphics (INT) NVIDIA ® GeForce RTX ™ 5060/5070 GDDR7 8GB (EXT) *Specifications may vary depending on model and/or market. Network * Wi-Fi 7, Bluetooth v5.4, 802.11 be 2x2 *Wi-Fi 7 availability may vary due to OS version, market, location, network conditions and other factors. Actual speed may vary by market, carrier and user environment. Wi-Fi 7 wireless network routers required and sold separately. Color Gray Memory * 32GB (LPDDR5X) 16GB/32GB/64GB (LPDDR5X) *Availability may vary by model. Storage * 512GB/1TB/2TB SSD (PCle), Expansion Slot *Availability may vary by model and/or market **Actual storage space availability may vary depending on pre-installed software and by market, file size and format. Camera 2M (1080p FHD) Microphone/ Speaker Internal Dual Array Digital Microphones / Six speaker, Dolby Atmos® Keyboard * Two tone Pro keyboard (Backlit keyboard) *Keyboard layout may vary by market. Trackpad Haptic touch Trackpad Battery​ * 80.20 Wh (Typical) *Typical value of battery capacity tested under third-party laboratory condition. Typical value is the estimated average value considering the deviation in battery capacity among the battery samples tested under IEC 61960 standard. Actual battery life may vary depending on network environment, usage patterns and other factors. Charging​ * 100W (INT) USB Type-C Adapter 140W (EXT) USB Type-C Adapter *The inbox charger and data cable are USB Type-C. Port * Thunderbolt™4 (2), USB Type-A, HDMI 2.1 port (Supports 8K@60, 5K@120), SD, Headphone/Microphone *Actual speed of USB may vary depending on user environment.
+
+Galaxy Book6 Ultra (16-inch) Dimension* 356.9×248.0×15.4mm *Accuracy of numbers may vary depending on measurements used. Weight​ * 1.79kg (INT) 1.89kg (EXT) *Weight may vary by market. OS * Windows 11 Home *Edition version and availability timing may vary depending on model and/or market. Display​ * 16.0"* Touch AMOLED, Anti-Reflective, WQXGA+ (2880×1800), 1000nits *Measured diagonally as a full rectangle without accounting for the rounded corners. Actual viewable area is less due to the rounded corners. Processor * Intel ® Core™ Ultra X7 / 7 Series 3 (Intel ® Evo™ Edition) *Specifications may vary depending on model and/or market. NPU * Intel ® NPU (up to 50 tops) *NPU performance may vary by processor. Graphic* Intel ® Arc ™ Graphics (INT) NVIDIA ® GeForce RTX ™ 5060/5070 GDDR7 8GB (EXT) *Specifications may vary depending on model and/or market. Network * Wi-Fi 7, Bluetooth v5.4, 802.11 be 2x2 *Wi-Fi 7 availability may vary due to OS version, market, location, network conditions and other factors. Actual speed may vary by market, carrier and user environment. Wi-Fi 7 wireless network routers required and sold separately. Color Gray Memory * 32GB (LPDDR5X) 16GB/32GB/64GB (LPDDR5X) *Availability may vary by model. Storage * 512GB/1TB/2TB SSD (PCle), Expansion Slot *Availability may vary by model and/or market **Actual storage space availability may vary depending on pre-installed software and by market, file size and format. Camera 2M (1080p FHD) Microphone/ Speaker Internal Dual Array Digital Microphones / Six speaker, Dolby Atmos® Keyboard * Two tone Pro keyboard (Backlit keyboard) *Keyboard layout may vary by market. Trackpad Haptic touch Trackpad Battery​ * 80.20 Wh (Typical) *Typical value of battery capacity tested under third-party laboratory condition. Typical value is the estimated average value considering the deviation in battery capacity among the battery samples tested under IEC 61960 standard. Actual battery life may vary depending on network environment, usage patterns and other factors. Charging​ * 100W (INT) USB Type-C Adapter 140W (EXT) USB Type-C Adapter *The inbox charger and data cable are USB Type-C. Port * Thunderbolt™4 (2), USB Type-A, HDMI 2.1 port (Supports 8K@60, 5K@120), SD, Headphone/Microphone *Actual speed of USB may vary depending on user environment.
+
+--------------------------------------------------------------------------------

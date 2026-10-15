@@ -1,0 +1,27 @@
+DEVICE: Galaxy Book S
+URL: https://www.samsungmobilepress.com/media-assets/galaxy_book_s_
+
+SPECIFICATIONS
+OS - Windows 10 Home/Pro *Availability varies by region and carrier. Experience may vary by device.
+Display - 13.3" FHD TFT LCD Display with Touch Screen Panel
+Dimension - 305.2 x 203.2 x 6.2 ~ 11.8 mm
+Weight - 950g
+CPU - Intel ® Core ™ processor with Intel Hybrid Technology
+Graphic - Intel ® UHD Graphics
+Memory - 8GB RAM (LPDDR4x)
+Camera - 1MP
+Battery - 42Wh (typical) *Typical value tested under third-party laboratory condition. Typical value is the estimated average value considering the deviation in battery capacity among the battery samples tested under IEC 61960 standard.
+Connectivity - Wi-Fi 6 (Gig+) 802.11 ax 2x2 LTE (Cat 16) Bluetooth ® v 5.0 *Availability varies by region and requires a separate subscription through a service provider. LTE speeds may vary based on network specifications and connection environment.
+Ports - 2 USB-C ® 1 Headphone out/Mic-in Combo MicroSD Multi-media Card Reader
+Sensors - Fingerprint Sensor, Ambient Light Sensor (Keyboard Backlit on/off), Hall Sensor
+Authentication - Windows Hello sign in with fingerprint
+Audio - Quad Stereo Speakers: Sound by AKG Immersive sound with Dolby Atmos ® technology
+
+ADDITIONAL SPECIFICATION CONTENT
+Tablet & PC Galaxy Book S
+
+Images Videos Tech Specs Related Articles Galaxy Book S OS Windows 10 Home/Pro *Availability varies by region and carrier. Experience may vary by device. Display 13.3" FHD TFT LCD Display with Touch Screen Panel Dimension 305.2 x 203.2 x 6.2 ~ 11.8 mm Weight 950g CPU Intel ® Core ™ processor with Intel Hybrid Technology Graphic Intel ® UHD Graphics Memory 8GB RAM (LPDDR4x) Camera 1MP Battery 42Wh (typical) *Typical value tested under third-party laboratory condition. Typical value is the estimated average value considering the deviation in battery capacity among the battery samples tested under IEC 61960 standard. Connectivity Wi-Fi 6 (Gig+) 802.11 ax 2x2 LTE (Cat 16) Bluetooth ® v 5.0 *Availability varies by region and requires a separate subscription through a service provider. LTE speeds may vary based on network specifications and connection environment. Ports 2 USB-C ® 1 Headphone out/Mic-in Combo MicroSD Multi-media Card Reader Sensors Fingerprint Sensor, Ambient Light Sensor (Keyboard Backlit on/off), Hall Sensor Authentication Windows Hello sign in with fingerprint Audio Quad Stereo Speakers: Sound by AKG Immersive sound with Dolby Atmos ® technology *All functionality, features, specifications and other product information provided in this document including, but not limited to, the benefits, design, pricing, components, performance, availability, and capabilities of the product are subject to change without notice.
+
+Galaxy Book S OS Windows 10 Home/Pro *Availability varies by region and carrier. Experience may vary by device. Display 13.3" FHD TFT LCD Display with Touch Screen Panel Dimension 305.2 x 203.2 x 6.2 ~ 11.8 mm Weight 950g CPU Intel ® Core ™ processor with Intel Hybrid Technology Graphic Intel ® UHD Graphics Memory 8GB RAM (LPDDR4x) Camera 1MP Battery 42Wh (typical) *Typical value tested under third-party laboratory condition. Typical value is the estimated average value considering the deviation in battery capacity among the battery samples tested under IEC 61960 standard. Connectivity Wi-Fi 6 (Gig+) 802.11 ax 2x2 LTE (Cat 16) Bluetooth ® v 5.0 *Availability varies by region and requires a separate subscription through a service provider. LTE speeds may vary based on network specifications and connection environment. Ports 2 USB-C ® 1 Headphone out/Mic-in Combo MicroSD Multi-media Card Reader Sensors Fingerprint Sensor, Ambient Light Sensor (Keyboard Backlit on/off), Hall Sensor Authentication Windows Hello sign in with fingerprint Audio Quad Stereo Speakers: Sound by AKG Immersive sound with Dolby Atmos ® technology *All functionality, features, specifications and other product information provided in this document including, but not limited to, the benefits, design, pricing, components, performance, availability, and capabilities of the product are subject to change without notice.
+
+--------------------------------------------------------------------------------

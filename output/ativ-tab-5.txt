@@ -1,0 +1,34 @@
+DEVICE: ATIV Tab 5
+URL: https://www.samsungmobilepress.com/media-assets/ativ-tab-5
+
+SPECIFICATIONS
+Base - Operating System - Windows 8
+Processor - Next generation Intel® Atom™ Processor
+Display - Size - 11.6” (PLS type)
+Resolution, Brightness - HD (1366 x 768), 400nit
+Battery - Battery life - 13.5 hours (Based on Mobile Mark)
+DVD Play time - 9.4 hours
+Capacity - 31Wh
+Design - Dimension (W x D x H) - 304.0 x 189.4 x 9.9mm(without keyboard) 304.0 x 189.4 x 19.9mm(with keyboard)
+Weight - 750g(without keyboard) / 1.48kg(with keyboard)
+Colors - Mystic Blue
+Memory - System Memory - LPDDR 2GB
+Graphics - Graphics Processor - Intel HD Graphics
+Multimedia - Speaker - 2
+Integrated Camera - Front 2M, Rear 8M(w/ flash)
+Storage - Hard Disk Drive - ~ 128GB eMMC
+Optical Disk Drive - No
+Network - Wired LAN - USB-to-Ethernet Dongle
+Wireless LAN - 802.11 abgn
+Wireless WAN - 4G/LTE, 3G
+Bluetooth - 4.0
+Others - I/O Ports - USB2.0*1, USB2.0*2(KBD), mHDMI, microSD
+Input Device - KBD(80/81keys), Digitizer Pen, Multi-Touch
+AC Adapter - Included
+
+ADDITIONAL SPECIFICATION CONTENT
+Images Videos Tech Specs Related Articles Samsung Ativ Tab5 Product Specifications Base Operating System Windows 8 Processor Next generation Intel® Atom™ Processor Display Size 11.6” (PLS type) Resolution, Brightness HD (1366 x 768), 400nit Battery Battery life 13.5 hours (Based on Mobile Mark) DVD Play time 9.4 hours Capacity 31Wh Design Dimension (W x D x H) 304.0 x 189.4 x 9.9mm(without keyboard) 304.0 x 189.4 x 19.9mm(with keyboard) Weight 750g(without keyboard) / 1.48kg(with keyboard) Colors Mystic Blue Memory System Memory LPDDR 2GB Graphics Graphics Processor Intel HD Graphics Multimedia Speaker 2 Integrated Camera Front 2M, Rear 8M(w/ flash) Storage Hard Disk Drive ~ 128GB eMMC Optical Disk Drive No Network Wired LAN USB-to-Ethernet Dongle Wireless LAN 802.11 abgn Wireless WAN 4G/LTE, 3G Bluetooth 4.0 Others I/O Ports USB2.0*1, USB2.0*2(KBD), mHDMI, microSD Input Device KBD(80/81keys), Digitizer Pen, Multi-Touch AC Adapter Included
+
+Samsung Ativ Tab5 Product Specifications Base Operating System Windows 8 Processor Next generation Intel® Atom™ Processor Display Size 11.6” (PLS type) Resolution, Brightness HD (1366 x 768), 400nit Battery Battery life 13.5 hours (Based on Mobile Mark) DVD Play time 9.4 hours Capacity 31Wh Design Dimension (W x D x H) 304.0 x 189.4 x 9.9mm(without keyboard) 304.0 x 189.4 x 19.9mm(with keyboard) Weight 750g(without keyboard) / 1.48kg(with keyboard) Colors Mystic Blue Memory System Memory LPDDR 2GB Graphics Graphics Processor Intel HD Graphics Multimedia Speaker 2 Integrated Camera Front 2M, Rear 8M(w/ flash) Storage Hard Disk Drive ~ 128GB eMMC Optical Disk Drive No Network Wired LAN USB-to-Ethernet Dongle Wireless LAN 802.11 abgn Wireless WAN 4G/LTE, 3G Bluetooth 4.0 Others I/O Ports USB2.0*1, USB2.0*2(KBD), mHDMI, microSD Input Device KBD(80/81keys), Digitizer Pen, Multi-Touch AC Adapter Included
+
+--------------------------------------------------------------------------------

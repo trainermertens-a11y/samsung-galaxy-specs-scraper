@@ -1,0 +1,27 @@
+DEVICE: GALAXY Core LTE
+URL: https://www.samsungmobilepress.com/media-assets/galaxy-core-lte
+
+SPECIFICATIONS
+Network - LTE Cat4
+Processor - 1.2GHz Dual core
+Display - 4.5 inch qHD PLS TFT
+OS - Android 4.2.2 (Jelly Bean Plus)
+Camera - Main(Rear): 5MP rear-facing camera Automatic Focus w/ LED Flash Sub(Front): VGA camera
+Video - MPEG4, H.263, H.264, Sorenson SparkVC-1, VP 8, MP43, WMV7/8 Recording/Playback: 1080p @ 30fps
+Audio - MP3, AAC, AAC+, eAAC+, AMR, WB-AMR, WMA, FLAC, Vorbis (OGG), PCM, G.711, FM Radio, 3.5mm Ear Jack
+Google Mobile Services - Google+, GTalk, Google Maps*
+Connectivity - WiFib/g/n, WiFi-Direct, DLNA, Bluetooth® 4.0, USB 2.0, NFC
+Memory - 1GB RAM + 8GB Internal Memory, microSD up to 64GB *User memory space may be less than the total memory space due to system files. User memory may differ by region, carrier, and supporting language, and may change after software upgrade.
+GPS - A-GPS + GLONASS
+Dimension - 132.9 x 66.3 x 9.8 mm
+Battery - 2,100 mAH
+Services & Features - Samsung Apps, Samsung ChatON, Samsung Kies Easy Mode, Easy Text (Swiftkey), Motion UI S Voice, S Translator, S Travel
+
+ADDITIONAL SPECIFICATION CONTENT
+Smartphone GALAXY Core LTE
+
+Images Videos Tech Specs Related Articles Samsung Galaxy Core LTE Product Specifications Network LTE Cat4 Processor 1.2GHz Dual core Display 4.5 inch qHD PLS TFT OS Android 4.2.2 (Jelly Bean Plus) Camera Main(Rear): 5MP rear-facing camera Automatic Focus w/ LED Flash Sub(Front): VGA camera Video MPEG4, H.263, H.264, Sorenson SparkVC-1, VP 8, MP43, WMV7/8 Recording/Playback: 1080p @ 30fps Audio MP3, AAC, AAC+, eAAC+, AMR, WB-AMR, WMA, FLAC, Vorbis (OGG), PCM, G.711, FM Radio, 3.5mm Ear Jack Google Mobile Services Google+, GTalk, Google Maps* Connectivity WiFib/g/n, WiFi-Direct, DLNA, Bluetooth® 4.0, USB 2.0, NFC Memory 1GB RAM + 8GB Internal Memory, microSD up to 64GB *User memory space may be less than the total memory space due to system files. User memory may differ by region, carrier, and supporting language, and may change after software upgrade. GPS A-GPS + GLONASS Dimension 132.9 x 66.3 x 9.8 mm Battery 2,100 mAH Services & Features Samsung Apps, Samsung ChatON, Samsung Kies Easy Mode, Easy Text (Swiftkey), Motion UI S Voice, S Translator, S Travel * All functionality, features, specifications and other product information provided in this document including, but not limited to, the benefits, design, pricing, components, performance, availability, and capabilities of the product are subject to change without notice or obligation. * Android, Google, Google Maps, Google+ and GTalkare trademarks of Google Inc. About Samsung Electronics Co., Ltd. Samsung Electronics Co., Ltd. is a global leader in technology, opening new possibilities for people everywhere. Through relentless innovation and discovery, we are transforming the worlds of TVs, smartphones, tablets, PCs, cameras, home appliances, printers, LTE systems, medical devices, semiconductors and LED solutions. We employ 286,000 people across 80 countries with annual sales of US$216.7 billion. To discover more, please visit www.samsung.com
+
+Samsung Galaxy Core LTE Product Specifications Network LTE Cat4 Processor 1.2GHz Dual core Display 4.5 inch qHD PLS TFT OS Android 4.2.2 (Jelly Bean Plus) Camera Main(Rear): 5MP rear-facing camera Automatic Focus w/ LED Flash Sub(Front): VGA camera Video MPEG4, H.263, H.264, Sorenson SparkVC-1, VP 8, MP43, WMV7/8 Recording/Playback: 1080p @ 30fps Audio MP3, AAC, AAC+, eAAC+, AMR, WB-AMR, WMA, FLAC, Vorbis (OGG), PCM, G.711, FM Radio, 3.5mm Ear Jack Google Mobile Services Google+, GTalk, Google Maps* Connectivity WiFib/g/n, WiFi-Direct, DLNA, Bluetooth® 4.0, USB 2.0, NFC Memory 1GB RAM + 8GB Internal Memory, microSD up to 64GB *User memory space may be less than the total memory space due to system files. User memory may differ by region, carrier, and supporting language, and may change after software upgrade. GPS A-GPS + GLONASS Dimension 132.9 x 66.3 x 9.8 mm Battery 2,100 mAH Services & Features Samsung Apps, Samsung ChatON, Samsung Kies Easy Mode, Easy Text (Swiftkey), Motion UI S Voice, S Translator, S Travel * All functionality, features, specifications and other product information provided in this document including, but not limited to, the benefits, design, pricing, components, performance, availability, and capabilities of the product are subject to change without notice or obligation. * Android, Google, Google Maps, Google+ and GTalkare trademarks of Google Inc. About Samsung Electronics Co., Ltd. Samsung Electronics Co., Ltd. is a global leader in technology, opening new possibilities for people everywhere. Through relentless innovation and discovery, we are transforming the worlds of TVs, smartphones, tablets, PCs, cameras, home appliances, printers, LTE systems, medical devices, semiconductors and LED solutions. We employ 286,000 people across 80 countries with annual sales of US$216.7 billion. To discover more, please visit www.samsung.com
+
+--------------------------------------------------------------------------------

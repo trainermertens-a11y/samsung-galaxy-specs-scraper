@@ -1,0 +1,25 @@
+DEVICE: Galaxy Watch4
+URL: https://www.samsungmobilepress.com/media-assets/galaxy-watch4
+
+SPECIFICATIONS
+Color - 44mm: Black, Green, Silver 40mm: Black, Pink Gold, Silver
+Dimension 1 & Weight 2 - Aluminum case 44mm: 44.4 x 43.3 x 9.8mm, 30.3g 40mm: 40.4 x 39.3 x 9.8mm, 25.9g
+Display - 44mm: 1.4'' (34.6mm) 450x450 Super AMOLED, Full Color Always On Display, Corning ® Gorilla ® Glass with DX+ 40mm: 1.2" (30.4mm) 396x396 Super AMOLED, Full Color Always On Display, Corning ® Gorilla ® Glass with DX+
+Processor - Exynos W920 Dual Core 1.18GHz (5nm Processor)
+Memory - 1.5GB RAM + 16GB internal storage
+Battery - 44mm/46mm: 361mAh, 40mm/42mm: 247mAh (typical) WPC-based wireless charging
+OS - Wear OS Powered by Samsung 3
+UI - One UI Watch3
+Sensors - Samsung BioActive Sensor (Optical Heart Rate + Electrical Heart + Bioelectrical Impedance Analysis), Accelerometer, Barometer, Gyro Sensor, Geomagnetic Sensor, Light Sensor
+Connectivity - LTE 4 , Bluetooth 5.0, Wi-Fi 802.11 a/b/g/n 2.4+5GHz, NFC, GPS/Glonass/Beidou/Galileo
+Durability - 5ATM + IP68 / MIL-STD-810G
+Compatibility - Android 6.0 or higher and with more than 1.5GB of RAM 5
+
+ADDITIONAL SPECIFICATION CONTENT
+Wearable Galaxy Watch4
+
+Images Videos Tech Specs Related Articles Galaxy Watch4 Color 44mm: Black, Green, Silver 40mm: Black, Pink Gold, Silver Dimension 1 & Weight 2 Aluminum case 44mm: 44.4 x 43.3 x 9.8mm, 30.3g 40mm: 40.4 x 39.3 x 9.8mm, 25.9g Display 44mm: 1.4'' (34.6mm) 450x450 Super AMOLED, Full Color Always On Display, Corning ® Gorilla ® Glass with DX+ 40mm: 1.2" (30.4mm) 396x396 Super AMOLED, Full Color Always On Display, Corning ® Gorilla ® Glass with DX+ Processor Exynos W920 Dual Core 1.18GHz (5nm Processor) Memory 1.5GB RAM + 16GB internal storage Battery 44mm/46mm: 361mAh, 40mm/42mm: 247mAh (typical) WPC-based wireless charging OS Wear OS Powered by Samsung 3 UI One UI Watch3 Sensors Samsung BioActive Sensor (Optical Heart Rate + Electrical Heart + Bioelectrical Impedance Analysis), Accelerometer, Barometer, Gyro Sensor, Geomagnetic Sensor, Light Sensor Connectivity LTE 4 , Bluetooth 5.0, Wi-Fi 802.11 a/b/g/n 2.4+5GHz, NFC, GPS/Glonass/Beidou/Galileo Durability 5ATM + IP68 / MIL-STD-810G Compatibility Android 6.0 or higher and with more than 1.5GB of RAM 5 * All functionality, features, specifications and other product information provided in this document including, but not limited to, the benefits, design, pricing, components, performance, availability, and capabilities of the product are subject to change without notice. 1 Measured without health sensors. 2 Measured without strap. 3 Wear OS Powered by Samsung works with phones running the latest version of Android (excluding Go edition and phones without Google Play Store). Supported features may vary between platforms and countries with compatibility subject to change. 4 LTE connectivity only available in LTE models. 5 Device activation is only available after connecting to a smartphone that supports Google Mobile Services.
+
+Galaxy Watch4 Color 44mm: Black, Green, Silver 40mm: Black, Pink Gold, Silver Dimension 1 & Weight 2 Aluminum case 44mm: 44.4 x 43.3 x 9.8mm, 30.3g 40mm: 40.4 x 39.3 x 9.8mm, 25.9g Display 44mm: 1.4'' (34.6mm) 450x450 Super AMOLED, Full Color Always On Display, Corning ® Gorilla ® Glass with DX+ 40mm: 1.2" (30.4mm) 396x396 Super AMOLED, Full Color Always On Display, Corning ® Gorilla ® Glass with DX+ Processor Exynos W920 Dual Core 1.18GHz (5nm Processor) Memory 1.5GB RAM + 16GB internal storage Battery 44mm/46mm: 361mAh, 40mm/42mm: 247mAh (typical) WPC-based wireless charging OS Wear OS Powered by Samsung 3 UI One UI Watch3 Sensors Samsung BioActive Sensor (Optical Heart Rate + Electrical Heart + Bioelectrical Impedance Analysis), Accelerometer, Barometer, Gyro Sensor, Geomagnetic Sensor, Light Sensor Connectivity LTE 4 , Bluetooth 5.0, Wi-Fi 802.11 a/b/g/n 2.4+5GHz, NFC, GPS/Glonass/Beidou/Galileo Durability 5ATM + IP68 / MIL-STD-810G Compatibility Android 6.0 or higher and with more than 1.5GB of RAM 5 * All functionality, features, specifications and other product information provided in this document including, but not limited to, the benefits, design, pricing, components, performance, availability, and capabilities of the product are subject to change without notice. 1 Measured without health sensors. 2 Measured without strap. 3 Wear OS Powered by Samsung works with phones running the latest version of Android (excluding Go edition and phones without Google Play Store). Supported features may vary between platforms and countries with compatibility subject to change. 4 LTE connectivity only available in LTE models. 5 Device activation is only available after connecting to a smartphone that supports Google Mobile Services.
+
+--------------------------------------------------------------------------------

@@ -1,0 +1,30 @@
+DEVICE: GALAXY TabPRO(12.2)
+URL: https://www.samsungmobilepress.com/media-assets/galaxy-tabpro12-2
+
+SPECIFICATIONS
+Network - LTE : 800/900/1800/2600+850/2100 3G : HSPA+ 21 850/900/1900/2100
+Processor - WiFi and 3G: Exynos 5 Octa (1.9 GHz QuadCore + 1.3 GHz Quadcore) LTE : Snapdragon 800 2.3GHz Quad * The selection of AP will be different by markets
+Display - 12.2-inch WQXGA (2560 X 1600) Super clear LCD
+OS - Android 4.4 (KitKat)
+Camera / Flash - - Main(Rear): 8 Megapixel, Auto Focus Camera with LED Flash, Zero Shutter lag - Sub(Front): 2 Megapixel
+Video - - Codec: H.264, MPEG-4, H.263, VC-1, WMV7, WMV8, Sorenson Spark, MP43, VP8, HEVC - 1080p Full HD video @ 60fps
+Audio - - Codec: MP3, AAC/AAC+/eAAC+, WMA, FLAC, AMR-NB/WB, Vorbis(OGG), WAV - 3.5mm Ear Jack, Stereo Speaker
+Content Services / Applications - Samsung Hub - Video, Music - Books / Games / Learning (Stub)
+Free Downloadable apps - Samsung ChatON, Hancom Office for Android, Link, Group Play
+Google Mobile Services - Chrome, Search, Gmail, Google+, Maps, Play Books Play Movies, Play Music, Play Store, Hangouts Voice Search, YouTube, Google Settings, Play Games, Photos, Drive, Play Newsstand
+Connectivity - Wi-Fi 802.11 a/b/g/n/ac MIMO (2.4 & 5 GHz), Wi-Fi Direct, AllShareCast, BT4.0, USB3.0
+GPS - GPS + GLONASS
+Sensor - Accelerometer, Gyroscope, Geo-magnetic, RGB
+Memory - 3GB RAM, 32/64GB Internal Memory microSD (Up to 64GB)
+Dimension / Weight - 295.6 x 204 x 7.95mm 732g (WiFi version), 740g (LTE version)
+Battery - 9,500mAh
+IrLED - Yes
+
+ADDITIONAL SPECIFICATION CONTENT
+Tablet & PC GALAXY TabPRO(12.2)
+
+Images Videos Tech Specs Related Articles Samsung Galaxy TabPRO (12.2-inch) Product Specifications Network LTE : 800/900/1800/2600+850/2100 3G : HSPA+ 21 850/900/1900/2100 Processor WiFi and 3G: Exynos 5 Octa (1.9 GHz QuadCore + 1.3 GHz Quadcore) LTE : Snapdragon 800 2.3GHz Quad * The selection of AP will be different by markets Display 12.2-inch WQXGA (2560 X 1600) Super clear LCD OS Android 4.4 (KitKat) Camera / Flash - Main(Rear): 8 Megapixel, Auto Focus Camera with LED Flash, Zero Shutter lag - Sub(Front): 2 Megapixel Video - Codec: H.264, MPEG-4, H.263, VC-1, WMV7, WMV8, Sorenson Spark, MP43, VP8, HEVC - 1080p Full HD video @ 60fps Audio - Codec: MP3, AAC/AAC+/eAAC+, WMA, FLAC, AMR-NB/WB, Vorbis(OGG), WAV - 3.5mm Ear Jack, Stereo Speaker Content Services / Applications Samsung Hub - Video, Music - Books / Games / Learning (Stub) Samsung Apps / Kies Samsung TouchWiz / Content Home Samsung KNOX (stub), Samsung e-Meeting, Side Sync 3.0 (stub) Bloomberg Businessweek+, Dropbox, Evernote, NY Times Remote PC, Sketchbook Pro (stub), WebEx Meetings Free Downloadable apps Samsung ChatON, Hancom Office for Android, Link, Group Play Bitcasa, Blurb, Easilydo Pro, LIVESPORT.TV, LinkedIn, Oxford Advanced Learner’s A-Z Google Mobile Services Chrome, Search, Gmail, Google+, Maps, Play Books Play Movies, Play Music, Play Store, Hangouts Voice Search, YouTube, Google Settings, Play Games, Photos, Drive, Play Newsstand Connectivity Wi-Fi 802.11 a/b/g/n/ac MIMO (2.4 & 5 GHz), Wi-Fi Direct, AllShareCast, BT4.0, USB3.0 GPS GPS + GLONASS Sensor Accelerometer, Gyroscope, Geo-magnetic, RGB Memory 3GB RAM, 32/64GB Internal Memory microSD (Up to 64GB) Dimension / Weight 295.6 x 204 x 7.95mm 732g (WiFi version), 740g (LTE version) Battery 9,500mAh IrLED Yes
+
+Samsung Galaxy TabPRO (12.2-inch) Product Specifications Network LTE : 800/900/1800/2600+850/2100 3G : HSPA+ 21 850/900/1900/2100 Processor WiFi and 3G: Exynos 5 Octa (1.9 GHz QuadCore + 1.3 GHz Quadcore) LTE : Snapdragon 800 2.3GHz Quad * The selection of AP will be different by markets Display 12.2-inch WQXGA (2560 X 1600) Super clear LCD OS Android 4.4 (KitKat) Camera / Flash - Main(Rear): 8 Megapixel, Auto Focus Camera with LED Flash, Zero Shutter lag - Sub(Front): 2 Megapixel Video - Codec: H.264, MPEG-4, H.263, VC-1, WMV7, WMV8, Sorenson Spark, MP43, VP8, HEVC - 1080p Full HD video @ 60fps Audio - Codec: MP3, AAC/AAC+/eAAC+, WMA, FLAC, AMR-NB/WB, Vorbis(OGG), WAV - 3.5mm Ear Jack, Stereo Speaker Content Services / Applications Samsung Hub - Video, Music - Books / Games / Learning (Stub) Samsung Apps / Kies Samsung TouchWiz / Content Home Samsung KNOX (stub), Samsung e-Meeting, Side Sync 3.0 (stub) Bloomberg Businessweek+, Dropbox, Evernote, NY Times Remote PC, Sketchbook Pro (stub), WebEx Meetings Free Downloadable apps Samsung ChatON, Hancom Office for Android, Link, Group Play Bitcasa, Blurb, Easilydo Pro, LIVESPORT.TV, LinkedIn, Oxford Advanced Learner’s A-Z Google Mobile Services Chrome, Search, Gmail, Google+, Maps, Play Books Play Movies, Play Music, Play Store, Hangouts Voice Search, YouTube, Google Settings, Play Games, Photos, Drive, Play Newsstand Connectivity Wi-Fi 802.11 a/b/g/n/ac MIMO (2.4 & 5 GHz), Wi-Fi Direct, AllShareCast, BT4.0, USB3.0 GPS GPS + GLONASS Sensor Accelerometer, Gyroscope, Geo-magnetic, RGB Memory 3GB RAM, 32/64GB Internal Memory microSD (Up to 64GB) Dimension / Weight 295.6 x 204 x 7.95mm 732g (WiFi version), 740g (LTE version) Battery 9,500mAh IrLED Yes
+
+--------------------------------------------------------------------------------

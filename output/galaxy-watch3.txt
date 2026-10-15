@@ -1,0 +1,26 @@
+DEVICE: Galaxy Watch3
+URL: https://www.samsungmobilepress.com/media-assets/galaxy_watch3
+
+SPECIFICATIONS
+Category - Galaxy Watch3 Specifications
+Color - Stainless Steel: Mystic Bronze, Mystic Black, Mystic White Titanium: Mystic Black
+Material - Stainless Steel case with premium leather strap Titanium case with metal strap
+Dimensions & Weight - Stainless Steel case–45mm models: 45 x 46.2 x 11.1mm, 53.8g Stainless Steel case–41mm models: 41 x 42.5 x 11.3mm, 48.2g Titanium case–45mm models: 45 x 46.2 x 11.1mm, 43g *measured without strap
+Display - 45mm models : 1.4” (34mm) 360 x 360 Super AMOLED, Full Color Always On Display, Corning ® Gorilla ® Glass DX 41mm models : 1.2” (30mm) 360 x 360 Super AMOLED, Full Color Always On Display, Corning ® Gorilla ® Glass DX
+Battery - 45mm models: 340mAh 41mm models: 247mAh WPC-based wireless charging
+AP - Exynos 9110 Dual core 1.15 GHz
+OS - Tizen Based Wearable OS 5.5
+Memory - 1GB RAM + 8GB internal storage
+Connectivity - LTE * , Bluetooth v5.0, Wi-Fi b/g/n, NFC, GPS/Glonass/Beidou/Galileo *LTE connectivity only available in LTE models
+Sensor - Accelerometer, Barometer, Gyro Sensor, Light Sensor, Optical Heart Rate Sensor, Electrical Heart Sensor
+Durability - 5ATM + IP68 / MIL-STD-810G
+Compatibility - Android: Android 5.0 or later and with more than 1.5GB of RAM iOS: iPhone 5 or later models with iOS 9.0 or later
+
+ADDITIONAL SPECIFICATION CONTENT
+Wearable Galaxy Watch3
+
+Images Videos Tech Specs Related Articles Category Galaxy Watch3 Specifications Color Stainless Steel: Mystic Bronze, Mystic Black, Mystic White Titanium: Mystic Black Material Stainless Steel case with premium leather strap Titanium case with metal strap Dimensions & Weight Stainless Steel case–45mm models: 45 x 46.2 x 11.1mm, 53.8g Stainless Steel case–41mm models: 41 x 42.5 x 11.3mm, 48.2g Titanium case–45mm models: 45 x 46.2 x 11.1mm, 43g *measured without strap Display 45mm models : 1.4” (34mm) 360 x 360 Super AMOLED, Full Color Always On Display, Corning ® Gorilla ® Glass DX 41mm models : 1.2” (30mm) 360 x 360 Super AMOLED, Full Color Always On Display, Corning ® Gorilla ® Glass DX Battery 45mm models: 340mAh 41mm models: 247mAh WPC-based wireless charging AP Exynos 9110 Dual core 1.15 GHz OS Tizen Based Wearable OS 5.5 Memory 1GB RAM + 8GB internal storage Connectivity LTE * , Bluetooth v5.0, Wi-Fi b/g/n, NFC, GPS/Glonass/Beidou/Galileo *LTE connectivity only available in LTE models Sensor Accelerometer, Barometer, Gyro Sensor, Light Sensor, Optical Heart Rate Sensor, Electrical Heart Sensor Durability 5ATM + IP68 / MIL-STD-810G Compatibility Android: Android 5.0 or later and with more than 1.5GB of RAM iOS: iPhone 5 or later models with iOS 9.0 or later * All functionality, features, specifications and other product information provided in this document including, but not limited to, the benefits, design, pricing, components, performance, availability and capabilities of the product are subject to change without notice. ** Availability may vary by market or operator. *** This device and related software are not intended for use in the diagnosis of disease or other conditions, or in the cure, mitigation, treatment or prevention of disease.
+
+Category Galaxy Watch3 Specifications Color Stainless Steel: Mystic Bronze, Mystic Black, Mystic White Titanium: Mystic Black Material Stainless Steel case with premium leather strap Titanium case with metal strap Dimensions & Weight Stainless Steel case–45mm models: 45 x 46.2 x 11.1mm, 53.8g Stainless Steel case–41mm models: 41 x 42.5 x 11.3mm, 48.2g Titanium case–45mm models: 45 x 46.2 x 11.1mm, 43g *measured without strap Display 45mm models : 1.4” (34mm) 360 x 360 Super AMOLED, Full Color Always On Display, Corning ® Gorilla ® Glass DX 41mm models : 1.2” (30mm) 360 x 360 Super AMOLED, Full Color Always On Display, Corning ® Gorilla ® Glass DX Battery 45mm models: 340mAh 41mm models: 247mAh WPC-based wireless charging AP Exynos 9110 Dual core 1.15 GHz OS Tizen Based Wearable OS 5.5 Memory 1GB RAM + 8GB internal storage Connectivity LTE * , Bluetooth v5.0, Wi-Fi b/g/n, NFC, GPS/Glonass/Beidou/Galileo *LTE connectivity only available in LTE models Sensor Accelerometer, Barometer, Gyro Sensor, Light Sensor, Optical Heart Rate Sensor, Electrical Heart Sensor Durability 5ATM + IP68 / MIL-STD-810G Compatibility Android: Android 5.0 or later and with more than 1.5GB of RAM iOS: iPhone 5 or later models with iOS 9.0 or later * All functionality, features, specifications and other product information provided in this document including, but not limited to, the benefits, design, pricing, components, performance, availability and capabilities of the product are subject to change without notice. ** Availability may vary by market or operator. *** This device and related software are not intended for use in the diagnosis of disease or other conditions, or in the cure, mitigation, treatment or prevention of disease.
+
+--------------------------------------------------------------------------------

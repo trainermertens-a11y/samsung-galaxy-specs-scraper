@@ -1,0 +1,29 @@
+DEVICE: Galaxy Book4 Ultra
+URL: https://www.samsungmobilepress.com/media-assets/galaxy-book4-ultra
+
+SPECIFICATIONS
+Dimensions * - 355.4 x 250.4 x 16.5mm
+Weight * - 1.86kg
+OS * - Windows 11 Home
+Display * - 16-inch, 16:10 Touch AMOLED, WQXGA+ (2880x1800), 400nits, 48~120Hz VRR, 120% DCI-P3 Color volume
+Processor* - Intel ® Core ™ Ultra 9 / Core ™ Ultra 7 (Intel ® Evo ™ Edition)
+Graphic * - NVIDIA ® GeForce RTX ™ 4070 Laptop GPU 8GB GDDR6 NVIDIA ® GeForce RTX ™ 4050 Laptop GPU 6GB GDDR6
+Network * - Wi-Fi 6E, 802.11 ax 2x2, Bluetooth v5.3
+Color - Moonstone Gray
+Memory * - 16GB/32GB/64GB (LPDDR5X)
+Storage * - 512GB/1TB/2TB SSD (PCle), Expansion Slot
+Camera - 2M (1080p FHD)
+Microphone/ Speaker - Studio-quality Dual Microphones / AKG Quad speakers (Woofer Max 5Wx2, Tweeter 2Wx2), Dolby Atmos ®
+Keyboard * - Pro keyboard with Numeric key (Backlit keyboard)
+Battery * - 76Wh​ (Typical)
+Charging * - 140W USB Type-C Adapter
+Port * - Thunderbolt ™ 4 (2), USB Type-A, HDMI 2.1 port (Supports 8K@60, 5K@120), Micro SD, Headphone/Microphone
+
+ADDITIONAL SPECIFICATION CONTENT
+Tablet & PC Galaxy Book4 Ultra
+
+Images Videos Tech Specs Related Articles Galaxy Book4 Ultra 16-inch Dimensions * 355.4 x 250.4 x 16.5mm * Accuracy of numbers may vary depending on measurements used. Height may vary depending on manufacturing process. Weight * 1.86kg * Weights may vary depending on manufacturing process. OS * Windows 11 Home * Availability may vary device. Display * 16-inch, 16:10 Touch AMOLED, WQXGA+ (2880x1800), 400nits, 48~120Hz VRR, 120% DCI-P3 Color volume * 400nits (Typ), 500nits (HDR) -VESA HDR 500 authentication, HDR Contents only. Processor* Intel ® Core ™ Ultra 9 / Core ™ Ultra 7 (Intel ® Evo ™ Edition) * Specifications may vary depending on model or market. Graphic * NVIDIA ® GeForce RTX ™ 4070 Laptop GPU 8GB GDDR6 NVIDIA ® GeForce RTX ™ 4050 Laptop GPU 6GB GDDR6 * Specifications may vary depending on model or market. Network * Wi-Fi 6E, 802.11 ax 2x2, Bluetooth v5.3 * Actual speed may vary depending on market, carrier, and user environment. Wi-Fi 6E availability may vary due to OS version, market, location, network conditions, and other factors. Wi-Fi 6E wireless network routers required and sold separately. Color Moonstone Gray Memory * 16GB/32GB/64GB (LPDDR5X) * Availability may vary by device. Storage * 512GB/1TB/2TB SSD (PCle), Expansion Slot * Availability may vary by device. Camera 2M (1080p FHD) Microphone/ Speaker Studio-quality Dual Microphones / AKG Quad speakers (Woofer Max 5Wx2, Tweeter 2Wx2), Dolby Atmos ® Keyboard * Pro keyboard with Numeric key (Backlit keyboard) * Keyboard layout may vary by market. Battery * 76Wh​ (Typical) * Typical value of battery capacity tested under third-party laboratory condition. Typical value is the estimated average value considering the deviation in battery capacity among the battery samples tested under IEC 61960 standard. Rated (minimum) capacity is 73.9Wh. Charging * 140W USB Type-C Adapter * The inbox charger and data cable are USB Type-C. Port * Thunderbolt ™ 4 (2), USB Type-A, HDMI 2.1 port (Supports 8K@60, 5K@120), Micro SD, Headphone/Microphone * Actual speed of USB may vary depending on user environment. *Specifications may vary by market. *All functionality, features, specifications and other product information provided in this document including, but not limited to, the benefits, design, pricing, components, performance, availability, and capabilities of the product are subject to change without notice.
+
+Galaxy Book4 Ultra 16-inch Dimensions * 355.4 x 250.4 x 16.5mm * Accuracy of numbers may vary depending on measurements used. Height may vary depending on manufacturing process. Weight * 1.86kg * Weights may vary depending on manufacturing process. OS * Windows 11 Home * Availability may vary device. Display * 16-inch, 16:10 Touch AMOLED, WQXGA+ (2880x1800), 400nits, 48~120Hz VRR, 120% DCI-P3 Color volume * 400nits (Typ), 500nits (HDR) -VESA HDR 500 authentication, HDR Contents only. Processor* Intel ® Core ™ Ultra 9 / Core ™ Ultra 7 (Intel ® Evo ™ Edition) * Specifications may vary depending on model or market. Graphic * NVIDIA ® GeForce RTX ™ 4070 Laptop GPU 8GB GDDR6 NVIDIA ® GeForce RTX ™ 4050 Laptop GPU 6GB GDDR6 * Specifications may vary depending on model or market. Network * Wi-Fi 6E, 802.11 ax 2x2, Bluetooth v5.3 * Actual speed may vary depending on market, carrier, and user environment. Wi-Fi 6E availability may vary due to OS version, market, location, network conditions, and other factors. Wi-Fi 6E wireless network routers required and sold separately. Color Moonstone Gray Memory * 16GB/32GB/64GB (LPDDR5X) * Availability may vary by device. Storage * 512GB/1TB/2TB SSD (PCle), Expansion Slot * Availability may vary by device. Camera 2M (1080p FHD) Microphone/ Speaker Studio-quality Dual Microphones / AKG Quad speakers (Woofer Max 5Wx2, Tweeter 2Wx2), Dolby Atmos ® Keyboard * Pro keyboard with Numeric key (Backlit keyboard) * Keyboard layout may vary by market. Battery * 76Wh​ (Typical) * Typical value of battery capacity tested under third-party laboratory condition. Typical value is the estimated average value considering the deviation in battery capacity among the battery samples tested under IEC 61960 standard. Rated (minimum) capacity is 73.9Wh. Charging * 140W USB Type-C Adapter * The inbox charger and data cable are USB Type-C. Port * Thunderbolt ™ 4 (2), USB Type-A, HDMI 2.1 port (Supports 8K@60, 5K@120), Micro SD, Headphone/Microphone * Actual speed of USB may vary depending on user environment. *Specifications may vary by market. *All functionality, features, specifications and other product information provided in this document including, but not limited to, the benefits, design, pricing, components, performance, availability, and capabilities of the product are subject to change without notice.
+
+--------------------------------------------------------------------------------

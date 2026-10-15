@@ -1,0 +1,22 @@
+DEVICE: Nexus S
+URL: https://www.samsungmobilepress.com/media-assets/nexus-s
+
+SPECIFICATIONS
+Network - 2.5G (GSM/ GPRS/ EDGE) : 850 / 900 / 1800 / 1900 MHz 3G (HSDPA 7.2Mbps, HSUPA 5.76Mbps) : 900 / 1700 / 2100 MHz
+OS - Android 2.3 / Gingerbread
+Display - 4.0” WVGA SUPER AMOLED (800x480)
+Camera - 5.0 mega-pixel Camera VGA front Camera, Auto Focus, Self shot
+Video - HD(720p@30fps) video playing, Video recording D1 (720x480)@30fps mpeg4, H.264, H.263
+Audio - MP3, AAC, AAC , eAAC , AMR, AMR-NB
+Value-added Features - NFC (Near Field Communications) capability Android Market for more applications and contents A-GPS Gyroscope Sensor, Accelerometer, Digital compass, Proximity, Light
+Connectivity - Bluetooth technology v 2.1 EDR USB v2.0 (High-Speed) Wi-Fi 802.11 b/g/n
+Memory - 16GB iNAND
+Size - 63 x 123.9 x 10.9 mm
+Battery - 1500 mAh
+
+ADDITIONAL SPECIFICATION CONTENT
+Images Videos Tech Specs Related Articles Nexus S specifications Network 2.5G (GSM/ GPRS/ EDGE) : 850 / 900 / 1800 / 1900 MHz 3G (HSDPA 7.2Mbps, HSUPA 5.76Mbps) : 900 / 1700 / 2100 MHz OS Android 2.3 / Gingerbread Display 4.0” WVGA SUPER AMOLED (800x480) Camera 5.0 mega-pixel Camera VGA front Camera, Auto Focus, Self shot Video HD(720p@30fps) video playing, Video recording D1 (720x480)@30fps mpeg4, H.264, H.263 Audio MP3, AAC, AAC , eAAC , AMR, AMR-NB Value-added Features NFC (Near Field Communications) capability Android Market for more applications and contents A-GPS Gyroscope Sensor, Accelerometer, Digital compass, Proximity, Light Connectivity Bluetooth technology v 2.1 EDR USB v2.0 (High-Speed) Wi-Fi 802.11 b/g/n Memory 16GB iNAND Size 63 x 123.9 x 10.9 mm Battery 1500 mAh
+
+Nexus S specifications Network 2.5G (GSM/ GPRS/ EDGE) : 850 / 900 / 1800 / 1900 MHz 3G (HSDPA 7.2Mbps, HSUPA 5.76Mbps) : 900 / 1700 / 2100 MHz OS Android 2.3 / Gingerbread Display 4.0” WVGA SUPER AMOLED (800x480) Camera 5.0 mega-pixel Camera VGA front Camera, Auto Focus, Self shot Video HD(720p@30fps) video playing, Video recording D1 (720x480)@30fps mpeg4, H.264, H.263 Audio MP3, AAC, AAC , eAAC , AMR, AMR-NB Value-added Features NFC (Near Field Communications) capability Android Market for more applications and contents A-GPS Gyroscope Sensor, Accelerometer, Digital compass, Proximity, Light Connectivity Bluetooth technology v 2.1 EDR USB v2.0 (High-Speed) Wi-Fi 802.11 b/g/n Memory 16GB iNAND Size 63 x 123.9 x 10.9 mm Battery 1500 mAh
+
+--------------------------------------------------------------------------------

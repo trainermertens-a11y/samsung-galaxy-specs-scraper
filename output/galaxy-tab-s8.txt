@@ -1,0 +1,34 @@
+DEVICE: Galaxy Tab S8+
+URL: https://www.samsungmobilepress.com/media-assets/galaxy-tab-s8-plus
+
+SPECIFICATIONS
+Display* - 12.4-inch, 2800 x 1752, (WQXGA+) 266ppi Super AMOLED, up to 120Hz
+OS - Android 12.0
+Dimensions - 185.0 x 285.0 x 5.7mm
+Weight - 567g (Wi-Fi) / 572g (5G)
+Camera - Rear - 13MP AF + 6MP Ultra-Wide (Dual) + Flash
+Front - 12MP (Ultra-Wide)
+Memory & Storage* - 8/12GB + 128/256GB, microSD up to 1TB**
+Processor - 4 nm 64-bit Octa-Core Processor
+Battery* - 10,090mAh (typical) Super Fast Charging 2.0(up to 45W)**
+Connectivity - 5G*, LTE**,Wi-Fi 6E (802.11 a/b/g/n/ac/ax), Wi-Fi Direct Bluetooth ® v 5.2
+Color* - Graphite, Silver, Pink Gold
+Connectors - Type-C USB 3.2
+Sensors - Accelerometer, Geomagnetic, Gyro, Light, Fingerprint, Hall Sensor
+GPS - GPS+GLONASS, Beidou, Galileo
+Sound - Quad Stereo Speakers with Sound by AKG, Dolby Atmos ®
+Microphone - 3 Microphones
+Video - Recording - 4K @ 30fps
+Playback - 8K @ 60fps
+Security - Samsung Knox including Samsung Knox Vault
+Biometric Authentication - Fingerprint On Display
+Accessories* - S Pen (BLE, Inbox) Book Cover Keyboard, Book Cover Keyboard Slim, Book Cover, Protective Standing Cover, Note View Cover, Strap Cover
+
+ADDITIONAL SPECIFICATION CONTENT
+Tablet & PC Galaxy Tab S8+
+
+Images Videos Tech Specs Related Articles Galaxy Tab S8+ Display* 12.4-inch, 2800 x 1752, (WQXGA+) 266ppi Super AMOLED, up to 120Hz *Measured diagonally as a full rectangle without accounting for the rounded corners. Actual viewable area is less due to the rounded corners and camera hole. OS Android 12.0 Dimensions 185.0 x 285.0 x 5.7mm Weight 567g (Wi-Fi) / 572g (5G) Camera Rear 13MP AF + 6MP Ultra-Wide (Dual) + Flash Front 12MP (Ultra-Wide) Memory & Storage* 8/12GB + 128/256GB, microSD up to 1TB** *Storage availability may differ by market, model, color, or carrier. Actual storage space availability may vary depending on pre-installed software and by market, model, file size and format. **MicroSD card sold separately. Processor 4 nm 64-bit Octa-Core Processor Battery* 10,090mAh (typical) Super Fast Charging 2.0(up to 45W)** *Typical value tested under third-party laboratory condition. Typical value is the estimated average value considering the deviation in battery capacity among the battery samples tested under IEC 61960 standard. ** Chargers sold separately. Connectivity 5G*, LTE**,Wi-Fi 6E (802.11 a/b/g/n/ac/ax), Wi-Fi Direct Bluetooth ® v 5.2 *5G services are only supported in 5G network enabled locations. Requires optimal 5G connection. Actual speed may vary depending on market, carrier, and user environment. **Availability of LTE model varies by market or carrier. Color* Graphite, Silver, Pink Gold *Product color availability may vary by market or carrier. Connectors Type-C USB 3.2 Sensors Accelerometer, Geomagnetic, Gyro, Light, Fingerprint, Hall Sensor GPS GPS+GLONASS, Beidou, Galileo Sound Quad Stereo Speakers with Sound by AKG, Dolby Atmos ® Microphone 3 Microphones Video Recording 4K @ 30fps Playback 8K @ 60fps Security Samsung Knox including Samsung Knox Vault Biometric Authentication Fingerprint On Display Accessories* S Pen (BLE, Inbox) Book Cover Keyboard, Book Cover Keyboard Slim, Book Cover, Protective Standing Cover, Note View Cover, Strap Cover *S Pen and USB Type-C cable included inbox. Other accessories are available for purchase separately. Availability of third party cases may vary by market, carrier and retailer. *Specifications may vary by market. *All functionality, features, specifications and other product information provided in this document including, but not limited to, the benefits, design, pricing, components, performance, availability, and capabilities of the product are subject to change without notice.
+
+Galaxy Tab S8+ Display* 12.4-inch, 2800 x 1752, (WQXGA+) 266ppi Super AMOLED, up to 120Hz *Measured diagonally as a full rectangle without accounting for the rounded corners. Actual viewable area is less due to the rounded corners and camera hole. OS Android 12.0 Dimensions 185.0 x 285.0 x 5.7mm Weight 567g (Wi-Fi) / 572g (5G) Camera Rear 13MP AF + 6MP Ultra-Wide (Dual) + Flash Front 12MP (Ultra-Wide) Memory & Storage* 8/12GB + 128/256GB, microSD up to 1TB** *Storage availability may differ by market, model, color, or carrier. Actual storage space availability may vary depending on pre-installed software and by market, model, file size and format. **MicroSD card sold separately. Processor 4 nm 64-bit Octa-Core Processor Battery* 10,090mAh (typical) Super Fast Charging 2.0(up to 45W)** *Typical value tested under third-party laboratory condition. Typical value is the estimated average value considering the deviation in battery capacity among the battery samples tested under IEC 61960 standard. ** Chargers sold separately. Connectivity 5G*, LTE**,Wi-Fi 6E (802.11 a/b/g/n/ac/ax), Wi-Fi Direct Bluetooth ® v 5.2 *5G services are only supported in 5G network enabled locations. Requires optimal 5G connection. Actual speed may vary depending on market, carrier, and user environment. **Availability of LTE model varies by market or carrier. Color* Graphite, Silver, Pink Gold *Product color availability may vary by market or carrier. Connectors Type-C USB 3.2 Sensors Accelerometer, Geomagnetic, Gyro, Light, Fingerprint, Hall Sensor GPS GPS+GLONASS, Beidou, Galileo Sound Quad Stereo Speakers with Sound by AKG, Dolby Atmos ® Microphone 3 Microphones Video Recording 4K @ 30fps Playback 8K @ 60fps Security Samsung Knox including Samsung Knox Vault Biometric Authentication Fingerprint On Display Accessories* S Pen (BLE, Inbox) Book Cover Keyboard, Book Cover Keyboard Slim, Book Cover, Protective Standing Cover, Note View Cover, Strap Cover *S Pen and USB Type-C cable included inbox. Other accessories are available for purchase separately. Availability of third party cases may vary by market, carrier and retailer. *Specifications may vary by market. *All functionality, features, specifications and other product information provided in this document including, but not limited to, the benefits, design, pricing, components, performance, availability, and capabilities of the product are subject to change without notice.
+
+--------------------------------------------------------------------------------

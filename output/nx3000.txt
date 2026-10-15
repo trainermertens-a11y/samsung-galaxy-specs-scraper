@@ -1,0 +1,27 @@
+DEVICE: NX3000
+URL: https://www.samsungmobilepress.com/media-assets/nx3000
+
+SPECIFICATIONS
+Image Sensor - 20.3 effective megapixel APS-C CMOS sensor
+Display - 75.2 mm (3.0-inch) Flip-up Display HVGA (320x480)
+View finder - N/A
+ISO - Auto, 100, 200, 400, 800, 1600, 3200, 6400, 12800, 25600
+Image - JPEG (3:2):20.0M (5472x3648), 10.1M (3888x2592), 5.9M (2976x1984), 2.0M (1728x1152), 5.0M (2736x1824): Burst mode only JPEG (16:9):16.9M (5472x3080), 7.8M (3712x2088), 4.9M (2944x1656), 2.1M (1920x1080) JPEG (1:1):13.3M (3648x3648), 7.0M (2640x2640), 4.0M (2000x2000), 1.1M (1024x1024) RAW : 20.0M (5472x3648) RAW: SRW (ver 3.0.0)
+Video - MP4 (Video: MPEG4, AVC/H.264, Audio: AAC) 1920x1080, 1920x810, 1280x720 , 640x480, 320x240(for Sharing)
+Video Output - NTS, PAL, HDMI 1.4a
+Value-added Features - Tag & Go (NFC/Wi-Fi) : Photo Beam, AutoShare, Remote View Finder Pro, Mobile Link
+Wi-Fi Connectivity - IEEE 802.11b/g/n support (SMART Camera 3.0) • AutoShare • Auto Backup • Remote Viewfinder Pro • MobileLink (Group share up to 4 people) • Photo Beam • Samsung Link • Home Monitor+ * Note - The availability of each service may differ by country.
+NFC - Advanced Passive NFC(Wired NFC)
+Bundle PC software - iLauncher, Adobe® Photoshop® Lightroom® 5
+Storage - Micro SD,Micro SDHC,Micro SDXC, UHS-1 Micro SD
+Battery - BP1130 (1130mAh)
+Battery - B740AE/B740AC/B740AU/B740AK * Note - The battery specifications or model may differ by country 2330mAh
+Dimension (WxHxD) - 117.4x65.9x39.0(26.8) mm
+Weight - 230 g (without battery)
+
+ADDITIONAL SPECIFICATION CONTENT
+Images Videos Tech Specs Related Articles Samsung NX3000 Product Specifications Image Sensor 20.3 effective megapixel APS-C CMOS sensor Display 75.2 mm (3.0-inch) Flip-up Display HVGA (320x480) View finder N/A ISO Auto, 100, 200, 400, 800, 1600, 3200, 6400, 12800, 25600 Image JPEG (3:2):20.0M (5472x3648), 10.1M (3888x2592), 5.9M (2976x1984), 2.0M (1728x1152), 5.0M (2736x1824): Burst mode only JPEG (16:9):16.9M (5472x3080), 7.8M (3712x2088), 4.9M (2944x1656), 2.1M (1920x1080) JPEG (1:1):13.3M (3648x3648), 7.0M (2640x2640), 4.0M (2000x2000), 1.1M (1024x1024) RAW : 20.0M (5472x3648) RAW: SRW (ver 3.0.0) Video MP4 (Video: MPEG4, AVC/H.264, Audio: AAC) 1920x1080, 1920x810, 1280x720 , 640x480, 320x240(for Sharing) Video Output NTS, PAL, HDMI 1.4a Value-added Features Tag & Go (NFC/Wi-Fi) : Photo Beam, AutoShare, Remote View Finder Pro, Mobile Link SMART Mode : Beauty Face, Best Face, Landscape, Macro, Action Freeze, Rich Tone, Waterfall, Silhouette, Sunset, Night, Firework, Light Trace, Continuous Shot, Kids, Food, Party/Indoor External Flash (Guide Number 8 at ISO100) Wi-Fi Connectivity IEEE 802.11b/g/n support (SMART Camera 3.0) • AutoShare • Auto Backup • Remote Viewfinder Pro • MobileLink (Group share up to 4 people) • Photo Beam • Samsung Link • Home Monitor+ * Note - The availability of each service may differ by country. NFC Advanced Passive NFC(Wired NFC) Bundle PC software iLauncher, Adobe® Photoshop® Lightroom® 5 Storage Micro SD,Micro SDHC,Micro SDXC, UHS-1 Micro SD Battery BP1130 (1130mAh) Battery B740AE/B740AC/B740AU/B740AK * Note - The battery specifications or model may differ by country 2330mAh Dimension (WxHxD) 117.4x65.9x39.0(26.8) mm Weight 230 g (without battery)
+
+Samsung NX3000 Product Specifications Image Sensor 20.3 effective megapixel APS-C CMOS sensor Display 75.2 mm (3.0-inch) Flip-up Display HVGA (320x480) View finder N/A ISO Auto, 100, 200, 400, 800, 1600, 3200, 6400, 12800, 25600 Image JPEG (3:2):20.0M (5472x3648), 10.1M (3888x2592), 5.9M (2976x1984), 2.0M (1728x1152), 5.0M (2736x1824): Burst mode only JPEG (16:9):16.9M (5472x3080), 7.8M (3712x2088), 4.9M (2944x1656), 2.1M (1920x1080) JPEG (1:1):13.3M (3648x3648), 7.0M (2640x2640), 4.0M (2000x2000), 1.1M (1024x1024) RAW : 20.0M (5472x3648) RAW: SRW (ver 3.0.0) Video MP4 (Video: MPEG4, AVC/H.264, Audio: AAC) 1920x1080, 1920x810, 1280x720 , 640x480, 320x240(for Sharing) Video Output NTS, PAL, HDMI 1.4a Value-added Features Tag & Go (NFC/Wi-Fi) : Photo Beam, AutoShare, Remote View Finder Pro, Mobile Link SMART Mode : Beauty Face, Best Face, Landscape, Macro, Action Freeze, Rich Tone, Waterfall, Silhouette, Sunset, Night, Firework, Light Trace, Continuous Shot, Kids, Food, Party/Indoor External Flash (Guide Number 8 at ISO100) Wi-Fi Connectivity IEEE 802.11b/g/n support (SMART Camera 3.0) • AutoShare • Auto Backup • Remote Viewfinder Pro • MobileLink (Group share up to 4 people) • Photo Beam • Samsung Link • Home Monitor+ * Note - The availability of each service may differ by country. NFC Advanced Passive NFC(Wired NFC) Bundle PC software iLauncher, Adobe® Photoshop® Lightroom® 5 Storage Micro SD,Micro SDHC,Micro SDXC, UHS-1 Micro SD Battery BP1130 (1130mAh) Battery B740AE/B740AC/B740AU/B740AK * Note - The battery specifications or model may differ by country 2330mAh Dimension (WxHxD) 117.4x65.9x39.0(26.8) mm Weight 230 g (without battery)
+
+--------------------------------------------------------------------------------

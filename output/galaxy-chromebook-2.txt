@@ -1,0 +1,29 @@
+DEVICE: Galaxy Chromebook 2
+URL: https://www.samsungmobilepress.com/media-assets/galaxy_chromebook_2
+
+SPECIFICATIONS
+Dimension - 304.9 x 203.2 x 13.9mm * Accuracy of numbers may vary depending on measurements used. * Height varies depending on manufacturing process.
+Weight - 1.23kg * Accuracy of numbers may vary depending on measurements used.
+Display - 13.3-inch QLED FHD (1920 x 1080) with Touchscreen Touchscreen
+OS - Chrome OS
+CPU - 10 th Gen Intel ® Core ™ i3-10110U Intel ® Celeron ® 5205U * May differ by market and product.
+Graphic - Intel ® UHD Graphics
+Memory - 4GB, 8GB (LPDDR3) * May differ by market and mobile operator. * User memory is less than the total memory due to storage of the operating system and software used to operate the device features. Actual user memory will vary depending on the operator and may change after software upgrades are performed.
+Storage - 64GB, 128GB * MicroSD card sold separately.
+Camera - 720P HD (1MP)
+Audio - Stereo Speakers (Max 5Wx 2) with Smart AMP
+Pen - USI Pen support (sold separately)
+Keyboard - Backlit
+WLAN - Wi-Fi 6 (Gig+), 802.11 ax 2x2 Bluetooth ® v5.0 * May differ by market.
+Battery - 45.5Wh (Typical) * Based on results from internal lab tests for local video playback time conducted by Samsung. Test results are estimated values of the battery sample from a pre-release version tested under default settings (audio volume and brightness levels) without connection to Wi-Fi or mobile network. Battery life varies significantly with settings, usage, and other factors. * Adaptor is different depend on system.
+Security - Trusted Platform Module (TPM)
+Ports - USB-C ® (2), Headphone/Mic, MicroSD Slot * Actual speed of USB can vary depending on user environment
+
+ADDITIONAL SPECIFICATION CONTENT
+Tablet & PC Galaxy Chromebook 2
+
+Images Videos Tech Specs Related Articles Galaxy Chromebook 2 Dimension 304.9 x 203.2 x 13.9mm * Accuracy of numbers may vary depending on measurements used. * Height varies depending on manufacturing process. Weight 1.23kg * Accuracy of numbers may vary depending on measurements used. Display 13.3-inch QLED FHD (1920 x 1080) with Touchscreen Touchscreen OS Chrome OS CPU 10 th Gen Intel ® Core ™ i3-10110U Intel ® Celeron ® 5205U * May differ by market and product. Graphic Intel ® UHD Graphics Memory 4GB, 8GB (LPDDR3) * May differ by market and mobile operator. * User memory is less than the total memory due to storage of the operating system and software used to operate the device features. Actual user memory will vary depending on the operator and may change after software upgrades are performed. Storage 64GB, 128GB * MicroSD card sold separately. Camera 720P HD (1MP) Audio Stereo Speakers (Max 5Wx 2) with Smart AMP Pen USI Pen support (sold separately) Keyboard Backlit WLAN Wi-Fi 6 (Gig+), 802.11 ax 2x2 Bluetooth ® v5.0 * May differ by market. Battery 45.5Wh (Typical) * Based on results from internal lab tests for local video playback time conducted by Samsung. Test results are estimated values of the battery sample from a pre-release version tested under default settings (audio volume and brightness levels) without connection to Wi-Fi or mobile network. Battery life varies significantly with settings, usage, and other factors. * Adaptor is different depend on system. Security Trusted Platform Module (TPM) Ports USB-C ® (2), Headphone/Mic, MicroSD Slot * Actual speed of USB can vary depending on user environment * All functionality, features, specifications and other product information provided in this document including, but not limited to, the benefits, design, pricing, components, performance, availability, and capabilities of the product are subject to change without notice.
+
+Galaxy Chromebook 2 Dimension 304.9 x 203.2 x 13.9mm * Accuracy of numbers may vary depending on measurements used. * Height varies depending on manufacturing process. Weight 1.23kg * Accuracy of numbers may vary depending on measurements used. Display 13.3-inch QLED FHD (1920 x 1080) with Touchscreen Touchscreen OS Chrome OS CPU 10 th Gen Intel ® Core ™ i3-10110U Intel ® Celeron ® 5205U * May differ by market and product. Graphic Intel ® UHD Graphics Memory 4GB, 8GB (LPDDR3) * May differ by market and mobile operator. * User memory is less than the total memory due to storage of the operating system and software used to operate the device features. Actual user memory will vary depending on the operator and may change after software upgrades are performed. Storage 64GB, 128GB * MicroSD card sold separately. Camera 720P HD (1MP) Audio Stereo Speakers (Max 5Wx 2) with Smart AMP Pen USI Pen support (sold separately) Keyboard Backlit WLAN Wi-Fi 6 (Gig+), 802.11 ax 2x2 Bluetooth ® v5.0 * May differ by market. Battery 45.5Wh (Typical) * Based on results from internal lab tests for local video playback time conducted by Samsung. Test results are estimated values of the battery sample from a pre-release version tested under default settings (audio volume and brightness levels) without connection to Wi-Fi or mobile network. Battery life varies significantly with settings, usage, and other factors. * Adaptor is different depend on system. Security Trusted Platform Module (TPM) Ports USB-C ® (2), Headphone/Mic, MicroSD Slot * Actual speed of USB can vary depending on user environment * All functionality, features, specifications and other product information provided in this document including, but not limited to, the benefits, design, pricing, components, performance, availability, and capabilities of the product are subject to change without notice.
+
+--------------------------------------------------------------------------------

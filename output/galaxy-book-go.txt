@@ -1,0 +1,28 @@
+DEVICE: Galaxy Book Go
+URL: https://www.samsungmobilepress.com/media-assets/galaxy_book_go
+
+SPECIFICATIONS
+Dimensions * - 323.9 x 224.8 x 14.9mm * Height varies depending on manufacturing process.
+Weight * - 1.38kg * Weight varies depending on manufacturing process.
+OS * - Windows 10 Home / Pro * OS edition varies by region and retailer
+Display - 14-inch TFT FHD (1920 x 1080)
+CPU - Qualcomm ® Snapdragon™ 7c Gen 2 compute platform
+Graphics - Qualcomm ® Adreno™ GPU
+Connectivity - LTE * , Wi-Fi 5 ** , 802.11 ac 2x2, Bluetooth v5.1 * Snapdragon™ 7c Gen 2 compute platform with Snapdragon X15 LTE modem. LTE is optional. LTE connection may require separate data plan subscription. Check your carrier for more details. Actual speed may vary depending on market, carrier, and user environment. ** Galaxy Book Go supports Wi-Fi 5. Wi-Fi 6 is available on Galaxy Book Go 5G.
+Color - Silver
+Memory * - 4GB, 8GB (LPDDR4X) * The memory is non-detachable. The memory size varies by market.
+Storage - 64GB, 128GB (eUFS) * The storage size varies by market.
+Camera / Mic - 720p HD / Digital Mic
+Battery - 42.3Wh (Typical * ) * Typical value tested under third-party laboratory condition. Typical value is the estimated average value considering the deviation in battery capacity among the battery samples tested under IEC 61960 standard. Actual battery life may vary depending on network environment, usage patterns and other factors.
+Adapter - 25W USB Type-C Fast Charger
+Speakers - Dolby Atmos ®
+Port * - USB Type-C (2), USB 2.0 (1), 3.5pi Headphone/Mic, MicroSD, Nano SIM ** , Nano Security slot * Actual speed of USB can vary depending on user environment. ** No nano SIM slot on the Wi-Fi version.
+
+ADDITIONAL SPECIFICATION CONTENT
+Tablet & PC Galaxy Book Go
+
+Images Videos Tech Specs Related Articles Galaxy Book Go Dimensions * 323.9 x 224.8 x 14.9mm * Height varies depending on manufacturing process. Weight * 1.38kg * Weight varies depending on manufacturing process. OS * Windows 10 Home / Pro * OS edition varies by region and retailer Display 14-inch TFT FHD (1920 x 1080) CPU Qualcomm ® Snapdragon™ 7c Gen 2 compute platform Graphics Qualcomm ® Adreno™ GPU Connectivity LTE * , Wi-Fi 5 ** , 802.11 ac 2x2, Bluetooth v5.1 * Snapdragon™ 7c Gen 2 compute platform with Snapdragon X15 LTE modem. LTE is optional. LTE connection may require separate data plan subscription. Check your carrier for more details. Actual speed may vary depending on market, carrier, and user environment. ** Galaxy Book Go supports Wi-Fi 5. Wi-Fi 6 is available on Galaxy Book Go 5G. Color Silver Memory * 4GB, 8GB (LPDDR4X) * The memory is non-detachable. The memory size varies by market. Storage 64GB, 128GB (eUFS) * The storage size varies by market. Camera / Mic 720p HD / Digital Mic Battery 42.3Wh (Typical * ) * Typical value tested under third-party laboratory condition. Typical value is the estimated average value considering the deviation in battery capacity among the battery samples tested under IEC 61960 standard. Actual battery life may vary depending on network environment, usage patterns and other factors. Adapter 25W USB Type-C Fast Charger Speakers Dolby Atmos ® Port * USB Type-C (2), USB 2.0 (1), 3.5pi Headphone/Mic, MicroSD, Nano SIM ** , Nano Security slot * Actual speed of USB can vary depending on user environment. ** No nano SIM slot on the Wi-Fi version. * The specification of Galaxy Book Go 5G will be announced later this year. ** All functionality, features, specifications and other product information provided in this document including, but not limited to, the benefits, design, pricing, components, performance, availability, and capabilities of the product are subject to change without notice.
+
+Galaxy Book Go Dimensions * 323.9 x 224.8 x 14.9mm * Height varies depending on manufacturing process. Weight * 1.38kg * Weight varies depending on manufacturing process. OS * Windows 10 Home / Pro * OS edition varies by region and retailer Display 14-inch TFT FHD (1920 x 1080) CPU Qualcomm ® Snapdragon™ 7c Gen 2 compute platform Graphics Qualcomm ® Adreno™ GPU Connectivity LTE * , Wi-Fi 5 ** , 802.11 ac 2x2, Bluetooth v5.1 * Snapdragon™ 7c Gen 2 compute platform with Snapdragon X15 LTE modem. LTE is optional. LTE connection may require separate data plan subscription. Check your carrier for more details. Actual speed may vary depending on market, carrier, and user environment. ** Galaxy Book Go supports Wi-Fi 5. Wi-Fi 6 is available on Galaxy Book Go 5G. Color Silver Memory * 4GB, 8GB (LPDDR4X) * The memory is non-detachable. The memory size varies by market. Storage 64GB, 128GB (eUFS) * The storage size varies by market. Camera / Mic 720p HD / Digital Mic Battery 42.3Wh (Typical * ) * Typical value tested under third-party laboratory condition. Typical value is the estimated average value considering the deviation in battery capacity among the battery samples tested under IEC 61960 standard. Actual battery life may vary depending on network environment, usage patterns and other factors. Adapter 25W USB Type-C Fast Charger Speakers Dolby Atmos ® Port * USB Type-C (2), USB 2.0 (1), 3.5pi Headphone/Mic, MicroSD, Nano SIM ** , Nano Security slot * Actual speed of USB can vary depending on user environment. ** No nano SIM slot on the Wi-Fi version. * The specification of Galaxy Book Go 5G will be announced later this year. ** All functionality, features, specifications and other product information provided in this document including, but not limited to, the benefits, design, pricing, components, performance, availability, and capabilities of the product are subject to change without notice.
+
+--------------------------------------------------------------------------------

@@ -1,0 +1,24 @@
+DEVICE: Galaxy Fit
+URL: https://www.samsungmobilepress.com/media-assets/galaxy_fit
+
+SPECIFICATIONS
+Category - Galaxy Fit Features*
+Color - Black, Silver
+Display - 0.95” Full Color AMOLED 120 x 240, 282ppi
+AP - MCU Cortex M33F 96MHz + M0 16 MHz
+OS - Realtime OS
+Size - 18.3(W) x 45.1 (H) x 11.2(T) 23g (w/strap)
+Memory - 512KB internal RAM, 2048KB external RAM, 32MB external ROM
+Connectivity - BLE
+Sensor - HRM, Accelerometer, Gyroscope
+Battery - 120mAh
+Charge - NFC Wireless
+Durability - 5ATM water resistance MIL STD 810G
+Compatibility - Samsung, other Android: Android 5.0 or higher & RAM 1.5GB above iPhone: iPhone 7 and above, iOS 10.0 or above
+
+ADDITIONAL SPECIFICATION CONTENT
+Images Videos Tech Specs Related Articles Category Galaxy Fit Features* Color Black, Silver Display 0.95” Full Color AMOLED 120 x 240, 282ppi AP MCU Cortex M33F 96MHz + M0 16 MHz OS Realtime OS Size 18.3(W) x 45.1 (H) x 11.2(T) 23g (w/strap) Memory 512KB internal RAM, 2048KB external RAM, 32MB external ROM Connectivity BLE Sensor HRM, Accelerometer, Gyroscope Battery 120mAh Charge NFC Wireless Durability 5ATM water resistance MIL STD 810G Compatibility Samsung, other Android: Android 5.0 or higher & RAM 1.5GB above iPhone: iPhone 7 and above, iOS 10.0 or above *All functionality, features, specifications and other product information provided in this document including, but not limited to, the benefits, design, pricing, components, performance, availability, and capabilities of the product are subject to change without notice.
+
+Category Galaxy Fit Features* Color Black, Silver Display 0.95” Full Color AMOLED 120 x 240, 282ppi AP MCU Cortex M33F 96MHz + M0 16 MHz OS Realtime OS Size 18.3(W) x 45.1 (H) x 11.2(T) 23g (w/strap) Memory 512KB internal RAM, 2048KB external RAM, 32MB external ROM Connectivity BLE Sensor HRM, Accelerometer, Gyroscope Battery 120mAh Charge NFC Wireless Durability 5ATM water resistance MIL STD 810G Compatibility Samsung, other Android: Android 5.0 or higher & RAM 1.5GB above iPhone: iPhone 7 and above, iOS 10.0 or above *All functionality, features, specifications and other product information provided in this document including, but not limited to, the benefits, design, pricing, components, performance, availability, and capabilities of the product are subject to change without notice.
+
+--------------------------------------------------------------------------------

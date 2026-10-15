@@ -1,0 +1,30 @@
+DEVICE: GALAXY Note 10.1
+URL: https://www.samsungmobilepress.com/media-assets/galaxy-note-10-1
+
+SPECIFICATIONS
+Network - HSPA+ 21-Mbps (HSDPA 21Mbps / HSUPA 5.76Mbps) Quad Band 850/900/1900/2100 MHz
+Processor - 1.4 GHz quad-core processor
+Display - 255.8mm (10.1”) WXGA(1280x800) LCD + Digitizer
+OS - Android 4.0 (Ice Cream Sandwich)
+Camera - Main(Rear): 5 Megapixel Auto Focus Camera with LED Flash Sub(Front): 1.9 Megapixel VT Camera
+Video - Codec: MPEG4, H.263, H.264, VC-1, DivX, WMV7, WMV8, WMV9, VP8 Format: 3GP(MP4), WMV(ASF), AVI, FLV, MKV, WebM Full HD(1080p) Playback & HD Recording
+Audio - Codec: MP3, OGG, WMA, AAC, ACC+, eAAC+, AMR(NB,WB), MIDI, WAV, AC-3, Flac Music Player with SoundAlive 3.5mm Ear Jack
+S Pen Optimized Features - S Pen Experience (S Note, S Planner, My Story) (* more S Pen optimized apps are available via Samsung Apps)
+Sharing Features - Samsung AllShare Play / Samsung AllShare Cast Samsung Kies /Samsung Kies Air
+Content Features & Services - Samsung TouchWiz / Samsung L!ve Panel
+Enterprise Solutions - Exchange ActiveSync On-Device Encryption Cisco VPN (Virtual Private Network) Juniper Junos Pulse VPN
+GPS - A-GPS(3G version) S-GPS(WiFi version) Glonass
+Connectivity - Bluetooth technology v 4.0 (Apt-X Codec support) USB 2.0 Host Wi-Fi 802.11 a/b/g/n (2.4 & 5 GHz), Wi-Fi Direct, Wi-Fi Channel Bonding mHL, 3.5mm, IR LED(Smart Remote: Universal Remote Control)
+Sensor - Accelerometer, Digital compass, Light, Gyroscope
+Memory - 16/32/64GB User memory + 2GB (RAM) microSD (up to 64GB)
+Dimension - 262 x 180 x 8.9 mm, 600g (3G), 597g (WiFi)
+Battery - Standard battery, Li-ion 7,000mAh
+
+ADDITIONAL SPECIFICATION CONTENT
+Tablet & PC GALAXY Note 10.1
+
+Images Videos Tech Specs Related Articles Samsung Galaxy Note 10.1 Product Specifications Network HSPA+ 21-Mbps (HSDPA 21Mbps / HSUPA 5.76Mbps) Quad Band 850/900/1900/2100 MHz Processor 1.4 GHz quad-core processor Display 255.8mm (10.1”) WXGA(1280x800) LCD + Digitizer OS Android 4.0 (Ice Cream Sandwich) Camera Main(Rear): 5 Megapixel Auto Focus Camera with LED Flash Sub(Front): 1.9 Megapixel VT Camera Video Codec: MPEG4, H.263, H.264, VC-1, DivX, WMV7, WMV8, WMV9, VP8 Format: 3GP(MP4), WMV(ASF), AVI, FLV, MKV, WebM Full HD(1080p) Playback & HD Recording Audio Codec: MP3, OGG, WMA, AAC, ACC+, eAAC+, AMR(NB,WB), MIDI, WAV, AC-3, Flac Music Player with SoundAlive 3.5mm Ear Jack S Pen Optimized Features S Pen Experience (S Note, S Planner, My Story) (* more S Pen optimized apps are available via Samsung Apps) Multiscreen Adobe® Photoshop® Touch Shape Match, Formula Match Polaris Office Sharing Features Samsung AllShare Play / Samsung AllShare Cast Samsung Kies /Samsung Kies Air Content Features & Services Samsung TouchWiz / Samsung L!ve Panel Samsung Apps Samsung Hub -Music Hub / Game Hub -Learning Hub* / Readers Hub* / Video Hub* / Media Hub*(US only) (Availability of Learning Hub and Video Hub are limited by market. Readers Hub will be available to download from Samsung Apps later this year) Samsung S Suggest Samsung ChatOn mobile communication service Google Search, Google Maps, Gmail, Google Latitude Google Play Store, Google Play Books, Google Play Movies Google Plus, YouTube, Google Talk, Google Places, Google Navigation, Google Downloads Enterprise Solutions Exchange ActiveSync On-Device Encryption Cisco VPN (Virtual Private Network) Juniper Junos Pulse VPN GPS A-GPS(3G version) S-GPS(WiFi version) Glonass Connectivity Bluetooth technology v 4.0 (Apt-X Codec support) USB 2.0 Host Wi-Fi 802.11 a/b/g/n (2.4 & 5 GHz), Wi-Fi Direct, Wi-Fi Channel Bonding mHL, 3.5mm, IR LED(Smart Remote: Universal Remote Control) Sensor Accelerometer, Digital compass, Light, Gyroscope Memory 16/32/64GB User memory + 2GB (RAM) microSD (up to 64GB) Dimension 262 x 180 x 8.9 mm, 600g (3G), 597g (WiFi) Battery Standard battery, Li-ion 7,000mAh
+
+Samsung Galaxy Note 10.1 Product Specifications Network HSPA+ 21-Mbps (HSDPA 21Mbps / HSUPA 5.76Mbps) Quad Band 850/900/1900/2100 MHz Processor 1.4 GHz quad-core processor Display 255.8mm (10.1”) WXGA(1280x800) LCD + Digitizer OS Android 4.0 (Ice Cream Sandwich) Camera Main(Rear): 5 Megapixel Auto Focus Camera with LED Flash Sub(Front): 1.9 Megapixel VT Camera Video Codec: MPEG4, H.263, H.264, VC-1, DivX, WMV7, WMV8, WMV9, VP8 Format: 3GP(MP4), WMV(ASF), AVI, FLV, MKV, WebM Full HD(1080p) Playback & HD Recording Audio Codec: MP3, OGG, WMA, AAC, ACC+, eAAC+, AMR(NB,WB), MIDI, WAV, AC-3, Flac Music Player with SoundAlive 3.5mm Ear Jack S Pen Optimized Features S Pen Experience (S Note, S Planner, My Story) (* more S Pen optimized apps are available via Samsung Apps) Multiscreen Adobe® Photoshop® Touch Shape Match, Formula Match Polaris Office Sharing Features Samsung AllShare Play / Samsung AllShare Cast Samsung Kies /Samsung Kies Air Content Features & Services Samsung TouchWiz / Samsung L!ve Panel Samsung Apps Samsung Hub -Music Hub / Game Hub -Learning Hub* / Readers Hub* / Video Hub* / Media Hub*(US only) (Availability of Learning Hub and Video Hub are limited by market. Readers Hub will be available to download from Samsung Apps later this year) Samsung S Suggest Samsung ChatOn mobile communication service Google Search, Google Maps, Gmail, Google Latitude Google Play Store, Google Play Books, Google Play Movies Google Plus, YouTube, Google Talk, Google Places, Google Navigation, Google Downloads Enterprise Solutions Exchange ActiveSync On-Device Encryption Cisco VPN (Virtual Private Network) Juniper Junos Pulse VPN GPS A-GPS(3G version) S-GPS(WiFi version) Glonass Connectivity Bluetooth technology v 4.0 (Apt-X Codec support) USB 2.0 Host Wi-Fi 802.11 a/b/g/n (2.4 & 5 GHz), Wi-Fi Direct, Wi-Fi Channel Bonding mHL, 3.5mm, IR LED(Smart Remote: Universal Remote Control) Sensor Accelerometer, Digital compass, Light, Gyroscope Memory 16/32/64GB User memory + 2GB (RAM) microSD (up to 64GB) Dimension 262 x 180 x 8.9 mm, 600g (3G), 597g (WiFi) Battery Standard battery, Li-ion 7,000mAh
+
+--------------------------------------------------------------------------------

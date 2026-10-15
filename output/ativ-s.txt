@@ -1,0 +1,26 @@
+DEVICE: ATIV S
+URL: https://www.samsungmobilepress.com/media-assets/ativ-s
+
+SPECIFICATIONS
+OS - Windows Phone 8
+Network - HSPA+ 42Mbps 850/900/1900/2100MHz EDGE/GPRS 850/900/1800/1900MHz
+Processor - 1.5 GHz dual-core processor
+Display - 4.8 inch (121.9mm ) HD Super AMOLED
+Camera - Main(Rear): 8 Megapixel Auto Focus Camera with LED Flash Sub(Front): 1.9 Megapixel VT Camera
+Video - Codec: H.263, H.264, WMV, MP4, M4V, MOV Full HD(1080p) Playback & Recording
+Audio - Codec: MP3, WMA, MP4, M4A, AAC 3.5mm Ear Jack
+Sharing Features Features - Tap + Send (File sharing with NFC and BT/Wi-Fi)
+Content Features & Services - Samsung ChatOn mobile communication service Samsung Hub - Music Hub * - Media Hub* (US only) Samsung Zone (in Windows Phone Marketplace) Photo Editor Mini Diary Now (Daily Briefing)
+GPS - A-GPS Glonass
+Connectivity - Bluetooth® 3.0 USB 2.0 Wi-Fi 802.11 a/b/g/n (2.4 & 5 GHz), Wi-Fi Direct, Wi-Fi Channel Bonding NFC 3.5mm earjack
+Sensor - Proximity, Accelerometer, Geomagnetic, Ambient Light, Gyroscope
+Memory - 16/32GB User memory + 1GB RAM microSD (SDXC support)
+Dimension - 137.2 x 70.5 x 8.7 mm, 135g
+Battery - Standard battery, Li-ion 2,300mAh
+
+ADDITIONAL SPECIFICATION CONTENT
+Images Videos Tech Specs Related Articles Samsung ATIV Product Specifications OS Windows Phone 8 Network HSPA+ 42Mbps 850/900/1900/2100MHz EDGE/GPRS 850/900/1800/1900MHz Processor 1.5 GHz dual-core processor Display 4.8 inch (121.9mm ) HD Super AMOLED Camera Main(Rear): 8 Megapixel Auto Focus Camera with LED Flash Sub(Front): 1.9 Megapixel VT Camera Video Codec: H.263, H.264, WMV, MP4, M4V, MOV Full HD(1080p) Playback & Recording Audio Codec: MP3, WMA, MP4, M4A, AAC 3.5mm Ear Jack Sharing Features Features Tap + Send (File sharing with NFC and BT/Wi-Fi) Samsung Family Story Content Features & Services Samsung ChatOn mobile communication service Samsung Hub - Music Hub * - Media Hub* (US only) Samsung Zone (in Windows Phone Marketplace) Photo Editor Mini Diary Now (Daily Briefing) GPS A-GPS Glonass Connectivity Bluetooth® 3.0 USB 2.0 Wi-Fi 802.11 a/b/g/n (2.4 & 5 GHz), Wi-Fi Direct, Wi-Fi Channel Bonding NFC 3.5mm earjack Sensor Proximity, Accelerometer, Geomagnetic, Ambient Light, Gyroscope Memory 16/32GB User memory + 1GB RAM microSD (SDXC support) Dimension 137.2 x 70.5 x 8.7 mm, 135g Battery Standard battery, Li-ion 2,300mAh
+
+Samsung ATIV Product Specifications OS Windows Phone 8 Network HSPA+ 42Mbps 850/900/1900/2100MHz EDGE/GPRS 850/900/1800/1900MHz Processor 1.5 GHz dual-core processor Display 4.8 inch (121.9mm ) HD Super AMOLED Camera Main(Rear): 8 Megapixel Auto Focus Camera with LED Flash Sub(Front): 1.9 Megapixel VT Camera Video Codec: H.263, H.264, WMV, MP4, M4V, MOV Full HD(1080p) Playback & Recording Audio Codec: MP3, WMA, MP4, M4A, AAC 3.5mm Ear Jack Sharing Features Features Tap + Send (File sharing with NFC and BT/Wi-Fi) Samsung Family Story Content Features & Services Samsung ChatOn mobile communication service Samsung Hub - Music Hub * - Media Hub* (US only) Samsung Zone (in Windows Phone Marketplace) Photo Editor Mini Diary Now (Daily Briefing) GPS A-GPS Glonass Connectivity Bluetooth® 3.0 USB 2.0 Wi-Fi 802.11 a/b/g/n (2.4 & 5 GHz), Wi-Fi Direct, Wi-Fi Channel Bonding NFC 3.5mm earjack Sensor Proximity, Accelerometer, Geomagnetic, Ambient Light, Gyroscope Memory 16/32GB User memory + 1GB RAM microSD (SDXC support) Dimension 137.2 x 70.5 x 8.7 mm, 135g Battery Standard battery, Li-ion 2,300mAh
+
+--------------------------------------------------------------------------------

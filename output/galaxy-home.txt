@@ -1,0 +1,31 @@
+DEVICE: Galaxy Home
+URL: https://www.samsungmobilepress.com/media-assets/galaxy_home
+
+SPECIFICATIONS
+Chipset - Octa-core A73 1.6Ghz
+Connectivity - 802.11 a/b/g/n/ac MIMO BT4.2, Zigbee, Z-wave
+Speaker Unit * - 1.5” MID-HIGH X 6 4” SUB Woofer X 1
+Speaker Power * - 110W
+Speaker Enclosure * - 1.5L
+Microphone - 8 ea
+PUI - 4-way touch key (Volume up / down / FF / REW)
+Light - Edge lighting
+Display - N/A
+Battery - N/A
+CMF* - Premium Fabric
+Dimension - Ø196mm x 271mm(H) Ø7.7inch x 10.7inch(H)
+Weight - 3.2kg (7.1 lbs)
+OS - Tizen
+AI Platform - Bixby 2.0
+Audio Processing * - SoundSteer ™ NSP (Natural Sound Processing)
+Far-field Voice Pre-processing * - Sonique ™ (8 mic pre-processing)
+Bluetooth - BLE (OOBE, finding device) Bluetooth speaker, Hands-free call
+Smart Home - SmartThings Hub Samsung connect with voice control
+Basic Features ** - Clock, Alarm, Timer, Calculator, Reminder, Call, Weather and etc.
+
+ADDITIONAL SPECIFICATION CONTENT
+Images Videos Tech Specs Related Articles Galaxy Home Specification H/W Chipset Octa-core A73 1.6Ghz Connectivity 802.11 a/b/g/n/ac MIMO BT4.2, Zigbee, Z-wave Speaker Unit * 1.5” MID-HIGH X 6 4” SUB Woofer X 1 Speaker Power * 110W Speaker Enclosure * 1.5L Microphone 8 ea PUI 4-way touch key (Volume up / down / FF / REW) Light Edge lighting Display N/A Battery N/A CMF* Premium Fabric Dimension Ø196mm x 271mm(H) Ø7.7inch x 10.7inch(H) Weight 3.2kg (7.1 lbs) S/W OS Tizen AI Platform Bixby 2.0 Audio Processing * SoundSteer ™ NSP (Natural Sound Processing) Far-field Voice Pre-processing * Sonique ™ (8 mic pre-processing) Bluetooth BLE (OOBE, finding device) Bluetooth speaker, Hands-free call Smart Home SmartThings Hub Samsung connect with voice control Basic Features ** Clock, Alarm, Timer, Calculator, Reminder, Call, Weather and etc. * Harman ** Bixby 2.0
+
+Galaxy Home Specification H/W Chipset Octa-core A73 1.6Ghz Connectivity 802.11 a/b/g/n/ac MIMO BT4.2, Zigbee, Z-wave Speaker Unit * 1.5” MID-HIGH X 6 4” SUB Woofer X 1 Speaker Power * 110W Speaker Enclosure * 1.5L Microphone 8 ea PUI 4-way touch key (Volume up / down / FF / REW) Light Edge lighting Display N/A Battery N/A CMF* Premium Fabric Dimension Ø196mm x 271mm(H) Ø7.7inch x 10.7inch(H) Weight 3.2kg (7.1 lbs) S/W OS Tizen AI Platform Bixby 2.0 Audio Processing * SoundSteer ™ NSP (Natural Sound Processing) Far-field Voice Pre-processing * Sonique ™ (8 mic pre-processing) Bluetooth BLE (OOBE, finding device) Bluetooth speaker, Hands-free call Smart Home SmartThings Hub Samsung connect with voice control Basic Features ** Clock, Alarm, Timer, Calculator, Reminder, Call, Weather and etc. * Harman ** Bixby 2.0
+
+--------------------------------------------------------------------------------

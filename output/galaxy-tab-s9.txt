@@ -1,0 +1,28 @@
+DEVICE: Galaxy Tab S9+
+URL: https://www.samsungmobilepress.com/media-assets/galaxy-tab-s9plus
+
+SPECIFICATIONS
+Display * - 12.4-inch, Dynamic AMOLED 2X (60~120Hz)
+OS - Android 13.0
+Dimensions - 185.4 x 285.4 x 5.7mm
+Weight - 581g (Wi-Fi) / 586g (5G)
+Camera - Rear - 13MP AF + 8MP Ultra-Wide
+Front - 12MP Ultra-Wide
+Memory & Storage * - 12GB+256GB 12GB+512GB microSD up to 1TB **
+AP - Qualcomm Snapdragon ® 8 Gen 2 for Galaxy
+Battery * - 10,090mAh (typical)
+Connectivity - 5G * , LTE ** , Wi-Fi 6E *** , Wi-Fi Direct Bluetooth ® v 5.3
+Color * - Beige, Graphite
+Sound - Quad Stereo Speakers with Sound by AKG, Dolby Atmos ®
+Security - Samsung Knox
+Biometric Authentication - Fingerprint on Display (FOD)
+Accessories * - S Pen (BLE, Inbox), S Pen Creator Edition, Book Cover Keyboard, Book Cover Keyboard Slim, Smart Book Cover, Outdoor Cover, Notepaper Screen, Privacy Screen
+
+ADDITIONAL SPECIFICATION CONTENT
+Tablet & PC Galaxy Tab S9+
+
+Images Videos Tech Specs Related Articles Galaxy Tab S9+ Display * 12.4-inch, Dynamic AMOLED 2X (60~120Hz) * Measured diagonally as a full rectangle without accounting for the rounded corners. Actual viewable area is less due to the rounded corners and camera hole. OS Android 13.0 Dimensions 185.4 x 285.4 x 5.7mm Weight 581g (Wi-Fi) / 586g (5G) Camera Rear 13MP AF + 8MP Ultra-Wide Front 12MP Ultra-Wide Memory & Storage * 12GB+256GB 12GB+512GB microSD up to 1TB ** * Storage availability may differ by market, model, color, or carrier. Actual storage space availability may vary depending on pre-installed software and by market, model, file size and format. ** MicroSD card sold separately. AP Qualcomm Snapdragon ® 8 Gen 2 for Galaxy Battery * 10,090mAh (typical) * Typical value tested under third-party laboratory condition. Typical value is the estimated average value considering the deviation in battery capacity among the battery samples tested under IEC 61960 standard. Connectivity 5G * , LTE ** , Wi-Fi 6E *** , Wi-Fi Direct Bluetooth ® v 5.3 * 5G services are only supported in 5G network enabled locations. Requires optimal 5G connection. Actual speed may vary depending on market, carrier, and user environment. ** Availability of LTE model varies by market or carrier. *** Wi-Fi 6E network availability may vary by market, network provider and user environment. Requires optimal connection. Will require a Wi-Fi 6E router. Color * Beige, Graphite * Product color availability may vary by market or carrier. Sound Quad Stereo Speakers with Sound by AKG, Dolby Atmos ® Security Samsung Knox Biometric Authentication Fingerprint on Display (FOD) Accessories * S Pen (BLE, Inbox), S Pen Creator Edition, Book Cover Keyboard, Book Cover Keyboard Slim, Smart Book Cover, Outdoor Cover, Notepaper Screen, Privacy Screen * S Pen and USB Type-C cable included inbox. Other accessories are available for purchase separately. Availability of third party cases may vary by market, carrier and retailer. * Specifications may vary by market. * All functionality, features, specifications and other product information provided in this document including, but not limited to, the benefits, design, pricing, components, performance, availability, and capabilities of the product are subject to change without notice.
+
+Galaxy Tab S9+ Display * 12.4-inch, Dynamic AMOLED 2X (60~120Hz) * Measured diagonally as a full rectangle without accounting for the rounded corners. Actual viewable area is less due to the rounded corners and camera hole. OS Android 13.0 Dimensions 185.4 x 285.4 x 5.7mm Weight 581g (Wi-Fi) / 586g (5G) Camera Rear 13MP AF + 8MP Ultra-Wide Front 12MP Ultra-Wide Memory & Storage * 12GB+256GB 12GB+512GB microSD up to 1TB ** * Storage availability may differ by market, model, color, or carrier. Actual storage space availability may vary depending on pre-installed software and by market, model, file size and format. ** MicroSD card sold separately. AP Qualcomm Snapdragon ® 8 Gen 2 for Galaxy Battery * 10,090mAh (typical) * Typical value tested under third-party laboratory condition. Typical value is the estimated average value considering the deviation in battery capacity among the battery samples tested under IEC 61960 standard. Connectivity 5G * , LTE ** , Wi-Fi 6E *** , Wi-Fi Direct Bluetooth ® v 5.3 * 5G services are only supported in 5G network enabled locations. Requires optimal 5G connection. Actual speed may vary depending on market, carrier, and user environment. ** Availability of LTE model varies by market or carrier. *** Wi-Fi 6E network availability may vary by market, network provider and user environment. Requires optimal connection. Will require a Wi-Fi 6E router. Color * Beige, Graphite * Product color availability may vary by market or carrier. Sound Quad Stereo Speakers with Sound by AKG, Dolby Atmos ® Security Samsung Knox Biometric Authentication Fingerprint on Display (FOD) Accessories * S Pen (BLE, Inbox), S Pen Creator Edition, Book Cover Keyboard, Book Cover Keyboard Slim, Smart Book Cover, Outdoor Cover, Notepaper Screen, Privacy Screen * S Pen and USB Type-C cable included inbox. Other accessories are available for purchase separately. Availability of third party cases may vary by market, carrier and retailer. * Specifications may vary by market. * All functionality, features, specifications and other product information provided in this document including, but not limited to, the benefits, design, pricing, components, performance, availability, and capabilities of the product are subject to change without notice.
+
+--------------------------------------------------------------------------------

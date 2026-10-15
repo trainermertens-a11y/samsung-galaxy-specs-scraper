@@ -1,0 +1,33 @@
+DEVICE: Galaxy Tab S11
+URL: https://www.samsungmobilepress.com/media-assets/galaxy-tab-s11
+
+SPECIFICATIONS
+​ - Galaxy Tab S11 Ultra (14.6-inch) - Galaxy Tab S11 (11.0-inch)
+Dimensions* - 208.5 X 326.3 X 5.1 mm - 165.3 X 253.8 X 5.5 mm
+Weight* - 692 g (Wi-Fi), 695 g (5G) - 469 g (Wi-Fi), 471 g (5G)
+OS - Android 16.0 One UI 8
+Display - 14.6-inch 26, 2960 x 1848 - 11.0-inch 27 , 2560 x 1600
+120 Hz, Dynamic AMOLED 2X + Anti Reflection - 120 Hz, Dynamic AMOLED 2X
+Peak 1600 nit / HBM 1000 nit - Peak 1600 nit / HBM 1000 nit
+AP - MediaTek Dimensity 9400+
+Camera - Rear - 13 MP + 8 MP Ultra Wide - 13 MP
+Front - 12 MP Ultra Wide - 12 MP Ultra Wide
+Network & Connectivity* - 5G (Sub-6), Wi-Fi 7 - 5G (Sub-6), Wi-Fi 6E
+Color - Gray, Silver
+Memory - 16 GB + 1 TB 12 GB + 512 GB 12 GB + 256 GB MicroSD up to 2 TB - 12 GB + 512 GB 12 GB + 256 GB 12 GB + 128 GB MicroSD up to 2 TB
+Sound - Quad Speaker
+S Pen - S Pen (BLE not supported ) In-box
+Durability - IP68 28 , Armor AL
+SIM - Dual SIM (1 Physical + 1 eSIM)
+Security - Fingerprint on Display (FOD)
+Battery / Charging - 11,600 mAh / 45 W - 8,400 mAh / 45 W
+Accessories - Book Cover Keyboard Slim Book Cover Frame Cover Anti-Reflecting Screen Protector (Add-On)
+
+ADDITIONAL SPECIFICATION CONTENT
+Tablet & PC Galaxy Tab S11
+
+Images Videos Tech Specs Related Articles ​ Galaxy Tab S11 Ultra (14.6-inch) Galaxy Tab S11 (11.0-inch) Dimensions* 208.5 X 326.3 X 5.1 mm 165.3 X 253.8 X 5.5 mm *Accuracy of numbers may vary depending on measurements used. Weight* 692 g (Wi-Fi), 695 g (5G) 469 g (Wi-Fi), 471 g (5G) *Weight may vary by market. OS Android 16.0 One UI 8 Display 14.6-inch 26, 2960 x 1848 11.0-inch 27 , 2560 x 1600 120 Hz, Dynamic AMOLED 2X + Anti Reflection 120 Hz, Dynamic AMOLED 2X Peak 1600 nit / HBM 1000 nit Peak 1600 nit / HBM 1000 nit AP MediaTek Dimensity 9400+ *Specifications may vary depending on model and/or market. Camera Rear 13 MP + 8 MP Ultra Wide 13 MP Front 12 MP Ultra Wide 12 MP Ultra Wide Network & Connectivity* 5G (Sub-6), Wi-Fi 7 5G (Sub-6), Wi-Fi 6E *Actual speed may vary by market, carrier and user environment. Wi-Fi 7 availability may vary due to OS version, market, location, network conditions and other factors. Wi-Fi 7 wireless network routers required and sold separately. Color Gray, Silver Memory 16 GB + 1 TB 12 GB + 512 GB 12 GB + 256 GB MicroSD up to 2 TB 12 GB + 512 GB 12 GB + 256 GB 12 GB + 128 GB MicroSD up to 2 TB Sound Quad Speaker S Pen S Pen (BLE not supported ) In-box Durability IP68 28 , Armor AL SIM Dual SIM (1 Physical + 1 eSIM) Security Fingerprint on Display (FOD) Battery / Charging 11,600 mAh / 45 W 8,400 mAh / 45 W *Typical value tested under third-party laboratory conditions. Typical value is the estimated average value considering the deviation in battery capacity among the battery samples tested under IEC 61960 standard. Rated (minimum) capacity is 11,374 mAh for Galaxy Tab S11 Ultra and 8,160 mAh for Galaxy Tab S11. **Based on Samsung internal lab test conditions with pre-release version of given model connected to earphone via Bluetooth under default settings over LTE. ***Fast Charging speed may vary depending on charging conditions and other factors. Using the original Samsung data cable is recommended. Accessories Book Cover Keyboard Slim Book Cover Frame Cover Anti-Reflecting Screen Protector (Add-On) *Specifications may vary by market. *All functionality, features, specifications and other product information provided in this document including, but not limited to, the benefits, design, pricing, components, performance, availability and capabilities of the product are subject to change without notice.
+
+​ Galaxy Tab S11 Ultra (14.6-inch) Galaxy Tab S11 (11.0-inch) Dimensions* 208.5 X 326.3 X 5.1 mm 165.3 X 253.8 X 5.5 mm *Accuracy of numbers may vary depending on measurements used. Weight* 692 g (Wi-Fi), 695 g (5G) 469 g (Wi-Fi), 471 g (5G) *Weight may vary by market. OS Android 16.0 One UI 8 Display 14.6-inch 26, 2960 x 1848 11.0-inch 27 , 2560 x 1600 120 Hz, Dynamic AMOLED 2X + Anti Reflection 120 Hz, Dynamic AMOLED 2X Peak 1600 nit / HBM 1000 nit Peak 1600 nit / HBM 1000 nit AP MediaTek Dimensity 9400+ *Specifications may vary depending on model and/or market. Camera Rear 13 MP + 8 MP Ultra Wide 13 MP Front 12 MP Ultra Wide 12 MP Ultra Wide Network & Connectivity* 5G (Sub-6), Wi-Fi 7 5G (Sub-6), Wi-Fi 6E *Actual speed may vary by market, carrier and user environment. Wi-Fi 7 availability may vary due to OS version, market, location, network conditions and other factors. Wi-Fi 7 wireless network routers required and sold separately. Color Gray, Silver Memory 16 GB + 1 TB 12 GB + 512 GB 12 GB + 256 GB MicroSD up to 2 TB 12 GB + 512 GB 12 GB + 256 GB 12 GB + 128 GB MicroSD up to 2 TB Sound Quad Speaker S Pen S Pen (BLE not supported ) In-box Durability IP68 28 , Armor AL SIM Dual SIM (1 Physical + 1 eSIM) Security Fingerprint on Display (FOD) Battery / Charging 11,600 mAh / 45 W 8,400 mAh / 45 W *Typical value tested under third-party laboratory conditions. Typical value is the estimated average value considering the deviation in battery capacity among the battery samples tested under IEC 61960 standard. Rated (minimum) capacity is 11,374 mAh for Galaxy Tab S11 Ultra and 8,160 mAh for Galaxy Tab S11. **Based on Samsung internal lab test conditions with pre-release version of given model connected to earphone via Bluetooth under default settings over LTE. ***Fast Charging speed may vary depending on charging conditions and other factors. Using the original Samsung data cable is recommended. Accessories Book Cover Keyboard Slim Book Cover Frame Cover Anti-Reflecting Screen Protector (Add-On) *Specifications may vary by market. *All functionality, features, specifications and other product information provided in this document including, but not limited to, the benefits, design, pricing, components, performance, availability and capabilities of the product are subject to change without notice.
+
+--------------------------------------------------------------------------------

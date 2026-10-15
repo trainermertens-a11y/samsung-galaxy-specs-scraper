@@ -1,0 +1,26 @@
+DEVICE: Galaxy TabPro S
+URL: https://www.samsungmobilepress.com/media-assets/galaxy-tabpro-s
+
+SPECIFICATIONS
+OS - Windows 10 Home, Windows 10 Pro
+Network - LTE Cat.6 **
+AP - 6th Gen. Intel Core M processor (Dual Core 2.2GHz)
+Display - 12” 2160x1440 Super AMOLED
+Camera - 5MP AF(Rear), 5MP (Front)
+Video - MP4,3GP,WMV,ASF,AVI,MKV
+Audio - MP3,AAC,WAV,WMA,AMR,FLAC
+Connectivity - Wi-Fi 802.11 a/b/g/n/ac MIMO, Wi-Fi Direct, NFC, Bluetooth 4.1
+GPS - GPS, GLONASS
+Sensor - Accelerometer, Hall, Light
+Memory - 4GB(RAM), 128GB / 256GB SSD
+Dimension / Weight - 290.3x198.8x6.3mm, 693g(Wi-Fi), 696g(LTE)
+Battery - 5,200mAh (39.5W, 7.6V)
+
+ADDITIONAL SPECIFICATION CONTENT
+Tablet & PC Galaxy TabPro S
+
+Images Videos Tech Specs Related Articles Galaxy TabPro S Specifications OS Windows 10 Home, Windows 10 Pro Network LTE Cat.6 ** AP 6th Gen. Intel Core M processor (Dual Core 2.2GHz) Display 12” 2160x1440 Super AMOLED Camera 5MP AF(Rear), 5MP (Front) Video MP4,3GP,WMV,ASF,AVI,MKV Audio MP3,AAC,WAV,WMA,AMR,FLAC Connectivity Wi-Fi 802.11 a/b/g/n/ac MIMO, Wi-Fi Direct, NFC, Bluetooth 4.1 GPS GPS, GLONASS Sensor Accelerometer, Hall, Light Memory 4GB(RAM), 128GB / 256GB SSD Dimension / Weight 290.3x198.8x6.3mm, 693g(Wi-Fi), 696g(LTE) Battery 5,200mAh (39.5W, 7.6V)
+
+Galaxy TabPro S Specifications OS Windows 10 Home, Windows 10 Pro Network LTE Cat.6 ** AP 6th Gen. Intel Core M processor (Dual Core 2.2GHz) Display 12” 2160x1440 Super AMOLED Camera 5MP AF(Rear), 5MP (Front) Video MP4,3GP,WMV,ASF,AVI,MKV Audio MP3,AAC,WAV,WMA,AMR,FLAC Connectivity Wi-Fi 802.11 a/b/g/n/ac MIMO, Wi-Fi Direct, NFC, Bluetooth 4.1 GPS GPS, GLONASS Sensor Accelerometer, Hall, Light Memory 4GB(RAM), 128GB / 256GB SSD Dimension / Weight 290.3x198.8x6.3mm, 693g(Wi-Fi), 696g(LTE) Battery 5,200mAh (39.5W, 7.6V)
+
+--------------------------------------------------------------------------------

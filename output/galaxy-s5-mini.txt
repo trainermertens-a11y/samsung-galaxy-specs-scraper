@@ -1,0 +1,27 @@
+DEVICE: GALAXY S5 mini
+URL: https://www.samsungmobilepress.com/media-assets/galaxy-s5-mini
+
+SPECIFICATIONS
+Network - LTE Category4 : 150 Mbps DL, 50 Mbps UL HSDPA 42.2Mbps, HSUPA 5.76 Mbps
+Display - 4.5” HD (720 x 1280) Super AMOLED
+AP - Quad Core 1.4 GHz
+OS - Android 4.4 (KitKat)
+Camera - Main (Rear): 8.0 MP AF with LED Flash Sub (Front): 2.1MP (FHD)
+Camera Features - Shot & More, Virtual Tour Shot, S Studio
+Video - FHD@30fps Video Codec: H.263, H264(AVC), MPEG4, VC-1, Sorenson Spark, MP43, WMV7, WMV8, VP8 Video Format: MP4, M4V, 3GP, 3G2, WMV, ASF, AVI, FLV, MKV, WEBM
+Audio - Audio Codec: MP3, AMR-NB/WB, AAC/ AAC+/ eAAC+, WMA, Vorbis, FLAC Audio Format: MP3, M4A, 3GA, AAC, OGG, OGA, WAV, WMA, AMR, AWB, FLAC, MID, MIDI, XMF, MXMF, IMY, RTTTL, RTX, OTA
+Value-Added Features - IP67 Dust and Water Resistant
+Connectivity - Wi-Fi 802.11 a/b/g/n, NFC (LTE ver. only), Bluetooth® v4.0 LE, USB 2.0, A-GPS + GLONASS, IR Remote
+Sensor - Accelerometer, Digital compass, Gyro, Proximity, Hall, Ambient light, Fingerprint, Heart rate sensor
+Memory - 1.5 GB RAM + 16GB Internal memory microSD Slot (up to 64 GB)
+Dimension, Weight - 131.1 x 64.8 x 9.1mm, 120g
+Battery - 2,100mAh
+
+ADDITIONAL SPECIFICATION CONTENT
+Smartphone GALAXY S5 mini
+
+Images Videos Tech Specs Related Articles Samsung Galaxy S5 mini Product Specifications Network LTE Category4 : 150 Mbps DL, 50 Mbps UL HSDPA 42.2Mbps, HSUPA 5.76 Mbps Display 4.5” HD (720 x 1280) Super AMOLED AP Quad Core 1.4 GHz OS Android 4.4 (KitKat) Camera Main (Rear): 8.0 MP AF with LED Flash Sub (Front): 2.1MP (FHD) Camera Features Shot & More, Virtual Tour Shot, S Studio Video FHD@30fps Video Codec: H.263, H264(AVC), MPEG4, VC-1, Sorenson Spark, MP43, WMV7, WMV8, VP8 Video Format: MP4, M4V, 3GP, 3G2, WMV, ASF, AVI, FLV, MKV, WEBM Audio Audio Codec: MP3, AMR-NB/WB, AAC/ AAC+/ eAAC+, WMA, Vorbis, FLAC Audio Format: MP3, M4A, 3GA, AAC, OGG, OGA, WAV, WMA, AMR, AWB, FLAC, MID, MIDI, XMF, MXMF, IMY, RTTTL, RTX, OTA Value-Added Features IP67 Dust and Water Resistant Ultra Power Saving mode S Health Private Mode/Kids Mode Connectivity Wi-Fi 802.11 a/b/g/n, NFC (LTE ver. only), Bluetooth® v4.0 LE, USB 2.0, A-GPS + GLONASS, IR Remote Sensor Accelerometer, Digital compass, Gyro, Proximity, Hall, Ambient light, Fingerprint, Heart rate sensor Memory 1.5 GB RAM + 16GB Internal memory microSD Slot (up to 64 GB) Dimension, Weight 131.1 x 64.8 x 9.1mm, 120g Battery 2,100mAh * All functionality, features, specifications and other product information provided in this document including, but not limited to, the benefits, design, pricing, components, performance, availability, and capabilities of the product are subject to change without notice or obligation. * User memory space may be less than the total memory space due to system files. User memory may differ by region, carrier, and supporting language, and may change after software upgrade.
+
+Samsung Galaxy S5 mini Product Specifications Network LTE Category4 : 150 Mbps DL, 50 Mbps UL HSDPA 42.2Mbps, HSUPA 5.76 Mbps Display 4.5” HD (720 x 1280) Super AMOLED AP Quad Core 1.4 GHz OS Android 4.4 (KitKat) Camera Main (Rear): 8.0 MP AF with LED Flash Sub (Front): 2.1MP (FHD) Camera Features Shot & More, Virtual Tour Shot, S Studio Video FHD@30fps Video Codec: H.263, H264(AVC), MPEG4, VC-1, Sorenson Spark, MP43, WMV7, WMV8, VP8 Video Format: MP4, M4V, 3GP, 3G2, WMV, ASF, AVI, FLV, MKV, WEBM Audio Audio Codec: MP3, AMR-NB/WB, AAC/ AAC+/ eAAC+, WMA, Vorbis, FLAC Audio Format: MP3, M4A, 3GA, AAC, OGG, OGA, WAV, WMA, AMR, AWB, FLAC, MID, MIDI, XMF, MXMF, IMY, RTTTL, RTX, OTA Value-Added Features IP67 Dust and Water Resistant Ultra Power Saving mode S Health Private Mode/Kids Mode Connectivity Wi-Fi 802.11 a/b/g/n, NFC (LTE ver. only), Bluetooth® v4.0 LE, USB 2.0, A-GPS + GLONASS, IR Remote Sensor Accelerometer, Digital compass, Gyro, Proximity, Hall, Ambient light, Fingerprint, Heart rate sensor Memory 1.5 GB RAM + 16GB Internal memory microSD Slot (up to 64 GB) Dimension, Weight 131.1 x 64.8 x 9.1mm, 120g Battery 2,100mAh * All functionality, features, specifications and other product information provided in this document including, but not limited to, the benefits, design, pricing, components, performance, availability, and capabilities of the product are subject to change without notice or obligation. * User memory space may be less than the total memory space due to system files. User memory may differ by region, carrier, and supporting language, and may change after software upgrade.
+
+--------------------------------------------------------------------------------

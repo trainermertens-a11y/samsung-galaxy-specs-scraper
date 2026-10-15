@@ -1,0 +1,30 @@
+DEVICE: Galaxy S6
+URL: https://www.samsungmobilepress.com/media-assets/galaxy-s6
+
+SPECIFICATIONS
+Galaxy S6 - Galaxy S6 edge
+Network - LTE Cat.6 (300/50Mbps)
+Display - 5.1’’ Quad HD(2560x1440) 577ppi, Super AMOLED - 5.1’’ Quad HD(2560x1440) 577ppi, Super AMOLED, Dual edge
+AP - Quad 2.1GHz + Quad 1.5Ghz, Octacore application processor
+OS - Android 5.0 (Lollipop)
+Camera - 16MP OIS(rear), 5MP (front)
+Video - MP4,M4V,3GP,3G2,WMV,ASF,AVI,FLV,MKV,WEBM, VP9
+Audio - Audio Codec : MP3, AMR-NB, AMR-WB, AAC, AAC+, eAAC+, WMA, Vorbis, FLAC, OPUS
+Camera Features - Quick Launch, Tracking AF, Auto Real-time HDR(Front & Rear) , F1.9, Low Light Video(Front & Rear), High Clear Zoom, IR Detect White Balance, Virtual Shot, Slow Motion, Fast Motion, Pro Mode, Selective Focus
+Additional Features - Ultra Power Saving Mode
+Google Mobile Services - Chrome, Drive, Photos, Gmail, Google, Google+, Google Settings, Hangouts, Maps, Play Books, Play Games, Play Newsstand, Play Movie & TV, Play Music, Play Store, Voice Search, YouTube
+Connectivity - WiFi: 802.11 a/b/g/n/ac (2.4/5GHz), HT80 MIMO(2x2) 620Mbps, Dual-band, Wi-Fi Direct, Mobile hotspot Bluetooth®: v4.1, A2DP, LE, apt-X, ANT+ USB: USB 2.0 NFC IR Remote
+Sensor - Accelerometer, Light, Gyroscope, Proximity, Compass, Barometer, Fingerprint, Hall, HRM
+Memory - RAM: 3GB, LPDDR4 Internal Memory: 32/64/128GB, UFS 2.0
+Wireless Charging - WPC1.1(4.6W Output) & Airfuel 1.0(4.2W) compatible
+Dimension - 143.4 x 70.5 x 6.8mm, 138g - 142.1 x 70.1 x 7.0mm, 132g
+Battery - 2,550mAh - 2,600mAh
+
+ADDITIONAL SPECIFICATION CONTENT
+Smartphone Galaxy S6
+
+Images Videos Tech Specs Related Articles Galaxy S6 Galaxy S6 edge Network LTE Cat.6 (300/50Mbps) Display 5.1’’ Quad HD(2560x1440) 577ppi, Super AMOLED 5.1’’ Quad HD(2560x1440) 577ppi, Super AMOLED, Dual edge AP Quad 2.1GHz + Quad 1.5Ghz, Octacore application processor OS Android 5.0 (Lollipop) Camera 16MP OIS(rear), 5MP (front) Video MP4,M4V,3GP,3G2,WMV,ASF,AVI,FLV,MKV,WEBM, VP9 Audio Audio Codec : MP3, AMR-NB, AMR-WB, AAC, AAC+, eAAC+, WMA, Vorbis, FLAC, OPUS Audio Format: MP3, M4A, 3GA, AAC, OGG, OGA, WAV, WMA, AMR, AWB, FLAC, MID, MIDI, XMF, MXMF, IMY, RTTTL, RTX, OTA Camera Features Quick Launch, Tracking AF, Auto Real-time HDR(Front & Rear) , F1.9, Low Light Video(Front & Rear), High Clear Zoom, IR Detect White Balance, Virtual Shot, Slow Motion, Fast Motion, Pro Mode, Selective Focus Additional Features Ultra Power Saving Mode Download Booster S Health 4.0 Samsung Pay Smart Manager Microsoft Apps(OneDrive 115GB for 2 years, OneNote) Sound Alive+ Themes Quick Connect Private Mode S Finder, S Voice Google Mobile Services Chrome, Drive, Photos, Gmail, Google, Google+, Google Settings, Hangouts, Maps, Play Books, Play Games, Play Newsstand, Play Movie & TV, Play Music, Play Store, Voice Search, YouTube Connectivity WiFi: 802.11 a/b/g/n/ac (2.4/5GHz), HT80 MIMO(2x2) 620Mbps, Dual-band, Wi-Fi Direct, Mobile hotspot Bluetooth®: v4.1, A2DP, LE, apt-X, ANT+ USB: USB 2.0 NFC IR Remote Sensor Accelerometer, Light, Gyroscope, Proximity, Compass, Barometer, Fingerprint, Hall, HRM Memory RAM: 3GB, LPDDR4 Internal Memory: 32/64/128GB, UFS 2.0 Wireless Charging WPC1.1(4.6W Output) & Airfuel 1.0(4.2W) compatible Dimension 143.4 x 70.5 x 6.8mm, 138g 142.1 x 70.1 x 7.0mm, 132g Battery 2,550mAh 2,600mAh
+
+Galaxy S6 Galaxy S6 edge Network LTE Cat.6 (300/50Mbps) Display 5.1’’ Quad HD(2560x1440) 577ppi, Super AMOLED 5.1’’ Quad HD(2560x1440) 577ppi, Super AMOLED, Dual edge AP Quad 2.1GHz + Quad 1.5Ghz, Octacore application processor OS Android 5.0 (Lollipop) Camera 16MP OIS(rear), 5MP (front) Video MP4,M4V,3GP,3G2,WMV,ASF,AVI,FLV,MKV,WEBM, VP9 Audio Audio Codec : MP3, AMR-NB, AMR-WB, AAC, AAC+, eAAC+, WMA, Vorbis, FLAC, OPUS Audio Format: MP3, M4A, 3GA, AAC, OGG, OGA, WAV, WMA, AMR, AWB, FLAC, MID, MIDI, XMF, MXMF, IMY, RTTTL, RTX, OTA Camera Features Quick Launch, Tracking AF, Auto Real-time HDR(Front & Rear) , F1.9, Low Light Video(Front & Rear), High Clear Zoom, IR Detect White Balance, Virtual Shot, Slow Motion, Fast Motion, Pro Mode, Selective Focus Additional Features Ultra Power Saving Mode Download Booster S Health 4.0 Samsung Pay Smart Manager Microsoft Apps(OneDrive 115GB for 2 years, OneNote) Sound Alive+ Themes Quick Connect Private Mode S Finder, S Voice Google Mobile Services Chrome, Drive, Photos, Gmail, Google, Google+, Google Settings, Hangouts, Maps, Play Books, Play Games, Play Newsstand, Play Movie & TV, Play Music, Play Store, Voice Search, YouTube Connectivity WiFi: 802.11 a/b/g/n/ac (2.4/5GHz), HT80 MIMO(2x2) 620Mbps, Dual-band, Wi-Fi Direct, Mobile hotspot Bluetooth®: v4.1, A2DP, LE, apt-X, ANT+ USB: USB 2.0 NFC IR Remote Sensor Accelerometer, Light, Gyroscope, Proximity, Compass, Barometer, Fingerprint, Hall, HRM Memory RAM: 3GB, LPDDR4 Internal Memory: 32/64/128GB, UFS 2.0 Wireless Charging WPC1.1(4.6W Output) & Airfuel 1.0(4.2W) compatible Dimension 143.4 x 70.5 x 6.8mm, 138g 142.1 x 70.1 x 7.0mm, 132g Battery 2,550mAh 2,600mAh
+
+--------------------------------------------------------------------------------

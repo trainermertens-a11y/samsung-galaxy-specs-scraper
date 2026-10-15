@@ -1,0 +1,23 @@
+DEVICE: Gear S
+URL: https://www.samsungmobilepress.com/media-assets/gear-s
+
+SPECIFICATIONS
+Network - 900/2100 or 850/1900 (3G) 900/1800 or 850/1900 (2G)
+Display - 2.0” Super AMOLED (360 x 480)
+AP - Dual core 1.0 GHz
+OS - Tizen based wearable platform
+Audio - Codec: MP3/AAC/AAC+/eAAC+ Format: MP3, M4A, AAC, OGG
+Features - Communications: - 2G, 3G Call, Bluetooth Call - Contacts, Notifications, Messages, Emails, QWERTY Keyboard
+Samsung Services - Samsung Gear Apps
+Connectivity - WiFi: 802.11 b/g/n, A-GPS/Glonass Bluetooth®: 4.1 USB: USB 2.0
+Sensor - Accelerometer, Gyroscope, Compass, Heart Rate, Ambient Light, UV, Barometer
+Memory - RAM: 512MB Storage: 4GB Internal Memory
+Dimension - 39.9 x 58.1 x 12.5T 67g(Blue Black), 84g(White)
+Battery - 300mAh Li-ion Typical Usage 2days
+
+ADDITIONAL SPECIFICATION CONTENT
+Images Videos Tech Specs Related Articles Samsung Gear S Product Specifications Network 900/2100 or 850/1900 (3G) 900/1800 or 850/1900 (2G) Display 2.0” Super AMOLED (360 x 480) AP Dual core 1.0 GHz OS Tizen based wearable platform Audio Codec: MP3/AAC/AAC+/eAAC+ Format: MP3, M4A, AAC, OGG Features Communications: - 2G, 3G Call, Bluetooth Call - Contacts, Notifications, Messages, Emails, QWERTY Keyboard Health & Fitness: - S Health, Nike+ Running Information: - Schedule, News, Navigation, Weathe Media: - Music Player, Gallery Others: - S Voice, Find My Device, Power Saving Mode IP67 Certified Dust and Water Resistant Samsung Services Samsung Gear Apps Connectivity WiFi: 802.11 b/g/n, A-GPS/Glonass Bluetooth®: 4.1 USB: USB 2.0 Sensor Accelerometer, Gyroscope, Compass, Heart Rate, Ambient Light, UV, Barometer Memory RAM: 512MB Storage: 4GB Internal Memory Dimension 39.9 x 58.1 x 12.5T 67g(Blue Black), 84g(White) Battery 300mAh Li-ion Typical Usage 2days About Samsung Electronics Co., Ltd. Samsung Electronics Co., Ltd. is a global leader in technology, opening new possibilities for people everywhere. Through relentless innovation and discovery, we are transforming the worlds of TVs, smartphones, tablets, PCs, cameras, home appliances, printers, LTE systems, medical devices, semiconductors and LED solutions. We employ 286,000 people across 80 countries with annual sales of US$216.7 billion. To discover more, please visit www.samsung.com. homePRODUCT INFOGear S
+
+Samsung Gear S Product Specifications Network 900/2100 or 850/1900 (3G) 900/1800 or 850/1900 (2G) Display 2.0” Super AMOLED (360 x 480) AP Dual core 1.0 GHz OS Tizen based wearable platform Audio Codec: MP3/AAC/AAC+/eAAC+ Format: MP3, M4A, AAC, OGG Features Communications: - 2G, 3G Call, Bluetooth Call - Contacts, Notifications, Messages, Emails, QWERTY Keyboard Health & Fitness: - S Health, Nike+ Running Information: - Schedule, News, Navigation, Weathe Media: - Music Player, Gallery Others: - S Voice, Find My Device, Power Saving Mode IP67 Certified Dust and Water Resistant Samsung Services Samsung Gear Apps Connectivity WiFi: 802.11 b/g/n, A-GPS/Glonass Bluetooth®: 4.1 USB: USB 2.0 Sensor Accelerometer, Gyroscope, Compass, Heart Rate, Ambient Light, UV, Barometer Memory RAM: 512MB Storage: 4GB Internal Memory Dimension 39.9 x 58.1 x 12.5T 67g(Blue Black), 84g(White) Battery 300mAh Li-ion Typical Usage 2days About Samsung Electronics Co., Ltd. Samsung Electronics Co., Ltd. is a global leader in technology, opening new possibilities for people everywhere. Through relentless innovation and discovery, we are transforming the worlds of TVs, smartphones, tablets, PCs, cameras, home appliances, printers, LTE systems, medical devices, semiconductors and LED solutions. We employ 286,000 people across 80 countries with annual sales of US$216.7 billion. To discover more, please visit www.samsung.com. homePRODUCT INFOGear S
+
+--------------------------------------------------------------------------------

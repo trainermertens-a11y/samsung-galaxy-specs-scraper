@@ -1,0 +1,25 @@
+DEVICE: Galaxy M23
+URL: https://www.samsungmobilepress.com/media-assets/galaxy-m23
+
+SPECIFICATIONS
+Dimensions - 165.5 x 77 x 8.4mm, 198g
+Display 1 - 6.6-inch TFT FHD+ (1080 x 2408)
+Camera - Rear - Main: 50MP, F1.8 Ultra Wide: 8MP, F2.2 Depth: 2MP, F2.4
+Front - 8MP, F2.2
+AP - Octa Core (2.2GHz + 1.8GHz)
+OS - Android 12.0 One UI 4.1
+Memory 2 - 4GB RAM, 128GB Internal Storage MicroSD slot (up to 1TB)
+Battery 3 - 5,000mAh (Typical)
+Colors 4 - Deep Green Light Blue
+Network - 5G
+Sensors 5 - Fingerprint Sensor Gyro Sensor Geomagnetic Sensor Virtual Light Sensor Virtual Proximity Sensor
+Security - Samsung Knox
+
+ADDITIONAL SPECIFICATION CONTENT
+Smartphone Galaxy M23
+
+Images Videos Tech Specs Related Articles Galaxy M23 Dimensions 165.5 x 77 x 8.4mm, 198g Display 1 6.6-inch TFT FHD+ (1080 x 2408) Camera Rear Main: 50MP, F1.8 Ultra Wide: 8MP, F2.2 Depth: 2MP, F2.4 Front 8MP, F2.2 AP Octa Core (2.2GHz + 1.8GHz) OS Android 12.0 One UI 4.1 Memory 2 4GB RAM, 128GB Internal Storage MicroSD slot (up to 1TB) Battery 3 5,000mAh (Typical) Colors 4 Deep Green Light Blue Network 5G Sensors 5 Fingerprint Sensor Gyro Sensor Geomagnetic Sensor Virtual Light Sensor Virtual Proximity Sensor Security Samsung Knox 1 Screen measured diagonally as a full rectangle without accounting for the rounded corners. 2 RAM and internal memory capacity may vary by country. Actual storage availability may vary depending on pre-installed software. MicroSD card sold separately. 3 Typical value tested under third-party laboratory condition. Typical value is the estimated average value considering the deviation in battery capacity among the battery samples tested under IEC 61960 standard. Actual battery life may vary depending on network environment, usage patterns and other factors. 4 Availability may vary by market. 5 The availability of this feature may vary by country or carrier.
+
+Galaxy M23 Dimensions 165.5 x 77 x 8.4mm, 198g Display 1 6.6-inch TFT FHD+ (1080 x 2408) Camera Rear Main: 50MP, F1.8 Ultra Wide: 8MP, F2.2 Depth: 2MP, F2.4 Front 8MP, F2.2 AP Octa Core (2.2GHz + 1.8GHz) OS Android 12.0 One UI 4.1 Memory 2 4GB RAM, 128GB Internal Storage MicroSD slot (up to 1TB) Battery 3 5,000mAh (Typical) Colors 4 Deep Green Light Blue Network 5G Sensors 5 Fingerprint Sensor Gyro Sensor Geomagnetic Sensor Virtual Light Sensor Virtual Proximity Sensor Security Samsung Knox 1 Screen measured diagonally as a full rectangle without accounting for the rounded corners. 2 RAM and internal memory capacity may vary by country. Actual storage availability may vary depending on pre-installed software. MicroSD card sold separately. 3 Typical value tested under third-party laboratory condition. Typical value is the estimated average value considering the deviation in battery capacity among the battery samples tested under IEC 61960 standard. Actual battery life may vary depending on network environment, usage patterns and other factors. 4 Availability may vary by market. 5 The availability of this feature may vary by country or carrier.
+
+--------------------------------------------------------------------------------

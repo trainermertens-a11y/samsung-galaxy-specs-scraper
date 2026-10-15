@@ -1,0 +1,23 @@
+DEVICE: HomeSync
+URL: https://www.samsungmobilepress.com/media-assets/homesync
+
+SPECIFICATIONS
+CPU - 1.7GHz Dual Core
+Memory - 2GB RAM + 8GB Flash Memory+ 1TB HDD (*910GB available to user)
+Dimension - LAN - Gigabit Ethernet
+WiFi - 802.11 b/g/n 2.4GHz & a/n 5GHz, HT40 2x2 MIMO Channel Bonding
+Bluetooth - V4.0
+Interface - USB 3.0 - External USB I/F Connection (x2)
+Micro USB - PC Connection 11pin mUSB (x1)
+HDMI out - Support (HDMI1.4)
+Optical Audio - Audio Amp. Connection
+Codec - Video - H.264, H.263, MPEG4, VC-1, Sorenson Spark, WMV7/8, MP43, VP8, DivX
+Audio - MP3, AAC LC/AAC+/eAAC+, WMA 9std/10pro/Lossless, FLAC, Vorbis, AMR-NB/WB, Wav, Mid, AC-3, DTS
+DRM - HDCP 1.3/2.1, Playready, Widevide, Trustzone
+
+ADDITIONAL SPECIFICATION CONTENT
+Images Videos Tech Specs Related Articles Samsung HomeSync Product Specifications CPU 1.7GHz Dual Core Memory 2GB RAM + 8GB Flash Memory+ 1TB HDD (*910GB available to user) Dimension LAN Gigabit Ethernet WiFi 802.11 b/g/n 2.4GHz & a/n 5GHz, HT40 2x2 MIMO Channel Bonding Bluetooth V4.0 Interface USB 3.0 External USB I/F Connection (x2) Micro USB PC Connection 11pin mUSB (x1) HDMI out Support (HDMI1.4) Optical Audio Audio Amp. Connection Codec Video H.264, H.263, MPEG4, VC-1, Sorenson Spark, WMV7/8, MP43, VP8, DivX Audio MP3, AAC LC/AAC+/eAAC+, WMA 9std/10pro/Lossless, FLAC, Vorbis, AMR-NB/WB, Wav, Mid, AC-3, DTS DRM HDCP 1.3/2.1, Playready, Widevide, Trustzone
+
+Samsung HomeSync Product Specifications CPU 1.7GHz Dual Core Memory 2GB RAM + 8GB Flash Memory+ 1TB HDD (*910GB available to user) Dimension LAN Gigabit Ethernet WiFi 802.11 b/g/n 2.4GHz & a/n 5GHz, HT40 2x2 MIMO Channel Bonding Bluetooth V4.0 Interface USB 3.0 External USB I/F Connection (x2) Micro USB PC Connection 11pin mUSB (x1) HDMI out Support (HDMI1.4) Optical Audio Audio Amp. Connection Codec Video H.264, H.263, MPEG4, VC-1, Sorenson Spark, WMV7/8, MP43, VP8, DivX Audio MP3, AAC LC/AAC+/eAAC+, WMA 9std/10pro/Lossless, FLAC, Vorbis, AMR-NB/WB, Wav, Mid, AC-3, DTS DRM HDCP 1.3/2.1, Playready, Widevide, Trustzone
+
+--------------------------------------------------------------------------------

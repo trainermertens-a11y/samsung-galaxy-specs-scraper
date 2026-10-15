@@ -1,0 +1,20 @@
+DEVICE: Galaxy Note10 Lite
+URL: https://www.samsungmobilepress.com/media-assets/galaxy_note10_lite
+
+SPECIFICATIONS
+Display - 6.7-inch Full HD+ Super AMOLED Infinity-O Display 2400x1080 (394ppi)
+Camera - Rear: Triple Camera - Ultra Wide: 12MP, F2.2 - Wide-angle: 12MP, Dual Pixel AF F1.7 OIS - Telephoto: 12MP, AF F2.4 OIS Front: 32MP, F2.2
+Body - 76.1 x 163.7 x 8.7mm, 199g
+AP - 10nm 64-bit Octa-core processor (Quad 2.7GHz + Quad 1.7GHz)
+Memory - 6 / 8GB RAM with 128GB internal storage
+Battery* - 4,500mAh (typical)
+OS - Android 10.0
+
+ADDITIONAL SPECIFICATION CONTENT
+Smartphone Galaxy Note10 Lite
+
+Images Videos Tech Specs Related Articles Galaxy Note10 Lite Display 6.7-inch Full HD+ Super AMOLED Infinity-O Display 2400x1080 (394ppi) * Screen measured diagonally as a full rectangle without accounting for the rounded corners; actual viewable area is less due to the rounded corners and camera hole. Camera Rear: Triple Camera - Ultra Wide: 12MP, F2.2 - Wide-angle: 12MP, Dual Pixel AF F1.7 OIS - Telephoto: 12MP, AF F2.4 OIS Front: 32MP, F2.2 Body 76.1 x 163.7 x 8.7mm, 199g AP 10nm 64-bit Octa-core processor (Quad 2.7GHz + Quad 1.7GHz) Memory 6 / 8GB RAM with 128GB internal storage * May differ by model, color, market and mobile operator. * User memory is less than the total memory due to storage of the operating system and software used to operate the device features. Actual user memory will vary depending on the operator and may change after software upgrades are performed. Battery* 4,500mAh (typical) * Typical value tested under third-party laboratory condition. Typical value is the estimated average value considering the deviation in battery capacity among the battery samples tested under IEC 61960 standard. Rated (minimum) capacity is 4,370mAh. Actual battery life may vary depending on network environment, usage patterns and other factors. OS Android 10.0 * All functionality, features, specifications and other product information provided in this document including, but not limited to, the benefits, design, pricing, components, performance, availability, and capabilities of the product are subject to change without notice.
+
+Galaxy Note10 Lite Display 6.7-inch Full HD+ Super AMOLED Infinity-O Display 2400x1080 (394ppi) * Screen measured diagonally as a full rectangle without accounting for the rounded corners; actual viewable area is less due to the rounded corners and camera hole. Camera Rear: Triple Camera - Ultra Wide: 12MP, F2.2 - Wide-angle: 12MP, Dual Pixel AF F1.7 OIS - Telephoto: 12MP, AF F2.4 OIS Front: 32MP, F2.2 Body 76.1 x 163.7 x 8.7mm, 199g AP 10nm 64-bit Octa-core processor (Quad 2.7GHz + Quad 1.7GHz) Memory 6 / 8GB RAM with 128GB internal storage * May differ by model, color, market and mobile operator. * User memory is less than the total memory due to storage of the operating system and software used to operate the device features. Actual user memory will vary depending on the operator and may change after software upgrades are performed. Battery* 4,500mAh (typical) * Typical value tested under third-party laboratory condition. Typical value is the estimated average value considering the deviation in battery capacity among the battery samples tested under IEC 61960 standard. Rated (minimum) capacity is 4,370mAh. Actual battery life may vary depending on network environment, usage patterns and other factors. OS Android 10.0 * All functionality, features, specifications and other product information provided in this document including, but not limited to, the benefits, design, pricing, components, performance, availability, and capabilities of the product are subject to change without notice.
+
+--------------------------------------------------------------------------------

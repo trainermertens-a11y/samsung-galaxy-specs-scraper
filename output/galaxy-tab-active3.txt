@@ -1,0 +1,28 @@
+DEVICE: Galaxy Tab Active3
+URL: https://www.samsungmobilepress.com/media-assets/galaxy-tab-active3
+
+SPECIFICATIONS
+Display - 8.0” WUXGA (1920 x 1200) PLS TFT LCD
+Chipset - Samsung Exynos 9810
+LTE Support - 4G FDD LTE 4G TDD LTE
+Memory - 4GB + 64/128GB microSD up to 1TB
+Camera - 13MP AF + 5.0MP, Flash
+Port - USB 3.1 Gen 1, Pogo Pin
+Sensors - Accelerometer, Fingerprint Sensor, Gyro Sensor, Geomagnetic Sensor, Hall Sensor, RGB Light Sensor, Proximity Sensor
+Wireless Connectivity - Wi-Fi 802.11 a/b/g/n/ac/ax 2.4G+5GHz, HE80, MIMO, 1024-QAM Wi-Fi Direct
+OS/Upgrade - Android 10.0
+GPS - GPS + Glonass + Beidou + Galileo
+Dimensions & Weight - 126.8 x 213.8 x 9.9mm, 426g (Wi-Fi) / 429g (LTE)
+Battery Capacity - 5050mAh, User Replaceable
+Durability - IP68 Water and Dust Resistance, 1.5m Anti-shock with inbox protective cover, MIL-STD-810H
+Pen - S Pen (IP68 Certified)
+Security - Knox Suite Biometric Authentication (Face Recognition, Fingerprint Scanner)
+
+ADDITIONAL SPECIFICATION CONTENT
+Tablet & PC Galaxy Tab Active3
+
+Images Videos Tech Specs Related Articles Galaxy Tab Active3 Product Specifications Display 8.0” WUXGA (1920 x 1200) PLS TFT LCD Chipset Samsung Exynos 9810 Octa-core 2.7GHz + 1.7GHz LTE Support 4G FDD LTE 4G TDD LTE Memory 4GB + 64/128GB microSD up to 1TB Camera 13MP AF + 5.0MP, Flash Port USB 3.1 Gen 1, Pogo Pin Sensors Accelerometer, Fingerprint Sensor, Gyro Sensor, Geomagnetic Sensor, Hall Sensor, RGB Light Sensor, Proximity Sensor Wireless Connectivity Wi-Fi 802.11 a/b/g/n/ac/ax 2.4G+5GHz, HE80, MIMO, 1024-QAM Wi-Fi Direct OS/Upgrade Android 10.0 GPS GPS + Glonass + Beidou + Galileo Dimensions & Weight 126.8 x 213.8 x 9.9mm, 426g (Wi-Fi) / 429g (LTE) Battery Capacity 5050mAh, User Replaceable Durability IP68 Water and Dust Resistance, 1.5m Anti-shock with inbox protective cover, MIL-STD-810H Pen S Pen (IP68 Certified) Security Knox Suite Biometric Authentication (Face Recognition, Fingerprint Scanner)
+
+Galaxy Tab Active3 Product Specifications Display 8.0” WUXGA (1920 x 1200) PLS TFT LCD Chipset Samsung Exynos 9810 Octa-core 2.7GHz + 1.7GHz LTE Support 4G FDD LTE 4G TDD LTE Memory 4GB + 64/128GB microSD up to 1TB Camera 13MP AF + 5.0MP, Flash Port USB 3.1 Gen 1, Pogo Pin Sensors Accelerometer, Fingerprint Sensor, Gyro Sensor, Geomagnetic Sensor, Hall Sensor, RGB Light Sensor, Proximity Sensor Wireless Connectivity Wi-Fi 802.11 a/b/g/n/ac/ax 2.4G+5GHz, HE80, MIMO, 1024-QAM Wi-Fi Direct OS/Upgrade Android 10.0 GPS GPS + Glonass + Beidou + Galileo Dimensions & Weight 126.8 x 213.8 x 9.9mm, 426g (Wi-Fi) / 429g (LTE) Battery Capacity 5050mAh, User Replaceable Durability IP68 Water and Dust Resistance, 1.5m Anti-shock with inbox protective cover, MIL-STD-810H Pen S Pen (IP68 Certified) Security Knox Suite Biometric Authentication (Face Recognition, Fingerprint Scanner)
+
+--------------------------------------------------------------------------------

@@ -1,0 +1,26 @@
+DEVICE: WB350F
+URL: https://www.samsungmobilepress.com/media-assets/wb350f
+
+SPECIFICATIONS
+Image Sensor - 16.3 effective megapixel 1/2.3" BSI CMOS
+Lens - 21x Optical Zoom Lens, 23mm Wide Angle, F2.8(W) ~ 5.9(T)
+IS - OIS (Optical Image Stabilization)
+Display - 75.0mm (3.0-inch) hVGA Hybrid Touch Screen
+ISO - Auto, 80, 100, 200, 400, 800, 1600, 3200
+Image - JPEG format 16M, 14MP, 12MW, 10M, 8M, 5M, 3M, 2MW, 1M
+Video - Full HD Video Recording (1920x1080/30p), 1280×720 (30fp), 640×480 (30fps), 240 web
+Video Output - AV
+Value-Added Features - Tag & Go(NFC/Wi-Fi) : Photo Beam, AutoShare, Remote View Finder, Mobile Link
+Wi-Fi Connectivity - MobileLink, Remote Viewfinder, SNS & Cloud (Facebook, YouTube, Flickr, Dropbox**), E-mail, Auto Backup, Samsung Link, S/W Upgrade Notifier, AutoShare
+Bundle PC software - i-Launcher
+Storage - MicroSD (up to 2GB guaranteed), MicroSDHC (up to 32GB guaranteed), MicroSDXC (up to 64GB guaranteed)
+Battery - SLB-10A
+Dimension (WxHxD) - 113.6 x 65.1 x 25.0 mm
+Weight - 216g (without battery)
+
+ADDITIONAL SPECIFICATION CONTENT
+Images Videos Tech Specs Related Articles Samsung WB350F Product Specifications Image Sensor 16.3 effective megapixel 1/2.3" BSI CMOS Lens 21x Optical Zoom Lens, 23mm Wide Angle, F2.8(W) ~ 5.9(T) IS OIS (Optical Image Stabilization) Display 75.0mm (3.0-inch) hVGA Hybrid Touch Screen ISO Auto, 80, 100, 200, 400, 800, 1600, 3200 Image JPEG format 16M, 14MP, 12MW, 10M, 8M, 5M, 3M, 2MW, 1M Video Full HD Video Recording (1920x1080/30p), 1280×720 (30fp), 640×480 (30fps), 240 web Video Output AV Value-Added Features Tag & Go(NFC/Wi-Fi) : Photo Beam, AutoShare, Remote View Finder, Mobile Link SMART Mode : Landscape, Action Freeze, Silhouette, Sunset, Fireworks, Light Trace, Beauty Face, Night, Macro Baby Monitor, Dual Capture Wi-Fi Connectivity MobileLink, Remote Viewfinder, SNS & Cloud (Facebook, YouTube, Flickr, Dropbox**), E-mail, Auto Backup, Samsung Link, S/W Upgrade Notifier, AutoShare Bundle PC software i-Launcher Storage MicroSD (up to 2GB guaranteed), MicroSDHC (up to 32GB guaranteed), MicroSDXC (up to 64GB guaranteed) Battery SLB-10A Dimension (WxHxD) 113.6 x 65.1 x 25.0 mm Weight 216g (without battery) *All functionality, features, specifications and other product information provided in this document including, but not limited to, the benefits, design, pricing, components, performance, availability, and capabilities of the product are subject to change without notice or obligation. About Samsung Electronics Co., Ltd. Samsung Electronics Co., Ltd. is a global leader in technology, opening new possibilities for people everywhere. Through relentless innovation and discovery, we are transforming the worlds of TVs, smartphones, tablets, PCs, cameras, home appliances, printers, LTE systems, medical devices, semiconductors and LED solutions. We employ 286,000 people across 80 countries with annual sales of US$216.7 billion. To discover more, please visit www.samsung.com
+
+Samsung WB350F Product Specifications Image Sensor 16.3 effective megapixel 1/2.3" BSI CMOS Lens 21x Optical Zoom Lens, 23mm Wide Angle, F2.8(W) ~ 5.9(T) IS OIS (Optical Image Stabilization) Display 75.0mm (3.0-inch) hVGA Hybrid Touch Screen ISO Auto, 80, 100, 200, 400, 800, 1600, 3200 Image JPEG format 16M, 14MP, 12MW, 10M, 8M, 5M, 3M, 2MW, 1M Video Full HD Video Recording (1920x1080/30p), 1280×720 (30fp), 640×480 (30fps), 240 web Video Output AV Value-Added Features Tag & Go(NFC/Wi-Fi) : Photo Beam, AutoShare, Remote View Finder, Mobile Link SMART Mode : Landscape, Action Freeze, Silhouette, Sunset, Fireworks, Light Trace, Beauty Face, Night, Macro Baby Monitor, Dual Capture Wi-Fi Connectivity MobileLink, Remote Viewfinder, SNS & Cloud (Facebook, YouTube, Flickr, Dropbox**), E-mail, Auto Backup, Samsung Link, S/W Upgrade Notifier, AutoShare Bundle PC software i-Launcher Storage MicroSD (up to 2GB guaranteed), MicroSDHC (up to 32GB guaranteed), MicroSDXC (up to 64GB guaranteed) Battery SLB-10A Dimension (WxHxD) 113.6 x 65.1 x 25.0 mm Weight 216g (without battery) *All functionality, features, specifications and other product information provided in this document including, but not limited to, the benefits, design, pricing, components, performance, availability, and capabilities of the product are subject to change without notice or obligation. About Samsung Electronics Co., Ltd. Samsung Electronics Co., Ltd. is a global leader in technology, opening new possibilities for people everywhere. Through relentless innovation and discovery, we are transforming the worlds of TVs, smartphones, tablets, PCs, cameras, home appliances, printers, LTE systems, medical devices, semiconductors and LED solutions. We employ 286,000 people across 80 countries with annual sales of US$216.7 billion. To discover more, please visit www.samsung.com
+
+--------------------------------------------------------------------------------

@@ -1,0 +1,30 @@
+DEVICE: Galaxy Tab S12+
+URL: https://www.samsungmobilepress.com/media-assets/galaxy-tab-s12
+
+SPECIFICATIONS
+Dimensions - 187.8 x 289.5 x 5.3 mm
+Weight - 553 g (Wi-Fi) , 555 g (5G)
+OS - Android 17, One UI 9
+Display - 12.6-inch*, 2800 x 1752, 120Hz, Dynamic AMOLED 2X *Measured diagonally, Galaxy Tab S12+'s screen size is 12.6" in the full rectangle and 12.5" accounting for the rounded corners. Actual viewable area is less due to the rounded corners.
+Brightness - Peak 1,600 nit / HBM 1,000 nit
+AP - MediaTek Dimensity 9500
+Memory & Storage - 12 GB + 512 GB, 12 GB + 256 GB, microSD up to 2 TB
+Battery / Charging - 10,600 mAh / 45W
+Network & Connectivity - 5G, Wi-Fi 6E, Bluetooth v6.0
+Camera - Rear: 13 MP Front: 12 MP ultra-wide
+Sound - Quad Speaker (4-channel Spatial Audio)
+S Pen - S Pen (BLE not supported) In-box
+Durability - IP68
+SIM - Dual SIM (pSIM + eSIM)
+Security - Fingerprint on Display
+Color - Gray, Silver
+Accessories - Pro Keyboard Book Cover Keyboard Slim Book Cover Frame Cover (Ultra only) Anti-Reflecting Screen Protector
+
+ADDITIONAL SPECIFICATION CONTENT
+Tablet & PC Galaxy Tab S12+
+
+Images Videos Tech Specs Related Articles Specifications Galaxy Tab S12+ (12.6-inch) Dimensions 187.8 x 289.5 x 5.3 mm Weight 553 g (Wi-Fi) , 555 g (5G) OS Android 17, One UI 9 Display 12.6-inch*, 2800 x 1752, 120Hz, Dynamic AMOLED 2X *Measured diagonally, Galaxy Tab S12+'s screen size is 12.6" in the full rectangle and 12.5" accounting for the rounded corners. Actual viewable area is less due to the rounded corners. Brightness Peak 1,600 nit / HBM 1,000 nit AP MediaTek Dimensity 9500 Memory & Storage 12 GB + 512 GB, 12 GB + 256 GB, microSD up to 2 TB Battery / Charging 10,600 mAh / 45W Network & Connectivity 5G, Wi-Fi 6E, Bluetooth v6.0 Camera Rear: 13 MP Front: 12 MP ultra-wide Sound Quad Speaker (4-channel Spatial Audio) S Pen S Pen (BLE not supported) In-box Durability IP68 SIM Dual SIM (pSIM + eSIM) Security Fingerprint on Display Color Gray, Silver Accessories Pro Keyboard Book Cover Keyboard Slim Book Cover Frame Cover (Ultra only) Anti-Reflecting Screen Protector *Specifications may vary by market. *All specifications and descriptions provided herein may be different from the actual specifications and descriptions for the product. Samsung reserves the right to make changes to this document and the product described herein, at any time, without obligation on Samsung to provide notification of such change. All functionality, features, specifications, GUI and other product information provided in this document including, but not limited to, the benefits, design, pricing, components, performance, availability and capabilities of the product are subject to change without notice or obligation. The contents within the screen are simulated images and are for demonstration purposes only.
+
+Specifications Galaxy Tab S12+ (12.6-inch) Dimensions 187.8 x 289.5 x 5.3 mm Weight 553 g (Wi-Fi) , 555 g (5G) OS Android 17, One UI 9 Display 12.6-inch*, 2800 x 1752, 120Hz, Dynamic AMOLED 2X *Measured diagonally, Galaxy Tab S12+'s screen size is 12.6" in the full rectangle and 12.5" accounting for the rounded corners. Actual viewable area is less due to the rounded corners. Brightness Peak 1,600 nit / HBM 1,000 nit AP MediaTek Dimensity 9500 Memory & Storage 12 GB + 512 GB, 12 GB + 256 GB, microSD up to 2 TB Battery / Charging 10,600 mAh / 45W Network & Connectivity 5G, Wi-Fi 6E, Bluetooth v6.0 Camera Rear: 13 MP Front: 12 MP ultra-wide Sound Quad Speaker (4-channel Spatial Audio) S Pen S Pen (BLE not supported) In-box Durability IP68 SIM Dual SIM (pSIM + eSIM) Security Fingerprint on Display Color Gray, Silver Accessories Pro Keyboard Book Cover Keyboard Slim Book Cover Frame Cover (Ultra only) Anti-Reflecting Screen Protector *Specifications may vary by market. *All specifications and descriptions provided herein may be different from the actual specifications and descriptions for the product. Samsung reserves the right to make changes to this document and the product described herein, at any time, without obligation on Samsung to provide notification of such change. All functionality, features, specifications, GUI and other product information provided in this document including, but not limited to, the benefits, design, pricing, components, performance, availability and capabilities of the product are subject to change without notice or obligation. The contents within the screen are simulated images and are for demonstration purposes only.
+
+--------------------------------------------------------------------------------
