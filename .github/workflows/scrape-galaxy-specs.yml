@@ -31,38 +31,70 @@ jobs:
       - name: Run scraper
         run: python scraper/scrape_samsung_specs.py --browser --split --delay 1.5
 
-      - name: Generate simple HTML index
+      - name: Generate Chatbase HTML index with all specifications
         run: |
           python - <<'PY'
+          import html
           from pathlib import Path
 
           output = Path("output")
-          files = sorted(output.glob("*.txt"))
-
-          rows = "".join(
-              f'<li><a href="{file.name}">{file.stem.replace("-", " ").title()}</a></li>'
-              for file in files
+          files = sorted(
+              (file for file in output.glob("*.txt") if file.name != "samsung_galaxy_specifications.txt"),
+              key=lambda file: file.stem.lower(),
           )
 
-          html = f"""<!doctype html>
+          toc_items = []
+          sections = []
+
+          for file in files:
+              device_id = file.stem
+              device_name = device_id.replace("-", " ").title()
+              text = file.read_text(encoding="utf-8").strip()
+
+              toc_items.append(f'<li><a href="#{html.escape(device_id)}">{html.escape(device_name)}</a></li>')
+
+              paragraphs = "\n".join(
+                  f"<p>{html.escape(paragraph.strip())}</p>"
+                  for paragraph in text.splitlines()
+                  if paragraph.strip()
+              )
+
+              sections.append(
+                  f'<section id="{html.escape(device_id)}">'
+                  f'<h2>{html.escape(device_name)}</h2>'
+                  f'{paragraphs}'
+                  f'</section>'
+              )
+
+          page = f"""<!doctype html>
           <html lang="en">
           <head>
             <meta charset="utf-8">
             <meta name="viewport" content="width=device-width, initial-scale=1">
-            <title>Samsung Galaxy Specifications</title>
+            <title>Samsung Galaxy Specifications - Complete Data</title>
             <style>
-              body {{ font-family: system-ui, sans-serif; max-width: 900px; margin: 40px auto; padding: 0 20px; }}
-              li {{ margin: 8px 0; }}
+              body {{ font-family: system-ui, sans-serif; max-width: 1100px; margin: 40px auto; padding: 0 20px; line-height: 1.5; }}
+              h1 {{ margin-bottom: 0.5rem; }}
+              h2 {{ margin-top: 2.5rem; border-bottom: 1px solid #ddd; padding-bottom: 0.4rem; }}
+              nav {{ background: #f6f8fa; border: 1px solid #ddd; border-radius: 8px; padding: 16px; }}
+              nav ul {{ columns: 3; margin: 0; padding-left: 20px; }}
+              li {{ margin: 4px 0; }}
+              p {{ white-space: pre-wrap; margin: 0.35rem 0; }}
             </style>
           </head>
           <body>
             <h1>Samsung Galaxy Specifications</h1>
-            <p>Machine-readable TXT specifications generated from Samsung Mobile Press for Chatbase ingestion.</p>
-            <ul>{rows}</ul>
+            <p>Complete machine-readable specifications from Samsung Mobile Press, generated for Chatbase ingestion. All device data is included directly on this page.</p>
+            <nav>
+              <h2>Device index</h2>
+              <ul>{''.join(toc_items)}</ul>
+            </nav>
+            <main>{''.join(sections)}</main>
           </body>
           </html>"""
 
-          (output / "index.html").write_text(html, encoding="utf-8")
+          (output / "index.html").write_text(page, encoding="utf-8")
+          print(f"Inlined {len(files)} specification files into {output / 'index.html'}")
           PY
 
       - name: Commit generated specifications
