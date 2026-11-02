@@ -1,0 +1,4 @@
+DEVICE: 502 Bad Gateway
+URL: https://www.samsungmobilepress.com/media-assets/galaxy_s10e
+
+--------------------------------------------------------------------------------
